@@ -20,7 +20,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".FilmActivity" />
-        <activity android:name=".ActeurActivity"></activity>
+        <activity android:name=".ActeurActivity" />
+        <activity android:name=".ZoekenActivity"></activity>
     </application>
 
 </manifest>
