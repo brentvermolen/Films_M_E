@@ -114,4 +114,28 @@ public class Methodes {
 
         return null;
     }
+
+    public static List<Film> FilterFilmsByName(String filter) {
+        List<Film> films = new ArrayList<>();
+
+        for (Film f : DAC.Films){
+            if (f.getNaam().toLowerCase().contains(filter.toLowerCase())){
+                films.add(f);
+            }
+        }
+
+        return films;
+    }
+
+    public static List<Acteur> FilterActeursByName(String filter) {
+        List<Acteur> acteurs = new ArrayList<>();
+
+        for (Acteur a : DAC.Acteurs){
+            if (a.getNaam().toLowerCase().contains(filter.toLowerCase())){
+                acteurs.add(a);
+            }
+        }
+
+        return acteurs;
+    }
 }

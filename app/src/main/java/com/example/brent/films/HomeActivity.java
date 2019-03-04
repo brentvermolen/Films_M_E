@@ -196,7 +196,8 @@ public class HomeActivity extends AppCompatActivity {
 
         switch (id){
             case R.id.action_search:
-                Toast.makeText(this, "Zoek", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(HomeActivity.this, ZoekenActivity.class);
+                startActivity(intent);
                 break;
             default:
                 super.onOptionsItemSelected(item);

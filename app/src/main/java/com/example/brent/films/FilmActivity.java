@@ -24,7 +24,7 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.brent.films.Class.ActorsGridView;
+import com.example.brent.films.Class.ActorsFilmGridView;
 import com.example.brent.films.Class.DAC;
 import com.example.brent.films.Class.FavorietenDAO;
 import com.example.brent.films.Class.FavorietenDb;
@@ -202,7 +202,7 @@ public class FilmActivity extends AppCompatActivity {
             }
         });
 
-        grdActors.setAdapter(new ActorsGridView(this, film.getActeurs()));
+        grdActors.setAdapter(new ActorsFilmGridView(this, film.getActeurs()));
 
         grdActors.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent,

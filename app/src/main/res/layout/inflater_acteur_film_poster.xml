@@ -29,6 +29,15 @@
             android:textStyle="bold"
             android:textSize="15dp"/>
 
+        <TextView
+            android:id="@+id/lblRol"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rol"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
+
     </LinearLayout>
 
 </RelativeLayout>
