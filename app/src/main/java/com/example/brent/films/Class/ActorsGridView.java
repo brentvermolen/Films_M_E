@@ -46,7 +46,7 @@ public class ActorsGridView extends BaseAdapter {
 
         if (convertView == null) {
             LayoutInflater inflater = (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            convertView = inflater.inflate(R.layout.inflater_acteur_film_poster, null);
+            convertView = inflater.inflate(R.layout.inflater_acteur_poster, null);
 
             viewHolder = new ViewHolder();
             viewHolder.imgPoster = convertView.findViewById(R.id.imgPoster);

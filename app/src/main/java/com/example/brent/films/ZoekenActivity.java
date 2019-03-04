@@ -2,10 +2,14 @@ package com.example.brent.films;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.EditText;
@@ -27,8 +31,9 @@ import java.util.Random;
 
 public class ZoekenActivity extends AppCompatActivity {
 
-    LinearLayout llZoekenFilms;
+    Toolbar mToolbar;
 
+    LinearLayout llZoekenFilms;
     LinearLayout llZoekenActeurs;
 
     ImageView imgRandHeader;
@@ -44,6 +49,14 @@ public class ZoekenActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_zoeken);
+
+        setTitle("");
+
+        mToolbar = findViewById(R.id.my_toolbar);
+        setSupportActionBar(mToolbar);
+        mToolbar.setBackgroundColor(Color.argb(100,255,255,255));
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         initViews();
         handleEvents();
@@ -85,7 +98,12 @@ public class ZoekenActivity extends AppCompatActivity {
                     }
                 });
                 films = Methodes.FilterFilmsByName(s.toString());
-                films = Methodes.SortFilmsByNameAndCollection(films);
+                films.sort(new Comparator<Film>() {
+                    @Override
+                    public int compare(Film o1, Film o2) {
+                        return o1.getNaam().compareTo(o2.getNaam());
+                    }
+                });
 
                 resetResultaten();
             }
@@ -96,18 +114,6 @@ public class ZoekenActivity extends AppCompatActivity {
     }
 
     private void resetResultaten() {
-        if (acteurs.size() == 0){
-            llZoekenActeurs.setVisibility(View.GONE);
-        }else {
-            llZoekenActeurs.setVisibility(View.VISIBLE);
-        }
-
-        if (films.size() == 0){
-            llZoekenFilms.setVisibility(View.GONE);
-        }else{
-            llZoekenActeurs.setVisibility(View.VISIBLE);
-        }
-
         grdFilms.setAdapter(new MoviesGridView(this, films));
         grdFilms.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent,
@@ -127,5 +133,40 @@ public class ZoekenActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_zoeken, menu);
+
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+
+        switch (id){
+            case R.id.action_toggle:
+                if (item.getTitle().equals("Zoek Acteurs")){
+                    item.setTitle("Zoek Films");
+                    item.setIcon(R.drawable.ic_movie);
+                    llZoekenFilms.setVisibility(View.GONE);
+                    llZoekenActeurs.setVisibility(View.VISIBLE);
+                }else{
+                    item.setTitle("Zoek Acteurs");
+                    item.setIcon(R.drawable.ic_person);
+                    llZoekenActeurs.setVisibility(View.GONE);
+                    llZoekenFilms.setVisibility(View.VISIBLE);
+                }
+                break;
+            case 16908332:
+                onBackPressed();
+                break;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+
+        return true;
     }
 }

@@ -106,7 +106,10 @@ public class FilmActivity extends AppCompatActivity {
         }
 
         lblTitel.setText(film.getNaam());
-        if (!film.getTagline().equals("")){
+        if (film.getTagline() == null){
+            film.setTagline("");
+        }
+        if (!(film.getTagline().equals(""))){
             lblTagline.setText(film.getTagline());
         }else{
             lblTagline.setVisibility(View.GONE);

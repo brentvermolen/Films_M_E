@@ -5,10 +5,10 @@
     tools:context=".HomeActivity">
 
     <item
-        android:id="@+id/action_search"
+        android:id="@+id/action_toggle"
         android:orderInCategory="200"
-        android:title="Geschiedenis"
-        android:icon="@drawable/ic_menu_search"
-        app:showAsAction="always"></item>
+        android:title="Zoek Acteurs"
+        android:icon="@drawable/ic_person"
+        app:showAsAction="ifRoom"></item>
 
 </menu>

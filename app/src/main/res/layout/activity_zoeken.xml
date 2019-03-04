@@ -79,6 +79,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:visibility="visible"
                 android:orientation="vertical">
 
                 <TextView
@@ -94,8 +95,9 @@
                     android:id="@+id/grdFilms"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:numColumns="1"></GridView>
-
+                    android:verticalSpacing="10dp"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"></GridView>
             </LinearLayout>
 
             <LinearLayout
@@ -103,6 +105,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:visibility="gone"
                 android:orientation="vertical">
 
                 <TextView
@@ -118,7 +121,9 @@
                     android:id="@+id/grdActeurs"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:numColumns="1"></GridView>
+                    android:verticalSpacing="10dp"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"></GridView>
 
             </LinearLayout>
 

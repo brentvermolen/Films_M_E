@@ -57,7 +57,7 @@ public class HomeActivity extends AppCompatActivity {
         setTitle("");
 
         mToolbar = (Toolbar) findViewById(R.id.my_toolbar);
-        mToolbar.setBackgroundColor(Color.argb(100,0,0,0));
+        mToolbar.setBackgroundColor(Color.argb(100,255,255,255));
         setSupportActionBar(mToolbar);
 
         currentlyShown = DAC.Films;
