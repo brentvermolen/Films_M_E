@@ -1,0 +1,92 @@
+[
+ {
+   "ID": 8,
+   "Naam": "Actie",
+   "Count": 168
+ },
+ {
+   "ID": 13,
+   "Naam": "Animatie",
+   "Count": 48
+ },
+ {
+   "ID": 15,
+   "Naam": "Avontuur",
+   "Count": 190
+ },
+ {
+   "ID": 4,
+   "Naam": "Drama",
+   "Count": 89
+ },
+ {
+   "ID": 14,
+   "Naam": "Familie",
+   "Count": 110
+ },
+ {
+   "ID": 9,
+   "Naam": "Fantasie",
+   "Count": 79
+ },
+ {
+   "ID": 20,
+   "Naam": "Historisch",
+   "Count": 7
+ },
+ {
+   "ID": 11,
+   "Naam": "Horror",
+   "Count": 7
+ },
+ {
+   "ID": 7,
+   "Naam": "Komedie",
+   "Count": 157
+ },
+ {
+   "ID": 10,
+   "Naam": "Misdaad",
+   "Count": 49
+ },
+ {
+   "ID": 17,
+   "Naam": "Muziek",
+   "Count": 13
+ },
+ {
+   "ID": 6,
+   "Naam": "Mysterie",
+   "Count": 26
+ },
+ {
+   "ID": 12,
+   "Naam": "Oorlog",
+   "Count": 9
+ },
+ {
+   "ID": 18,
+   "Naam": "Romantiek",
+   "Count": 29
+ },
+ {
+   "ID": 5,
+   "Naam": "Sciencefiction",
+   "Count": 57
+ },
+ {
+   "ID": 3,
+   "Naam": "Thriller",
+   "Count": 100
+ },
+ {
+   "ID": 16,
+   "Naam": "TV Film",
+   "Count": 1
+ },
+ {
+   "ID": 21,
+   "Naam": "Western",
+   "Count": 6
+ }
+]

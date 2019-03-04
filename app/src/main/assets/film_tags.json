@@ -1,0 +1,4582 @@
+[
+ {
+   "Film_ID": 13,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 13,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 13,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 22,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 22,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 22,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 58,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 58,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 58,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 69,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 69,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 69,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 74,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 74,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 74,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 85,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 85,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 87,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 87,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 89,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 89,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 98,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 98,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 98,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 105,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 105,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 105,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 105,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 118,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 118,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 118,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 118,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 120,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 120,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 120,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 121,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 121,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 121,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 122,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 122,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 122,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 161,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 161,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 163,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 163,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 165,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 165,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 165,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 165,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 196,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 196,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 196,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 196,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 217,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 217,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 218,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 218,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 218,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 253,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 253,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 253,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 254,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 254,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 254,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 274,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 274,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 274,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 280,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 280,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 280,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 285,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 285,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 285,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 296,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 296,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 296,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 298,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 298,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 310,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 310,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 326,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 326,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 326,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 326,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 326,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 326,
+   "Tag_ID": 11
+ },
+ {
+   "Film_ID": 329,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 329,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 330,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 330,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 330,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 331,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 331,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 331,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 331,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 411,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 411,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 411,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 424,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 424,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 424,
+   "Tag_ID": 20
+ },
+ {
+   "Film_ID": 425,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 425,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 425,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 425,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 433,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 433,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 433,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 435,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 435,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 435,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 435,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 497,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 497,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 497,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 534,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 534,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 534,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 564,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 564,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 564,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 591,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 591,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 597,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 597,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 597,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 601,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 601,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 601,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 601,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 602,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 602,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 602,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 603,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 603,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 604,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 604,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 604,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 604,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 605,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 605,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 605,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 605,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 607,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 607,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 607,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 607,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 608,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 608,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 608,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 608,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 616,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 616,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 616,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 616,
+   "Tag_ID": 20
+ },
+ {
+   "Film_ID": 621,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 646,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 646,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 646,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 652,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 652,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 652,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 657,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 657,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 657,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 658,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 658,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 658,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 660,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 660,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 660,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 667,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 667,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 667,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 668,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 668,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 668,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 671,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 671,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 671,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 672,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 672,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 672,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 673,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 673,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 673,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 674,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 674,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 674,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 675,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 675,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 675,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 675,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 680,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 680,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 681,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 681,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 681,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 682,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 682,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 682,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 691,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 691,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 691,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 694,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 694,
+   "Tag_ID": 11
+ },
+ {
+   "Film_ID": 698,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 698,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 698,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 698,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 699,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 699,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 699,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 700,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 700,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 700,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 709,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 709,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 709,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 710,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 710,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 710,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 714,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 714,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 714,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 744,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 744,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 744,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 767,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 767,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 767,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 771,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 771,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 772,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 772,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 772,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 772,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 787,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 787,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 787,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 787,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 788,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 788,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 788,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 807,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 807,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 807,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 854,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 854,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 854,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 854,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 857,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 857,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 857,
+   "Tag_ID": 20
+ },
+ {
+   "Film_ID": 920,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 920,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 920,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 920,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 950,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 950,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 950,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 950,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 953,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 953,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 954,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 954,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 954,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 955,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 955,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 955,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 956,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 956,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 956,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 1265,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 1265,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 1265,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 1593,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 1593,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 1593,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 1593,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 1593,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 1624,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 1634,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 1634,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 1634,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 1734,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 1734,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 1734,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 1735,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 1735,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 1735,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 1738,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 1738,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 1738,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 1788,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 1788,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 1865,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 1865,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 1865,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 1954,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 1954,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 2022,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 2022,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 2048,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 2048,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 2059,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 2059,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 2059,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 2059,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 2109,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 2109,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 2109,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 2109,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 2268,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 2268,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 2309,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 2309,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 2309,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 2454,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 2454,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 2454,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 2501,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 2501,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 2501,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 2501,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 2502,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 2502,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 2502,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 2503,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 2503,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 2503,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 2503,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 2698,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 2698,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 2698,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 3050,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 3050,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 3050,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 4523,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 4523,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 4523,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 4523,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 5174,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 5174,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 5174,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 5174,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 5175,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 5175,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 5175,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 5175,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 5255,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 5255,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 5255,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 5255,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 5915,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 5915,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 6038,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 6038,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 6038,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 6038,
+   "Tag_ID": 21
+ },
+ {
+   "Film_ID": 6477,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 6477,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 6477,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 6477,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 6477,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 6479,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 6479,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 6479,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 6479,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 6479,
+   "Tag_ID": 11
+ },
+ {
+   "Film_ID": 6637,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 6637,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 6637,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 6637,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 7214,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 7485,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 7485,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 7485,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 7485,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 7485,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 7518,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 7518,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 7518,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 7551,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 7551,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 7551,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 7840,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 7840,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 7840,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 7840,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 8009,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 8009,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 8009,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 8247,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 8247,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 8247,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 8355,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 8355,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 8355,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 8355,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 8457,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 8584,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 8584,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 8584,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 8584,
+   "Tag_ID": 21
+ },
+ {
+   "Film_ID": 8619,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 8619,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 8844,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 8844,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 8844,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 8920,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 8920,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 8920,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 8960,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 8960,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 8961,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 8961,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 8961,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 8961,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 8961,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9290,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9290,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9315,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 9315,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 9315,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 9339,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 9339,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9339,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 9339,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 9384,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9384,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 9396,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9396,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9477,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 9477,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9477,
+   "Tag_ID": 20
+ },
+ {
+   "Film_ID": 9486,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9486,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 9486,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9502,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9502,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 9502,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 9502,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9513,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9513,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 9513,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 9522,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9522,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 9543,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 9543,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 9543,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9543,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 9584,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 9584,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9584,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 9584,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9600,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9600,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 9671,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9671,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9737,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 9737,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9737,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 9737,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 9806,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 9806,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 9806,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 9806,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 9820,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 9820,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9820,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 9820,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 9836,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 9836,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 9836,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10022,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 10022,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 10022,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10022,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 10022,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10137,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10137,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 10137,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 10137,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10140,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 10140,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10140,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 10201,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10204,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10204,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 10204,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 10339,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 10339,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 10527,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10527,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 10527,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10528,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 10528,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 10528,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 10528,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 10555,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10555,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 10555,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 10555,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10661,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10661,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 10681,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 10681,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10719,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10719,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 10719,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10764,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 10764,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 10764,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 10764,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 10947,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 10947,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10947,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10947,
+   "Tag_ID": 16
+ },
+ {
+   "Film_ID": 10947,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 10996,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 10996,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 10996,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 10996,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 11565,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 11565,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 11665,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 11665,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 11665,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 11887,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 11887,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 11887,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 11887,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 11887,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 12153,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 12155,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 12155,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 12155,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 12222,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 12222,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 12222,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 12222,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 12222,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 12444,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 12444,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 12444,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 12445,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 12445,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 12445,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 13161,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 13448,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 13448,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 13649,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 13649,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 13649,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 13649,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 14160,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 14160,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 14160,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 14160,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 14161,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 14161,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 14161,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 14574,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 14574,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 15121,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 15121,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 15121,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 15121,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 15739,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 15739,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 15739,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 15739,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 16996,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 18360,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 18360,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 18360,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 18360,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 18360,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 18823,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 18823,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 18823,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 19995,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 19995,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 19995,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 19995,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 22881,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 23172,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 23172,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 23172,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 23483,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 23483,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 27205,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 27205,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 27205,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 27205,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 27205,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 27573,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 27573,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 27573,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 27581,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 27581,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 27581,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 28178,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 28178,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 34544,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 34544,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 34544,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 34544,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 34544,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 35056,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 36643,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 36643,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 36643,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 36669,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 36669,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 36669,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 36670,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 36670,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 36670,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 37165,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 37165,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 37724,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 37724,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 37724,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 37834,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 37834,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 38365,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 38575,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 38575,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 38575,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 38575,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 38745,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 38745,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 38745,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 38745,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 39513,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 39513,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 39513,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 39514,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 39514,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 39514,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 39514,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 39514,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 41154,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 41154,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 41154,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 41733,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 41733,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 43074,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 43074,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 43074,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 44826,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 44826,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 44826,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 44912,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 44912,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 44912,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 44912,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 45612,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 45612,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 45612,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 47933,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 47933,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 47933,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 48988,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 48988,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 49013,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 49013,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 49013,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 49013,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 49040,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 49040,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 49051,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 49051,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 49051,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 49444,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 49444,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 49527,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 49527,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 49527,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 49529,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 49529,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 49529,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 49530,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 49530,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 49530,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 50544,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 50544,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 50546,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 50546,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 51540,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 51540,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 51876,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 51876,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 51876,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 52449,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 52451,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 52451,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 52451,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 56292,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 56292,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 56292,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 57158,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 57158,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 57165,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 57165,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 57165,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 57201,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 57201,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 57201,
+   "Tag_ID": 21
+ },
+ {
+   "Film_ID": 57800,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 57800,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 57800,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 57800,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 58224,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 58224,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 58233,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 58233,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 58233,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 58233,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 58233,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 58574,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 58574,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 58574,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 58574,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 59108,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 59108,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 59859,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 59859,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 59859,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 59965,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 59965,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 59965,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 59967,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 59967,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 59967,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 61791,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 61791,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 61791,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 61791,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 62764,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 62764,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 62764,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 62764,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 62764,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 64682,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 64682,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 64688,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 64688,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 64688,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 65759,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 65759,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 65759,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 68179,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 68179,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 68179,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 68179,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 68179,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 72105,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 72105,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 72190,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 72190,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 72190,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 72190,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 72190,
+   "Tag_ID": 11
+ },
+ {
+   "Film_ID": 72545,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 72545,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 72545,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 75656,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 75656,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 75780,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 75780,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 75780,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 76203,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 76203,
+   "Tag_ID": 20
+ },
+ {
+   "Film_ID": 77338,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 77338,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 80274,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 80274,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 80274,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 80321,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 80321,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 80321,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 81005,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 81005,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 81005,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 81005,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 82700,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 82700,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 82700,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 86834,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 86834,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 87101,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 87101,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 87101,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 87101,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 87502,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 87827,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 87827,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 87827,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 88751,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 88751,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 88751,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 88751,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 88751,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 102651,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 102651,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 102651,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 102651,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 102651,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 106646,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 106646,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 106646,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 109414,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 109414,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 109445,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 109445,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 109445,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 114150,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 114150,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 114150,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 116149,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 116149,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 116149,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 116149,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 116711,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 116711,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 116711,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 116711,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 116741,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 119450,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 119450,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 119450,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 119450,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 122917,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 122917,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 122917,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 127380,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 127380,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 127380,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 127380,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 135397,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 135397,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 135397,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 135397,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 136795,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 136795,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 136795,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 136799,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 136799,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 136799,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 136799,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 136799,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 136799,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 137106,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 137106,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 137106,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 137106,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 137106,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 137116,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 137116,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 137116,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 137116,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 138832,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 138832,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 140300,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 140300,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 140300,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 140300,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 140300,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 146216,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 146216,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 146216,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 146216,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 150540,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 150540,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 150540,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 150540,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 152601,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 152601,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 152601,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 157336,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 157336,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 157336,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 157353,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 157353,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 157353,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 157353,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 166426,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 166426,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 166426,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 166426,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 177677,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 177677,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 177677,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 181533,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 181533,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 181533,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 181533,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 187017,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 187017,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 187017,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 188161,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 188161,
+   "Tag_ID": 21
+ },
+ {
+   "Film_ID": 192141,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 192141,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 193893,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 196867,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 196867,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 196867,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 198184,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 198184,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 198184,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 201386,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 203819,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 203819,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 205587,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 205775,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 205775,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 205775,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 205775,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 205775,
+   "Tag_ID": 20
+ },
+ {
+   "Film_ID": 206647,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 206647,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 206647,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 207703,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 207703,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 207703,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 207703,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 207932,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 207932,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 207932,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 211672,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 211672,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 211672,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 211672,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 214756,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 225565,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 225565,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 227159,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 238615,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 238615,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 238615,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 241259,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 241259,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 241259,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 253412,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 253412,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 254470,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 254470,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 257445,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 257445,
+   "Tag_ID": 11
+ },
+ {
+   "Film_ID": 257445,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 258509,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 258509,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 258509,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 258509,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 259316,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 259316,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 259316,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 259694,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 259694,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 260513,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 260513,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 260513,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 260513,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 260514,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 260514,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 260514,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 260514,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 267935,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 267935,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 267935,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 268920,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 268920,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 268920,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 269149,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 269149,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 269149,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 269149,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 272878,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 272878,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 272878,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 273248,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 273248,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 273248,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 273248,
+   "Tag_ID": 21
+ },
+ {
+   "Film_ID": 274167,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 274857,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 274857,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 274857,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 277834,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 277834,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 277834,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 277834,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 278154,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 278154,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 278154,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 278154,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 281338,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 281338,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 281338,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 283366,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 283366,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 283366,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 283366,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 286217,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 286217,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 286217,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 289720,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 291805,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 291805,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 291805,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 291805,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 291805,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 291805,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 293167,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 293167,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 293167,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 293863,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 293863,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 293863,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 294272,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 294272,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 294272,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 295693,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 295693,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 295693,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 296096,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 296096,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 296524,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 296524,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 302699,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 302699,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 302699,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 308504,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 308504,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 313369,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 313369,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 313369,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 316029,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 321612,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 321612,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 321612,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 322240,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 322240,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 322240,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 324668,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 324668,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 328111,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 328111,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 328111,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 328111,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 329865,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 329865,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 329865,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 329865,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 331962,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 331962,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 331962,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 332562,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 332562,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 332562,
+   "Tag_ID": 18
+ },
+ {
+   "Film_ID": 333484,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 333484,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 333484,
+   "Tag_ID": 21
+ },
+ {
+   "Film_ID": 335797,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 335797,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 335797,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 335797,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 335797,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 338952,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 338952,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 338952,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 339403,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 339403,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 339846,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 339846,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 343611,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 343668,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 343668,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 346364,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 346364,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 346364,
+   "Tag_ID": 11
+ },
+ {
+   "Film_ID": 346648,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 346648,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 346648,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 346648,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 351286,
+   "Tag_ID": 5
+ },
+ {
+   "Film_ID": 351286,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 351286,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 353081,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 353081,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 353081,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 353486,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 353486,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 353486,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 353486,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 353616,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 353616,
+   "Tag_ID": 17
+ },
+ {
+   "Film_ID": 374720,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 374720,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 374720,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 374720,
+   "Tag_ID": 12
+ },
+ {
+   "Film_ID": 374720,
+   "Tag_ID": 20
+ },
+ {
+   "Film_ID": 381288,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 381288,
+   "Tag_ID": 11
+ },
+ {
+   "Film_ID": 390043,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 390043,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 392044,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 392044,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 392044,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 395993,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 400928,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 400928,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 400928,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 407436,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 407436,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 412988,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 412988,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 412988,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 419680,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 420814,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 420814,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 420814,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 420814,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 420814,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 446021,
+   "Tag_ID": 3
+ },
+ {
+   "Film_ID": 446021,
+   "Tag_ID": 4
+ },
+ {
+   "Film_ID": 446021,
+   "Tag_ID": 6
+ },
+ {
+   "Film_ID": 446021,
+   "Tag_ID": 10
+ },
+ {
+   "Film_ID": 446894,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 446894,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 446894,
+   "Tag_ID": 13
+ },
+ {
+   "Film_ID": 446894,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 446894,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 455980,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 460668,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 463272,
+   "Tag_ID": 7
+ },
+ {
+   "Film_ID": 463272,
+   "Tag_ID": 8
+ },
+ {
+   "Film_ID": 463272,
+   "Tag_ID": 14
+ },
+ {
+   "Film_ID": 463272,
+   "Tag_ID": 15
+ },
+ {
+   "Film_ID": 463821,
+   "Tag_ID": 9
+ },
+ {
+   "Film_ID": 463821,
+   "Tag_ID": 14
+ }
+]
