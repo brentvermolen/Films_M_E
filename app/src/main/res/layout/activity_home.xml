@@ -56,7 +56,6 @@
             android:scrollbarAlwaysDrawHorizontalTrack="true">
 
             <LinearLayout
-                android:id="@+id/llGenres"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/colorPrimaryDark"
@@ -86,6 +85,16 @@
                     android:paddingBottom="4dp"
                     android:paddingLeft="20dp"
                     android:paddingRight="20dp"/>
+
+                <LinearLayout
+                    android:id="@+id/llGenres"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+
+
+                </LinearLayout>
 
 
             </LinearLayout>

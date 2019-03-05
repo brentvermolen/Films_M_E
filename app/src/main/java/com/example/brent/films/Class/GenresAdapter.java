@@ -34,8 +34,6 @@ public class GenresAdapter extends BaseAdapter {
 
         this.tags = DAC.Tags;
         this.tags.addAll(dao.getOwnTags());
-
-        this.onzichtbareTags = dao.getExistingTags();
     }
 
     public int getCount() {
@@ -62,6 +60,8 @@ public class GenresAdapter extends BaseAdapter {
 
     public View getView(final int position, View convertView, ViewGroup parent) {
         ViewHolder viewHolder;
+
+        this.onzichtbareTags = dao.getExistingTags();
 
         if (convertView == null) {
             LayoutInflater inflater = (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);

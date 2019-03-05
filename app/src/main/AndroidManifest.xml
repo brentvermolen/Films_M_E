@@ -12,17 +12,18 @@
         <activity android:name=".HomeActivity" />
         <activity
             android:name=".SplashScreen"
-            android:noHistory="true">
+            android:noHistory="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FilmActivity" />
-        <activity android:name=".ActeurActivity" />
-        <activity android:name=".ZoekenActivity" />
-        <activity android:name=".GenresActivity"></activity>
+        <activity android:name=".FilmActivity" android:screenOrientation="portrait" />
+        <activity android:name=".ActeurActivity" android:screenOrientation="portrait" />
+        <activity android:name=".ZoekenActivity" android:screenOrientation="portrait" />
+        <activity android:name=".GenresActivity" android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>

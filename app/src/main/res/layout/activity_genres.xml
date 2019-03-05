@@ -71,6 +71,7 @@
                     android:textColor="@color/textcolor_btn_tag"
                     android:textAllCaps="false"
                     android:src="@drawable/ic_add_green"
+                    android:visibility="invisible"
                     android:scaleType="centerCrop"
                     android:minHeight="0dp"
                     android:paddingTop="4dp"

@@ -6,6 +6,7 @@ import android.content.res.ColorStateList;
 import android.content.res.XmlResourceParser;
 import android.graphics.Bitmap;
 import android.graphics.Color;
+import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -22,6 +23,7 @@ import android.widget.LinearLayout;
 import com.example.brent.films.Class.DAC;
 import com.example.brent.films.Class.FavorietenDAO;
 import com.example.brent.films.Class.FilmsDb;
+import com.example.brent.films.Class.GenresDAO;
 import com.example.brent.films.Class.MoviesGridView;
 import com.example.brent.films.Class.Methodes;
 import com.example.brent.films.Model.Collectie;
@@ -37,7 +39,8 @@ import java.util.Random;
 public class HomeActivity extends AppCompatActivity {
     Toolbar mToolbar;
 
-    FavorietenDAO dao;
+    FavorietenDAO favorietenDAO;
+    GenresDAO genresDAO;
 
     ImageView imgRandHeader;
 
@@ -48,6 +51,8 @@ public class HomeActivity extends AppCompatActivity {
     GridView grdMovies;
 
     List<Film> currentlyShown;
+
+    private List<Button> btns = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,7 +66,8 @@ public class HomeActivity extends AppCompatActivity {
 
         currentlyShown = DAC.Films;
 
-        dao = FilmsDb.getDatabase(this).favorietenDAO();
+        favorietenDAO = FilmsDb.getDatabase(this).favorietenDAO();
+        genresDAO = FilmsDb.getDatabase(this).genresDAO();
 
         initViews();
         handleEvents();
@@ -88,8 +94,56 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-        final List<Button> btns = new ArrayList<>();
-        for(final Tag tag : DAC.Tags){
+        setGenreBar();
+
+        btnAlleFilms = (Button) findViewById(R.id.btnTagAlle);
+        btnAlleFilms.setEnabled(false);
+        btnAlleFilms.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                for(Button btn : btns){
+                btn.setEnabled(true);
+            }
+            btnFavorieten.setEnabled(true);
+                btnAlleFilms.setEnabled(false);
+                showFilms(DAC.Films);
+            }
+        });
+
+        btnFavorieten = (ImageButton) findViewById(R.id.btnTagFav);
+        btnFavorieten.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                for(Button btn : btns){
+                    btn.setEnabled(true);
+                }
+                btnAlleFilms.setEnabled(true);
+                btnFavorieten.setEnabled(false);
+
+                List<Film> favo = favorietenDAO.getAll();
+                favo.sort(new Comparator<Film>() {
+                    @Override
+                    public int compare(Film o1, Film o2) {
+                        return o1.getNaam().compareTo(o2.getNaam());
+                    }
+                });
+
+                showFilms(favo);
+            }
+        });
+
+        grdMovies = (GridView) findViewById(R.id.grdMovies);
+        showFilms(currentlyShown);
+    }
+
+    private void setGenreBar() {
+        llGenres.removeAllViews();
+        btns.clear();
+
+        List<Tag> tags = new ArrayList<>(DAC.Tags);
+        tags.removeAll(genresDAO.getExistingTags());
+
+        for(final Tag tag : tags){
             final Button btnGenre = new Button(this, null, 0, R.style.btnTag);
             btnGenre.setId(tag.getID());
             btns.add(btnGenre);
@@ -122,45 +176,6 @@ public class HomeActivity extends AppCompatActivity {
 
             llGenres.addView(btnGenre);
         }
-
-        btnAlleFilms = (Button) findViewById(R.id.btnTagAlle);
-        btnAlleFilms.setEnabled(false);
-        btnAlleFilms.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                for(Button btn : btns){
-                btn.setEnabled(true);
-            }
-            btnFavorieten.setEnabled(true);
-                btnAlleFilms.setEnabled(false);
-                showFilms(DAC.Films);
-            }
-        });
-
-        btnFavorieten = (ImageButton) findViewById(R.id.btnTagFav);
-        btnFavorieten.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                for(Button btn : btns){
-                    btn.setEnabled(true);
-                }
-                btnAlleFilms.setEnabled(true);
-                btnFavorieten.setEnabled(false);
-
-                List<Film> favo = dao.getAll();
-                favo.sort(new Comparator<Film>() {
-                    @Override
-                    public int compare(Film o1, Film o2) {
-                        return o1.getNaam().compareTo(o2.getNaam());
-                    }
-                });
-
-                showFilms(favo);
-            }
-        });
-
-        grdMovies = (GridView) findViewById(R.id.grdMovies);
-        showFilms(currentlyShown);
     }
 
     private void handleEvents() {
@@ -200,12 +215,21 @@ public class HomeActivity extends AppCompatActivity {
                 break;
             case R.id.action_genres:
                 Intent intent1 = new Intent(HomeActivity.this, GenresActivity.class);
-                startActivity(intent1);
+                startActivityForResult(intent1, 1);
                 break;
             default:
                 super.onOptionsItemSelected(item);
         }
 
         return true;
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        switch (requestCode){
+            case 1:
+                genresDAO = FilmsDb.getDatabase(this).genresDAO();
+                setGenreBar();
+        }
     }
 }
