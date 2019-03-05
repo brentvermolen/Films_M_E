@@ -1,4 +1,4 @@
-﻿[
+[
  {
    "ID": 7840,
    "Naam": "10,000 BC",
@@ -34,6 +34,18 @@
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/c3QLciew2ftFwT3m2t1WbHyY5qo.jpg",
    "CollectieID": 0
+ },
+ {
+   "ID": 584,
+   "Naam": "2 Fast 2 Furious",
+   "ReleaseDate": "2003-06-05",
+   "Tagline": "How Fast Do You Want It?",
+   "Duur": 107,
+   "Omschrijving": "Brian O'Connor, een agent die in ongenade is gevallen, betaalt een zware prijs voor zijn snelheidsverslaving. Voor zover zijn bazen denken, heeft het heethoofd één van de grootste undercoveroperaties ooit verknald. Na het verliezen van zijn badge, krijgt O'Connor nu nog één allerlaatste kans. De politie in Miami heeft dringend zijn hulp nodig om Carter Verone, een flashy zakenman die zijn import- en exportbedrijf gebruikt om geld wit te wassen, op te pakken. O'Connor aanvaardt het voorstel, op voorwaarde dat hij op pad mag met zijn jeugdvriend Roman Pearce, die net als hij bezeten is van snelle wagens.",
+   "TrailerId": "F_VIM03DXWI",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/pRlDjkBTFNgMpKLfhFb4nsPQNUl.jpg",
+   "CollectieID": 9485
  },
  {
    "ID": 14161,
@@ -72,6 +84,42 @@
    "CollectieID": 212562
  },
  {
+   "ID": 17979,
+   "Naam": "A Christmas Carol",
+   "ReleaseDate": "2009-11-04",
+   "Tagline": "Season's Greedings",
+   "Duur": 96,
+   "Omschrijving": "Ebenezer Scrooge (Jim Carrey) begint de kerstdagen zoals gewoonlijk met krenterige minachting naar zijn trouwe hulp en snauwend naar zijn vrolijke neef. Maar de geesten van zijn Kerst- verleden,- heden en -toekomst nemen hem mee op een opzienbarende reis waarbij de oude Scrooge, met veel tegenzin, de waarheid onder ogen moet zien. Hierdoor realiseert hij zich dat hij zijn hart moet openen voordat het te laat is, om alle ongelukkige jaren weer goed te kunnen maken",
+   "TrailerId": "VZ3lr3urgDU",
+   "Toegevoegd": "2018-11-13 03:19:40.150",
+   "PosterPath": "/jeOCcjUAcSYleVwhsaKEPT4CYwF.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 850,
+   "Naam": "A Christmas Story",
+   "ReleaseDate": "1983-11-18",
+   "Tagline": "Peace, Harmony, Comfort and Joy... Maybe Next Year.",
+   "Duur": 94,
+   "Omschrijving": "Ralphie, een jonge jongen die opgroeit in de jaren '40, droomt ervan om een Red Ryder BB geweer te hebben. Hij probeert de wereld er van te overtuigen dat die het perfecte kerstcadeau zou zijn. Hij stuit echter op weerstand bij zijn ouders, zijn leraar, en zelfs bij de Kerstman zelf.",
+   "TrailerId": null,
+   "Toegevoegd": "2018-11-13 03:19:31.043",
+   "PosterPath": "/1dSFarRSXwMjFODxPTwyaiNZotF.jpg",
+   "CollectieID": 201873
+ },
+ {
+   "ID": 47964,
+   "Naam": "A Good Day to Die Hard",
+   "ReleaseDate": "2013-02-06",
+   "Tagline": "Yippee Ki-Yay Mother Russia",
+   "Duur": 98,
+   "Omschrijving": "John McClane reist af naar Rusland om zijn vervreemde zoon te helpen. Die is betrokken bij de gevangenisuitbraak van een Russische leider die een staatsgreep wil plegen. Vader en zoon moeten alles op alles zetten om zichzelf en elkaar in leven te houden en de werelddemocratie te beschermen.",
+   "TrailerId": "jTK5dZp8GYc",
+   "Toegevoegd": "2018-12-19 12:48:48.320",
+   "PosterPath": "/jmY3URoNIeYqVrsYaeYCoDrzaPq.jpg",
+   "CollectieID": 1570
+ },
+ {
    "ID": 188161,
    "Naam": "A Million Ways to Die in the West",
    "ReleaseDate": "2014-05-22",
@@ -94,6 +142,18 @@
    "Toegevoegd": "2019-02-08 21:22:17.087",
    "PosterPath": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
    "CollectieID": 0
+ },
+ {
+   "ID": 707,
+   "Naam": "A View to a Kill",
+   "ReleaseDate": "1985-05-24",
+   "Tagline": "Has James Bond finally met his match?",
+   "Duur": 131,
+   "Omschrijving": "Een speciale chip is gestolen van de Russen en is identiek aan een Brits design, die bestand is tegen de straling van een nucleaire ontploffing. De Britse geheime dienst verdenkt Max Zorin van het stelen van de chip. James Bond wordt gestuurd om het uit te zoeken. Hij ontdekt dat Zorin vele chips produceert en een duivels plan heeft bedacht om de totale chipproductie in handen te krijgen.",
+   "TrailerId": "buOK9kJIJA4",
+   "Toegevoegd": "2018-12-14 16:58:05.840",
+   "PosterPath": "/gxa9PAyNB14TJydor9Onj0Fu9br.jpg",
+   "CollectieID": 645
  },
  {
    "ID": 59965,
@@ -228,6 +288,30 @@
    "CollectieID": 0
  },
  {
+   "ID": 51052,
+   "Naam": "Arthur Christmas",
+   "ReleaseDate": "2011-02-22",
+   "Tagline": "Ever wonder how 2 Billion presents get delivered all in 1 night?",
+   "Duur": 97,
+   "Omschrijving": "Arthur houdt van alles wat met kerst te maken heeft, sterker nog: hij is de enige in zijn familie die nog steeds is gefascineerd door de ware magie van dit feest. En dat wil wat zeggen, want hij is de zoon van de kerstman! Zijn broer Steve heeft het kerstgebeuren de efficiëntie van een militaristische operatie meegegeven, terwijl de kerstman zelf alleen maar dénkt dat hij de boel runt...",
+   "TrailerId": "uI1OHqOCvMY",
+   "Toegevoegd": "2018-11-13 03:19:16.447",
+   "PosterPath": "/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 2899,
+   "Naam": "Asterix & Obelix: Missie Cleopatra",
+   "ReleaseDate": "2002-01-29",
+   "Tagline": null,
+   "Duur": 108,
+   "Omschrijving": "Cleopatra wil aan Julius Caesar bewijzen dat het volk van Egypte nog altijd het grootste volk ter wereld is. Ze gaat een weddenschap met hem aan om een paleis in Alexandrië te bouwen in drie maanden. De bijna onmogelijke taak dit te verwezenlijken valt te beurt aan Tekenis. Bang om in de maag van een krokodil te verdwijnen roept hij de hulp in van de druïde Panoramix. Samen met Asterix en Obelix gaan ze de strijd aan om het paleis op tijd af te krijgen. Ze worden echter dwars gezeten door Astmagoedis (de rivaal van Tekenis) en door Julius Caesar zelf.",
+   "TrailerId": "XlhihCd6qtw",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/q63hMH5ZNN50zlp02zcnY0scwwT.jpg",
+   "CollectieID": 2396
+ },
+ {
    "ID": 19995,
    "Naam": "Avatar",
    "ReleaseDate": "2009-12-10",
@@ -360,6 +444,30 @@
    "CollectieID": 0
  },
  {
+   "ID": 5559,
+   "Naam": "Bee Movie",
+   "ReleaseDate": "2007-10-28",
+   "Tagline": "Born to bee wild.",
+   "Duur": 91,
+   "Omschrijving": "Barry B. Benson is een jonge, pas afgestudeerde bij, die zoals alle bijen slechts één carrièrekeus heeft: 'honing'. Ontgoocheld als hij is trekt hij de wijde wereld in om daar gered te worden door de bloemiste Vanessa. Daar ontdekt Barry dat de mensen de consumenten van al de honing zijn en gaat daarom aan het werk om de mensheid van het stelen van de honing aan te klagen...",
+   "TrailerId": "FFGaS6MDknY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/QhbOzpYfBOwrRiuTu9otPk919R.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 177572,
+   "Naam": "Big Hero 6",
+   "ReleaseDate": "2014-10-24",
+   "Tagline": null,
+   "Duur": 102,
+   "Omschrijving": "Big Hero 6 draait om Hiro Hamada, een wonderkind en robotica-expert. Hij raakt betrokken bij een crimineel plan dat de hectische, hightech stad San Fransokyo dreigt te vernietigen. Met de hulp van zijn beste vriend – de robot Baymax – sluit Hiro zich aan bij een team van onervaren misdaadbestrijders om de stad te redden. Gebaseerd op de gelijknamige Marvel comics.",
+   "TrailerId": "OvgyXKDXdZY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/9gLu47Zw5ertuFTZaxXOvNfy78T.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 9600,
    "Naam": "Big Momma's House",
    "ReleaseDate": "2000-05-31",
@@ -381,6 +489,18 @@
    "TrailerId": "8RkSH3iCZDs",
    "Toegevoegd": "2018-08-25 15:34:09.460",
    "PosterPath": "/tOl6hzfFHdNcL7SxopC2Vbs4mgK.jpg",
+   "CollectieID": 44979
+ },
+ {
+   "ID": 38322,
+   "Naam": "Big Mommas: Like Father, Like Son",
+   "ReleaseDate": "2011-02-16",
+   "Tagline": "Momma's got back-up.",
+   "Duur": 107,
+   "Omschrijving": "Malcolm moet opnieuw in actie komen wanneer zijn stiefzoon Trent getuige is geweest van een moord. Hij en Trent gaan daarom undercover op een kunstacademie voor jongedames, als Big Momma en Charmaine. Ondertussen zoeken ze door naar de moordenaar, maar die is ook op zoek naar hen...",
+   "TrailerId": "o4rdlG6odfk",
+   "Toegevoegd": "2018-09-19 03:38:53.093",
+   "PosterPath": "/tm2EddDwAfH79K4WAmSnvpHwoje.jpg",
    "CollectieID": 44979
  },
  {
@@ -408,6 +528,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 85350,
+   "Naam": "Boyhood",
+   "ReleaseDate": "2014-06-05",
+   "Tagline": "12 years in the making.",
+   "Duur": 164,
+   "Omschrijving": "Boyhood vertelt het verhaal van twee gescheiden mensen (Patricia Arquette en Ethan Hawke) die hun kind opvoeden. Centraal staat het leven van de 6-jarige Mason en de emotionele reis die hij aflegt vanaf zijn kindertijd tot aan volwassenheid.",
+   "TrailerId": "oNC3NYWh1vI",
+   "Toegevoegd": "2019-03-05 10:31:06.453",
+   "PosterPath": "/eKi4e5zXhQKs0De4xu5AAMvu376.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 1265,
    "Naam": "Bridge to Terabithia",
    "ReleaseDate": "2007-02-16",
@@ -418,6 +550,18 @@
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/gihMBO2SmUprI1ecYe7Eo7Eg1yq.jpg",
    "CollectieID": 0
+ },
+ {
+   "ID": 1588,
+   "Naam": "Bring It On",
+   "ReleaseDate": "2000-08-25",
+   "Tagline": "Backstabbing. Spotlight-grabbing. Secret-blabbing. A cheerleader's life is all that.",
+   "Duur": 98,
+   "Omschrijving": "Een team cheerleaders dat al 5 jaar ongeslagen is bij de jaarlijkse cheerleader-wedstrijden komt er achter dat hun pasjes jarenlang gestolen zijn van een ander team. Met nog maar enkele weken te gaan voor de kampioenschappen moeten ze zo snel mogelijk op zoek naar een nieuwe dans.",
+   "TrailerId": null,
+   "Toegevoegd": "2019-03-05 10:31:19.287",
+   "PosterPath": "/yg0O6eGgrumDZ1bht3pqMjNaWon.jpg",
+   "CollectieID": 430186
  },
  {
    "ID": 310,
@@ -468,6 +612,18 @@
    "CollectieID": 87118
  },
  {
+   "ID": 36557,
+   "Naam": "Casino Royale",
+   "ReleaseDate": "2006-11-14",
+   "Tagline": "Everyone has a past. Every legend has a beginning.",
+   "Duur": 144,
+   "Omschrijving": "James Bond's eerste opdracht als 00 Agent leidt hem naar Le Chiffre, de bankier van wereldwijd gevreesde terroristen. Wil hij deze gevaarlijke man tegenhouden en het terroristische netwerk uitschakelen, dan moet Bond hem verslaan met poker in het befaamde Casino Royale. Wanneer het Britse ministerie van Financiën een medewerkster inzet om over de inzet van het spel en het geld van de overheid te waken, is Bond hier niet blij mee. Maar al snel stelt hij zijn mening bij: de dame in kwestie, de ravissante Vesper Lynd, bevalt hem zeer. Ondertussen krijgen ze te maken met een serie aanvallen. Le Chiffre en zijn handlangers zullen niet rusten voor ze Bond onschadelijk hebben gemaakt.",
+   "TrailerId": "36mnx8dBbGE",
+   "Toegevoegd": "2018-12-14 17:01:07.810",
+   "PosterPath": "/zlWBxz2pTA9p45kUTrI8AQiKrHm.jpg",
+   "CollectieID": 645
+ },
+ {
    "ID": 302699,
    "Naam": "Central Intelligence",
    "ReleaseDate": "2016-06-15",
@@ -501,6 +657,18 @@
    "TrailerId": "FZkIlAEbHi4",
    "Toegevoegd": "2018-12-27 22:43:01.327",
    "PosterPath": "/iVc8fXBz3Ouj3I9ZgCbRn1vswI2.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 13673,
+   "Naam": "Christmas with the Kranks",
+   "ReleaseDate": "2004-11-24",
+   "Tagline": "No! Ho! Ho!",
+   "Duur": 99,
+   "Omschrijving": "Luther Krank (Allen) is een man die besluit om Kerstmis en alles wat erbij hoort over te slaan. In plaats hiervan gaat hij op vakantie met zijn vrouw Nora (Curtis). Maar wanneer zijn dochter op het laatste moment besluit om met de feestdagen naar huis te komen wordt hij gedwongen om weer aan alle kerstverplichtingen te voldoen.",
+   "TrailerId": "jiPMySZo0Sc",
+   "Toegevoegd": "2018-11-13 03:19:07.433",
+   "PosterPath": "/7wF5Du5D6xLZiEfDYY2uawIAPeJ.jpg",
    "CollectieID": 0
  },
  {
@@ -552,6 +720,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 62835,
+   "Naam": "Colombiana",
+   "ReleaseDate": "2011-07-27",
+   "Tagline": "Wraak is zoet",
+   "Duur": 108,
+   "Omschrijving": "Op haar 10de zag Cataleya Restrepo hoe haar ouders in Colombia werden afgeslacht door drugsbaron Don Luis. Ze groeit op als keiharde huurmoordenaar voor haar oom Emilio in Chicago. Maar in haar vrije tijd is ze op zoek naar het enige dat haar drijft: het vinden van de moordenaars van haar ouders.",
+   "TrailerId": "8hGumf6E5TQ",
+   "Toegevoegd": "2019-03-03 11:48:25.640",
+   "PosterPath": "/be4N3qwhruO1KD1FsghNY4a7ORx.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 9584,
    "Naam": "Convoy",
    "ReleaseDate": "1978-06-27",
@@ -561,6 +741,18 @@
    "TrailerId": "T5RI30RJIPk",
    "Toegevoegd": "2018-08-11 08:09:59.010",
    "PosterPath": "/zpCy9R9tjD5sawsBk5TaXbFJhJz.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 201085,
+   "Naam": "Crimson Peak",
+   "ReleaseDate": "2015-10-13",
+   "Tagline": "Love makes monsters of us all.",
+   "Duur": 119,
+   "Omschrijving": "In de nasleep van een familietragedie bevindt een ambitieuze schrijfster zich in een tweestrijd tussen de liefde voor een oude vriend en een mysterieuze outsider. Om haar verleden te ontlopen vlucht ze naar een huis dat haar geschiedenis ademt.",
+   "TrailerId": "4gJW2Q-Sqbs",
+   "Toegevoegd": "2018-08-25 15:36:33.350",
+   "PosterPath": "/pCj8zem1NDAODdtvha9WFEB6iWR.jpg",
    "CollectieID": 0
  },
  {
@@ -684,6 +876,18 @@
    "CollectieID": 134897
  },
  {
+   "ID": 22971,
+   "Naam": "Dear John",
+   "ReleaseDate": "2010-02-04",
+   "Tagline": "Love brought them together. Will fate tear them apart?",
+   "Duur": 115,
+   "Omschrijving": "Een jonge soldaat John Tyree (Channing Tatum), is met verlof en wordt verliefd op de schitterende, maar conservatieve studente Savannah Lynn Curtis (Amanda Seyfried). De twee beleven een mooie tijd en wanneer John weer op uitzending gestuurd wordt, beloven ze elkaar brieven te schrijven om hun liefde levend te houden. Maar de lange afstand tussen beiden lijkt voor meer problemen te zorgen dan verwacht.",
+   "TrailerId": "r0fq5dd0C60",
+   "Toegevoegd": "2019-03-05 10:31:26.203",
+   "PosterPath": "/2Fen9XsCscjupGJUhi2zaCvOaGd.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 296524,
    "Naam": "Deepwater Horizon",
    "ReleaseDate": "2016-09-29",
@@ -708,6 +912,42 @@
    "CollectieID": 0
  },
  {
+   "ID": 20352,
+   "Naam": "Despicable Me",
+   "ReleaseDate": "2010-07-08",
+   "Tagline": "Superbad. Superdad.",
+   "Duur": 95,
+   "Omschrijving": "In een vrolijke, vredige buitenwijk met netjes omheinde en piekfijn verzorgde tuintjes staat een mysterieuze, onheilspellende villa temidden van een dood gazon. Het zwarte gebouw is het geheime hoofdkwartier van Gru die de wereld wil domineren met zijn legertje handlangers: DE COMPLEET DOLGEDRAAIDE MINIONS! Wie zijn plannen probeert te dwarsbomen, maakt snel kennis met een GRU-welijk arsenaal van krimpstralen, vriespistolen en oorlogsvoertuigen. Tot er plots drie weesmeisjes voor de deur staan die in Gru geen superschurk, maar een perfecte papa zien! Een grotere bedreiging voor zijn reputatie is nauwelijks denkbaar.",
+   "TrailerId": "RXZY_XRjABs",
+   "Toegevoegd": "2018-11-29 15:15:09.800",
+   "PosterPath": "/dBkgZB9lgkFS4wQfDT8okBmccnP.jpg",
+   "CollectieID": 86066
+ },
+ {
+   "ID": 93456,
+   "Naam": "Despicable Me 2",
+   "ReleaseDate": "2013-06-25",
+   "Tagline": "Back 2 Work",
+   "Duur": 98,
+   "Omschrijving": "Gru (Steve Carrell), het duivelse meesterbrein, is terug en heeft zijn leven gebeterd en drie kinderen geadopteerd. Samen met zijn assistent en de kinderen beleven zij een nieuw avontuur, waarbij de Minions weer voor de nodige problemen zorgen. Een paar Minions zijn aan het lanterfanten wanneer ze een geluid horen buiten. In eerste instantie blijkt het een kat te zijn die ze bang maakt, maar vervolgens worden ze ontvoerd door een mysterieuze kracht.",
+   "TrailerId": "8-KPjvdbILI",
+   "Toegevoegd": "2018-11-29 15:15:35.650",
+   "PosterPath": "/ipwym6lBwRJSMCntKwP5VItf6in.jpg",
+   "CollectieID": 86066
+ },
+ {
+   "ID": 324852,
+   "Naam": "Despicable Me 3",
+   "ReleaseDate": "2017-06-15",
+   "Tagline": "Oh brother.",
+   "Duur": 96,
+   "Omschrijving": "Gru moet het opnemen tegen Balthazar Bratt, een voormalig kindsterretje dat geobsedeerd is door het personage dat hij in de jaren 80 speelde. Balthazar heeft het dit keer gemunt op een groot schip. Daarnaast ontstaat er de nodige rivaliteit wanneer hij zijn lang verloren gewaande tweelingbroer Dru ontmoet.",
+   "TrailerId": "cLeMypgtcMI",
+   "Toegevoegd": "2018-08-03 11:49:35.990",
+   "PosterPath": "/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
+   "CollectieID": 86066
+ },
+ {
    "ID": 681,
    "Naam": "Diamonds Are Forever",
    "ReleaseDate": "1971-12-13",
@@ -730,6 +970,42 @@
    "Toegevoegd": "2018-12-14 17:00:29.697",
    "PosterPath": "/10gf29n2TrYBYfvCPKWxasa9BnZ.jpg",
    "CollectieID": 645
+ },
+ {
+   "ID": 562,
+   "Naam": "Die Hard",
+   "ReleaseDate": "1988-07-15",
+   "Tagline": "40 Stories. Twelve Terrorists. One Cop.",
+   "Duur": 131,
+   "Omschrijving": "De enige reden waarom de New Yorkse agent in Los Angeles zit, is dat hij de kerst bij zijn kinderen wil zijn. Hij bevindt zich op een feestje van het werk van zijn ex-vrouw als een stel Duitse terroristen controle over de wolkenkrabber neemt om een kluis met zeven sloten te openen. Door zijn verdekte positie weet hij de groep gijzelaars te ontlopen om zo de terroristen uit te schakelen en hun plan te saboteren.",
+   "TrailerId": null,
+   "Toegevoegd": "2018-12-19 12:47:12.923",
+   "PosterPath": "/mc7MubOLcIw3MDvnuQFrO9psfCa.jpg",
+   "CollectieID": 1570
+ },
+ {
+   "ID": 1573,
+   "Naam": "Die Hard 2",
+   "ReleaseDate": "1990-07-02",
+   "Tagline": "Die Harder",
+   "Duur": 124,
+   "Omschrijving": "Als de agent John McClane weer eens voor kerst in Washington is, ziet hij iets vreemds op de luchthaven. Hij grijpt in en ontdekt dat het om zeer zware jongens gaat, al weet hij niet wat ze van plan zijn. Als de politie eenmaal doorheeft dat hij gelijk heeft is het al te laat. Terroristen hebben de luchthaven en de toestellen in de lucht in hun macht en in één van die toestellen zit John's vrouw. Hij tracht verborgen te blijven, de terroristen uit te schakelen en zeker niet makkelijk dood te gaan, net als vorig jaar.",
+   "TrailerId": "OyxfXQ4MGLQ",
+   "Toegevoegd": "2018-12-19 12:47:34.723",
+   "PosterPath": "/zSgL998DXaljsCmwQuwDM8Ak4rV.jpg",
+   "CollectieID": 1570
+ },
+ {
+   "ID": 1572,
+   "Naam": "Die Hard: With a Vengeance",
+   "ReleaseDate": "1995-05-19",
+   "Tagline": "Think fast. Look alive. Die hard.",
+   "Duur": 128,
+   "Omschrijving": "Op een publieke plek in New York vindt een explosie plaats, die opgeëist wordt door een man die zich Simon noemt en alleen met John McClane wil praten. McClane is een zwaar alcoholistische agent die z'n badge niet meer heeft, maar alleen als hij de opdrachten van Simon uitvoert zullen de explosies stoppen.",
+   "TrailerId": "gQ0uSh2Hgcs",
+   "Toegevoegd": "2018-12-19 12:47:50.673",
+   "PosterPath": "/ivpXGcsPZglyYrN65THWSD7JM3q.jpg",
+   "CollectieID": 1570
  },
  {
    "ID": 3050,
@@ -816,6 +1092,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 68724,
+   "Naam": "Elysium",
+   "ReleaseDate": "2013-08-07",
+   "Tagline": "He can save us all.",
+   "Duur": 109,
+   "Omschrijving": "In het jaar 2159 bestaan er twee klassen: de zeer rijke mensen die op een ruimtestation met de naam Elysium wonen, en de rest, die op een overbevolkte Aarde moeten leven. Secretaris Rhodes (Jodie Foster) is een hardvochtige regeringsleider die er alles aan doet om de luxe levensstijl van de bewoners van Elysium te beschermen. Nieuwe anti-immigratiewetten zijn dan ook het gevolg. Dat weerhoudt de Aardbewoners er echter niet van te proberen Elysium te bereiken. Op alle mogelijke manieren.",
+   "TrailerId": "oIBtePb-dGY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/tHkjoAxmhp3Eau1h0Ir7maKMwUz.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 4523,
    "Naam": "Enchanted",
    "ReleaseDate": "2007-11-20",
@@ -837,18 +1125,6 @@
    "TrailerId": "w7Z6mGI6dC0",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/adutPpLRmZjtpY3PZKXLd1sosi2.jpg",
-   "CollectieID": 0
- },
- {
-   "ID": 116711,
-   "Naam": "Epic",
-   "ReleaseDate": "2013-05-15",
-   "Tagline": "Discover a world beyond your imagination",
-   "Duur": 102,
-   "Omschrijving": "Een tienermeisje wordt getransporteerd naar een diepe bosrijke omgeving waar een strijd gaande is tussen de krachten van het goede en de krachten van het kwade. Ze voegt zich bij een groep wezens en samen worden ze belast met de taak om hun wereld te redden, en die van ons.",
-   "TrailerId": "_KqNCnd8AN4",
-   "Toegevoegd": "2018-02-25 00:00:00.000",
-   "PosterPath": "/dUeXOJCpfWmZd9KaPkq2122J1ji.jpg",
    "CollectieID": 0
  },
  {
@@ -900,6 +1176,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 345,
+   "Naam": "Eyes Wide Shut",
+   "ReleaseDate": "1999-07-16",
+   "Tagline": "Cruise. Kidman. Kubrick.",
+   "Duur": 159,
+   "Omschrijving": "Nadat zijn vrouw toegeeft seksuele fantasieën te hebben over een andere man, raakt een dokter geobsedeerd door de gedachte seks te hebben met een ander. Dit leidt tot enkele weinig bevredigende ontmoetingen met onder andere een prostituee. Als hij een nachtclub bezoekt komt hij achter het bestaan van een geheime seksclub.",
+   "TrailerId": "yxqrzWe0Ggc",
+   "Toegevoegd": "2019-03-05 10:31:39.620",
+   "PosterPath": "/a0YOhU3zq0RkOYrVlPXCeE1oFkR.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 201386,
    "Naam": "F.C. De Kampioenen: Kampioen zijn blijft plezant",
    "ReleaseDate": "2013-12-17",
@@ -936,6 +1224,54 @@
    "CollectieID": 435259
  },
  {
+   "ID": 13804,
+   "Naam": "Fast & Furious",
+   "ReleaseDate": "2009-04-02",
+   "Tagline": "New Model. Original Parts.",
+   "Duur": 107,
+   "Omschrijving": "Brian O'Conner (Paul Walker) is nu een FBI agent en zit in een speciaal team die Braga, een drugs baron, probeert te pakken. Brian probeert binnen te komen door in het drivers-team van Braga te komen. Dominic Toretto (Vin Diesel) is nog steeds op de vlucht voor de politie, maar wil wraak op Braga en probeert ook in het drivers-team te komen. Dit gebeurt via een straatrace. Brian en Dominic zullen moeten samenwerken om Braga te pakken te krijgen.",
+   "TrailerId": "9c3-mpDxX-A",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/ft8IqAGFs3V7i87z0t0EVRUjK1p.jpg",
+   "CollectieID": 9485
+ },
+ {
+   "ID": 82992,
+   "Naam": "Fast & Furious 6",
+   "ReleaseDate": "2013-05-21",
+   "Tagline": "All roads lead to this",
+   "Duur": 131,
+   "Omschrijving": "Dom (Vin Diesel), Brian (Paul Walker), en de rest van het team hebben $100 miljoen overgehouden aan hun succesvolle overval in Rio de Janeiro. Ze zijn nog steeds voortvluchtig en wonen nu verspreid over de hele wereld. Hobbs (Dwayne Johnson) is een internationale criminele organisatie op het spoor onder leiding van Owen Shaw (Luke Evans). Wanneer Hobbs ontdekt dat Dom’s doodgewaande voormalige vriendin Letty (Michelle Rodriguez) de rechterhand is van Shaw, schakelt hij de hulp in van Dom en zijn team. Ze reizen af naar Europa om in de straten van Londen de strijd aan te gaan met deze meedogenloze criminelen.",
+   "TrailerId": "C_puVuHoR6o",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/2YH3Du50aI3v9dHUBmM4iUNCp6p.jpg",
+   "CollectieID": 9485
+ },
+ {
+   "ID": 51497,
+   "Naam": "Fast Five",
+   "ReleaseDate": "2011-04-20",
+   "Tagline": "Get the Fifth Gear.",
+   "Duur": 130,
+   "Omschrijving": "Nadat ex-agent Brian O’Connor (Paul Walker) en Mia Toretto (Jordana Brewster) Dom Toretto (Vin Diesel) hebben helpen ontsnappen uit de gevangenis, zijn ze op de vlucht voor de politie. Als ze uiteindelijk in Rio de Janeiro belanden moeten ze, om hun vrijheid terug te krijgen, nog één klus aannemen. Ze worden echter op de hielen gezeten door FBI-agent Luke Hobbs (Dwayne Johnson), die alles op alles zet om Dom, Brian, Mia en hun team op te pakken.",
+   "TrailerId": "Gkh_fL_8IzQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/cA81CI8odKv5KHRUUzJbj83yN7c.jpg",
+   "CollectieID": 9485
+ },
+ {
+   "ID": 364689,
+   "Naam": "Ferdinand",
+   "ReleaseDate": "2017-12-09",
+   "Tagline": "Geen vechtstier, maar knuffeldier",
+   "Duur": 107,
+   "Omschrijving": "Ferdinand speelt zich af in Spanje en vertelt het verhaal van een grote stier met een klein hartje. Als hij ten onrechte aangezien wordt voor een gevaarlijk beest wordt hij gevangen genomen en weggevoerd. Vastberaden om terug te keren naar zijn familie, verzamelt hij een bont gezelschap om zich heen voor een fantastisch avontuur. Ferdinand bewijst dat je, je stierlijk kunt vergissen als je enkel op iemands uiterlijk afgaat. Een film van Blue Sky Studios en Carlos Saldanha, de regisseur van Rio. Geïnspireerd op het geliefde boek The Story of Ferdinand van Munro Leaf en Robert Lawson.",
+   "TrailerId": "HBXVM7oUPVk",
+   "Toegevoegd": "2018-06-27 00:00:00.000",
+   "PosterPath": "/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 127380,
    "Naam": "Finding Dory",
    "ReleaseDate": "2016-06-16",
@@ -945,6 +1281,18 @@
    "TrailerId": "JhvrQeY3doI",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/1Rr2CPicCZmvGPPRspQ8fCHbj1I.jpg",
+   "CollectieID": 137697
+ },
+ {
+   "ID": 12,
+   "Naam": "Finding Nemo",
+   "ReleaseDate": "2003-05-30",
+   "Tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+   "Duur": 100,
+   "Omschrijving": "De clownvis Marlin leidt samen met zijn enige zoon Nemo een veilig leventje in het Great Barrier Reef bij Australië. Wanneer Nemo onverwachts weggehaald wordt van zijn thuis, en in het aquarium van een tandarts belandt, is het aan Marlin om hem te redden. Hij krijgt hierbij hulp van Dory, de vis met het slechtste korte termijn geheugen en het grootste hart van de hele oceaan.",
+   "TrailerId": "SPHfeNgogVs",
+   "Toegevoegd": "2019-03-03 16:42:12.217",
+   "PosterPath": "/5Xp5S8UBVfwKvHRD3mHTyBYmNhi.jpg",
    "CollectieID": 137697
  },
  {
@@ -1056,6 +1404,18 @@
    "CollectieID": 386382
  },
  {
+   "ID": 168259,
+   "Naam": "Furious 7",
+   "ReleaseDate": "2015-04-01",
+   "Tagline": "Vengeance Hits Home",
+   "Duur": 137,
+   "Omschrijving": "Nu Owen Shaw is uitgeschakeld door Dominic Toretto en zijn crew, is Shaw's broer Deckard Shaw uit op wraak. Na de dood van Han, is ook Dominic uit op wraak. Samen met zijn crew en \"Mr. Nobody\" gaan ze op zoek naar een hackprogramma genaamd 'God's Eye', om zo achter Deckard's locatie te kunnen komen en hem uit te schakelen.",
+   "TrailerId": "Skpu5HaVkOc",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/dCgm7efXDmiABSdWDHBDBx2jwmn.jpg",
+   "CollectieID": 9485
+ },
+ {
    "ID": 8920,
    "Naam": "Garfield",
    "ReleaseDate": "2004-06-10",
@@ -1161,6 +1521,18 @@
    "TrailerId": "7Cn716jv61s",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/cvuNet2rxPiTf9L0eQRNpBi7zgp.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 49047,
+   "Naam": "Gravity",
+   "ReleaseDate": "2013-09-27",
+   "Tagline": "Don't Let Go",
+   "Duur": 91,
+   "Omschrijving": "Dr. Ryan Stone (Sandra Bullock) is een briljante medische ingenieur die op haar eerste shuttlemissie gaat met de ervaren astronaut Matt Kowalsky (George Clooney), die het commando heeft over zijn laatste vlucht voor hij op pensioen gaat. Maar een schijnbaar routine ruimtewandeling draait uit op een ramp. De shuttle wordt vernietigd waardoor Stone en Kowalsky helemaal alleen achterblijven – enkel vastgeketend aan elkaar en steeds verder zwevend in het duister",
+   "TrailerId": "_KJHRF6RlTQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/uPxtxhB2Fy9ihVqtBtNGHmknJqV.jpg",
    "CollectieID": 0
  },
  {
@@ -1560,6 +1932,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 70868,
+   "Naam": "I Don't Know How She Does It",
+   "ReleaseDate": "2011-09-16",
+   "Tagline": "If it were easy, men would do it too.",
+   "Duur": 89,
+   "Omschrijving": "Kate Reddy wijdt haar dagelijks leven aan haar baan bij een in Boston gevestigde financiële onderneming. ‘s Nachts vertrekt ze naar huis om daar haar twee kinderen en man Richard (onlangs ontslagen als architect) te verzorgen en aanbidden. Het is non-stop balanceren tussen werk en haar privé-leven. Als Kate op het werk onverwachts een nieuwe klus krijgt waarbij ze een trip naar New York moet maken en Richard ook de baan krijgt waar hij zo lang op zat te wachten, wordt hun band met elkaar alleen maar slechter. Op dat moment wordt Kate ook nog eens gesteund door haar zakenpartner Jack Abelhammer die onverwachte gevoelens voor haar heeft en een bron van verleiding blijkt te zijn!",
+   "TrailerId": "bn_OrhwIidA",
+   "Toegevoegd": "2019-03-05 10:31:52.420",
+   "PosterPath": "/hL7CsRkzVGaD385Ady05LSSqpz5.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 460668,
    "Naam": "I Feel Pretty",
    "ReleaseDate": "2018-04-19",
@@ -1822,6 +2206,18 @@
    "Toegevoegd": "2018-07-28 02:54:18.410",
    "PosterPath": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
    "CollectieID": 477962
+ },
+ {
+   "ID": 22897,
+   "Naam": "It's Complicated",
+   "ReleaseDate": "2009-12-23",
+   "Tagline": "First comes marriage. Then comes divorce. And then...",
+   "Duur": 121,
+   "Omschrijving": "Jane Adler (Meryl Streep) is een gescheiden moeder met drie kinderen. Haar ex-man Jake, is hertrouwd met de veel jongere Agnes. Tijdens het afstuderen van hun zoon, hebben de twee een affaire en daardoor is Jane ineens \"de andere\" vrouw. Ondertussen maakt Jane ook kennis met architect Adam (Steve Martin), die de keuken van Jane ontwerpt. Omdat Adam net zelf een scheiding achter de rug heeft, valt hij als een blok voor Jane, wat haar liefdesleven volledig op zijn kop zet.",
+   "TrailerId": "_O09NjpB4AI",
+   "Toegevoegd": "2019-03-05 10:32:01.710",
+   "PosterPath": "/foHRwmVZG7m0XMDq15wRuNoKca6.jpg",
+   "CollectieID": 0
  },
  {
    "ID": 75780,
@@ -2148,6 +2544,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 287903,
+   "Naam": "Krampus",
+   "ReleaseDate": "2015-11-26",
+   "Tagline": "You don't want to be on his list.",
+   "Duur": 98,
+   "Omschrijving": "Wanneer zijn disfunctionele familie ruziënd de feestdagen doorbrengt, is de jonge Max ontgoocheld en besluit hij kerst de rug toe te keren. Wat hij echter niet weet is dat hij hiermee de oude entiteit Krampus heeft weten op te roepen, een demonisch wezen dat rondom kerst de ongelovigen afstraft. De hel breekt los als deze het op de familie voorzien heeft en het verscheurde gezin gedwongen wordt de handen ineen te slaan om te kunnen overleven.",
+   "TrailerId": "9k-uig5obaA",
+   "Toegevoegd": "2018-11-13 03:18:40.180",
+   "PosterPath": "/27SiV4EBHcTBMz4IKANjhX5iIoX.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 9502,
    "Naam": "Kung Fu Panda",
    "ReleaseDate": "2008-06-04",
@@ -2196,6 +2604,30 @@
    "CollectieID": 0
  },
  {
+   "ID": 1995,
+   "Naam": "Lara Croft: Tomb Raider",
+   "ReleaseDate": "2001-06-11",
+   "Tagline": "Born into Wealth. Groomed by the Elite. Trained for Combat.",
+   "Duur": 100,
+   "Omschrijving": "Lara Croft, afkomstig uit een rijk milieu, reist de hele wereld af op zoek naar zeldzame objecten. Haar nieuwste doel zijn de twee helften van een antiek object die de eigenaar ervan ultieme macht geeft. Om het te vinden moet ze eerst een machtig en gevaarlijk geheime genootschap verslaan. De film is gebaseerd op de Tomb Raider computerspellen.",
+   "TrailerId": "cnNBqNb3taw",
+   "Toegevoegd": "2018-12-28 00:06:00.040",
+   "PosterPath": "/m6aodY7SrvlTRiUFkxClaNAIQT.jpg",
+   "CollectieID": 2467
+ },
+ {
+   "ID": 1996,
+   "Naam": "Lara Croft: Tomb Raider – The Cradle of Life",
+   "ReleaseDate": "2003-07-21",
+   "Tagline": "Adventuress Lara Croft goes on a quest to save the mythical Pandora's Box",
+   "Duur": 117,
+   "Omschrijving": "In het tweede deel van Tomb Raider moet Lara Croft (Angelina Jolie) op zoek naar een tempel waar een sleutel te vinden is tot \"Pandora's Box\". Als deze \"box\" geopend wordt, kan deze een kracht loslaten die miljoenen mensen hun levens kan ontnemen. Lara moet deze sleutel en 'box' eerder vinden dan Chen Lo, hoofd van een Chinees misdaadsyndicaat, die \"Pandora's Box\" wil vinden, en dan wil verkopen aan de hoogste bieder.",
+   "TrailerId": null,
+   "Toegevoegd": "2018-12-28 00:05:48.393",
+   "PosterPath": "/yo6FSOs3uxsT8gp3FVd7c7RCLFs.jpg",
+   "CollectieID": 2467
+ },
+ {
    "ID": 308504,
    "Naam": "Last Knights",
    "ReleaseDate": "2015-04-03",
@@ -2206,6 +2638,30 @@
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/jKcbKy4C9bbwcBWGkMQR70vBNXJ.jpg",
    "CollectieID": 0
+ },
+ {
+   "ID": 8835,
+   "Naam": "Legally Blonde",
+   "ReleaseDate": "2001-07-13",
+   "Tagline": "Don't judge a book by its hair color!",
+   "Duur": 96,
+   "Omschrijving": "De populaire Elle Woods heeft het allemaal. Ze heeft een relatie met de leukste jongen op campus, en wil niets liever dan Mrs. Warner Huntington III worden. Er is echter één ding dat Warner er van afhoudt om haar ten huwelijk te vragen: Elle is te blond. Wanneer Warner zijn spullen pakt om naar Harvard te gaan komt hij een oude vriendin tegen. Elle moet alles op alles zetten om ook tot Harvard toegelaten te worden, en is vastberaden hem terug te winnen.",
+   "TrailerId": null,
+   "Toegevoegd": "2019-03-05 10:32:29.257",
+   "PosterPath": "/1gAnkZNAd3HqgWL7aqSOQFwt7D1.jpg",
+   "CollectieID": 86024
+ },
+ {
+   "ID": 10327,
+   "Naam": "Legally Blonde 2: Red, White & Blonde",
+   "ReleaseDate": "2003-07-02",
+   "Tagline": "Bigger. Bolder. Blonder.",
+   "Duur": 95,
+   "Omschrijving": "De blonde Elle Woods gaat naar Washington om een wetsvoorstel door congres te krijgen. Elle is namelijk erg bezorgd bezorgd over het testen van make-up op dieren. Elle raakt bevriend met de oudere portier van haar hotel, die haar de weg wijst in Washington DC.",
+   "TrailerId": "lGcLwm66qH4",
+   "Toegevoegd": "2019-03-05 10:33:24.843",
+   "PosterPath": "/wECfNeNPTO5stVguJZ4lWYzd3J6.jpg",
+   "CollectieID": 86024
  },
  {
    "ID": 193893,
@@ -2244,6 +2700,18 @@
    "CollectieID": 645
  },
  {
+   "ID": 38408,
+   "Naam": "Life As We Know It",
+   "ReleaseDate": "2010-10-02",
+   "Tagline": "A comedy about taking it one step at a time.",
+   "Duur": 114,
+   "Omschrijving": "Wanneer de beste vrienden van Holly en Eric tijdens een ongeluk om het leven komen, staat hun leven op de kop. Ze moeten namelijk niet alleen het verlies verwerken, maar ook het geadopteerde kind van hun vrienden onder hun hoede nemen.",
+   "TrailerId": "YvJdhOHniz4",
+   "Toegevoegd": "2019-03-05 10:33:41.273",
+   "PosterPath": "/u7Gei2Hvh0ux4weJRDZsgMoXSTI.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 87827,
    "Naam": "Life of Pi",
    "ReleaseDate": "2012-11-20",
@@ -2268,6 +2736,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 39451,
+   "Naam": "Little Fockers",
+   "ReleaseDate": "2010-12-21",
+   "Tagline": "Kids bring everyone closer, right?",
+   "Duur": 98,
+   "Omschrijving": "Na tien jaar lijkt Greg Focker (Ben Stiller) eindelijk geaccepteerd te zijn door zijn eigenzinnige en achterdochtige schoonvader Jack Byrnes (Robert de Niro). Maar wanneer de jonge vader van twee kleine Fockertjes gaat bijklussen bij een farmaceutisch bedrijf krijgt Jack toch weer argwaan. Opnieuw moet hij bewijzen dat hij geschikt is als echtgenoot van Pam (Teri Polo). Zal hij slagen voor Jacks ultieme test, zodat Greg hem zal kunnen opvolgen als hoofd van de familie of wordt het vertrouwen tussen de twee mannen voorgoed verbroken?",
+   "TrailerId": null,
+   "Toegevoegd": "2019-03-05 10:35:50.447",
+   "PosterPath": "/vpVa9AaUHokKoRzDQmEPGgAWpaX.jpg",
+   "CollectieID": 51509
+ },
+ {
    "ID": 253,
    "Naam": "Live and Let Die",
    "ReleaseDate": "1973-07-05",
@@ -2278,6 +2758,18 @@
    "Toegevoegd": "2018-12-14 16:55:35.053",
    "PosterPath": "/mKrvGdu9FLEx50XMeE1ckMURvWn.jpg",
    "CollectieID": 645
+ },
+ {
+   "ID": 1571,
+   "Naam": "Live Free or Die Hard",
+   "ReleaseDate": "2007-06-20",
+   "Tagline": "The old school cop is back!",
+   "Duur": 128,
+   "Omschrijving": "Politieagent John McClane krijgt de opdracht de jonge hacker Matt Farrell op te halen. Het lijkt in eerste instantie een routineklus te worden, maar als McClane en Farrell ineens aangevallen worden in Farrell's appartement, blijkt er veel meer aan de hand te zijn. Ze ontdekken dan dat Thomas Gabriel het hele land bedreigt met een complot om het computersysteem en de technische structuur waar de Amerikaanse economie op drijft te saboteren. Aan de ruige en grof gebekte McClane de taak om dit plannetje van Gabriel te stoppen.",
+   "TrailerId": "86ss__OIscQ",
+   "Toegevoegd": "2018-12-19 12:48:20.690",
+   "PosterPath": "/pHWgbaXiQD2nmex7u8Xv6XmhaZS.jpg",
+   "CollectieID": 1570
  },
  {
    "ID": 59967,
@@ -2340,6 +2832,30 @@
    "CollectieID": 531331
  },
  {
+   "ID": 11631,
+   "Naam": "Mamma Mia!",
+   "ReleaseDate": "2008-07-02",
+   "Tagline": "Take a trip down the aisle you'll never forget",
+   "Duur": 108,
+   "Omschrijving": "Donna, een onafhankelijke, single moeder heeft een hotelletje op een idyllisch Grieks eiland. Ze staat op het punt om Sophie, de pittige dochter die ze alleen heeft grootgebracht, los te laten. Voor Sophie's huwelijk heeft Donna haar twee oude hartsvrienden uitgenodigd: de praktische en no-nonsense Rosie en de rijke, meermalen gescheiden Tanya van haar vroegere backing-band 'Donna and the Dynamos'. Maar Sophie heeft in het geheim zelf drie gasten uitgenodigd. Ze is op zoek gegaan naar de identiteit van haar vader die haar naar het altaar moet begeleiden en ze haalt drie mannen uit Donna's verleden naar het mediterrane paradijs waar ze 20 jaar daarvoor waren geweest. In de 24 chaotische, magische uren bloeit er nieuwe liefde op en oude romances vatten opnieuw vlam op dit weelderige eiland vol mogelijkheden.",
+   "TrailerId": null,
+   "Toegevoegd": "2019-03-05 10:34:08.420",
+   "PosterPath": "/gOm2iMMbC6EonrFzmSQ8xvCa4Ei.jpg",
+   "CollectieID": 458558
+ },
+ {
+   "ID": 458423,
+   "Naam": "Mamma Mia! Here We Go Again",
+   "ReleaseDate": "2018-07-09",
+   "Tagline": "Discover how it all began",
+   "Duur": 113,
+   "Omschrijving": "Vijf jaar na het ontmoeten van haar drie vaders, maakt Sophie Sheridan zich klaar voor de opening van haar moeders hotel. In 1979 ontmoet de jonge Donna Sheridan de mannen die elk Sophie's biologische vader zou kunnen zijn.  Sophie komt meer te weten over haar moeders verleden gedurende haar eigen zwangerschap.",
+   "TrailerId": "XcSMdhfKga4",
+   "Toegevoegd": "2019-03-05 10:34:36.750",
+   "PosterPath": "/uRzvZ7Y11GStlsfdyNZYJVY3XY8.jpg",
+   "CollectieID": 458558
+ },
+ {
    "ID": 49527,
    "Naam": "Man on a Ledge",
    "ReleaseDate": "2012-01-13",
@@ -2400,6 +2916,42 @@
    "CollectieID": 0
  },
  {
+   "ID": 693,
+   "Naam": "Meet the Fockers",
+   "ReleaseDate": "2004-12-22",
+   "Tagline": "Misery loves family.",
+   "Duur": 115,
+   "Omschrijving": "Nadat voormalig CIA-agent Jack Byrnes de mannelijke verpleger Gaylord Focker toestemming heeft gegeven om met zijn dochter Pam te trouwen, is de tijd daar om de de ouders van de twee eindelijk eens met elkaar kennis te laten maken. Jack reist samen met zijn vrouw, kleinzoon en het toekomstige echtpaar naar Miami, waar ze de Focker-familie leren kennen. De eigenzinnige levensstijl van de Fockers staat in schril contrast met de conservatieve Byrnes, wat nogal wat conflicten tot gevolg heeft...",
+   "TrailerId": "48S3ogRGpjM",
+   "Toegevoegd": "2019-03-05 10:36:07.007",
+   "PosterPath": "/xHAqB06iL5D6HyOS6QpgyKkRQHD.jpg",
+   "CollectieID": 51509
+ },
+ {
+   "ID": 1597,
+   "Naam": "Meet the Parents",
+   "ReleaseDate": "2000-10-06",
+   "Tagline": "First comes love. Then comes the interrogation.",
+   "Duur": 108,
+   "Omschrijving": "Verpleger Greg Focker wil met kleuterleidster Pam Byrnes trouwen. In haar familie is het traditie dat de aanstaande echtgenoot vader Byrnes om de hand van zijn dochter vraagt. Maar de familie is nogal excentriek en als ex-CIA-agent onderwerpt Jack Greg zelfs aan een leugentest. Eigenlijk heeft hij de pest aan iedereen die wat met zijn oudste dochter wil beginnen en laat dat ook duidelijk merken. Greg kan natuurlijk niets goed doen en hoe harder hij probeert, hoe meer hij de mist ingaat...",
+   "TrailerId": "I18TOdCvvdM",
+   "Toegevoegd": "2019-03-05 10:36:28.613",
+   "PosterPath": "/wVjtQtzv9IcNRGnOOdcK797Sdxx.jpg",
+   "CollectieID": 51509
+ },
+ {
+   "ID": 77,
+   "Naam": "Memento",
+   "ReleaseDate": "2000-10-11",
+   "Tagline": "Some memories are best forgotten.",
+   "Duur": 113,
+   "Omschrijving": "Leonard is een onderzoeker voor een verzekeringsmaatschappij. Zijn geheugen is ernstig beschadigd na een poging in te grijpen bij de moord van z'n vrouw. Leonard is uit op wraak, maar door z'n slechte geheugen kan hij alleen behoorlijk functioneren door het constant maken van aantekeningen, tatoeages en het maken van polaroid foto's.",
+   "TrailerId": "Rq9eM4ZXRgs",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/fQMSaP88cf1nz4qwuNEEFtazuDM.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 607,
    "Naam": "Men in Black",
    "ReleaseDate": "1997-07-02",
@@ -2448,6 +3000,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 10207,
+   "Naam": "Message in a Bottle",
+   "ReleaseDate": "1999-02-22",
+   "Tagline": "A story of love lost and found.",
+   "Duur": 131,
+   "Omschrijving": "De droevige weduwnaar Garret Blake bouwt boten voor de kost. Een nieuw bestaan opbouwen is echter een andere zaak. Tot Theresa Osborne in zijn dorp in North Carolina komt wonen. Theresa, een eenzame gescheiden vrouw die werkt als researcher voor de Chicago Tribune, weet dat Garret de boodschap verstuurde die zij vond in een fles op een strand van Cape Cod. En ze weet dat die boodschap haar toen bijzonder geraakt heeft. Kevin Costner (Garret) en Robin Wright Penn (Theresa) zijn de grote sterren van Message in a Bottle, een verhaal over verloren en hervonden liefde, naar de bestseller van Nicholas Sparks. 'Jij kiest – het verleden of de toekomst. Kies en blijf bij je keuze.' Dat is het advies van Garrets krasse vader Dodge (Paul Newman). Zijn advies blijft in het geheugen hangen, net als dit teder, ontroerend verhaal.",
+   "TrailerId": "Wpb616fwYMk",
+   "Toegevoegd": "2019-03-05 10:37:45.140",
+   "PosterPath": "/majQar87QNbrC47qYMcmK1oCohZ.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 211672,
    "Naam": "Minions",
    "ReleaseDate": "2015-06-17",
@@ -2457,6 +3021,30 @@
    "TrailerId": "jc86EFjLFV4",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/sFy9HadGF0Z8LVNnUZgJsBVSW76.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 180,
+   "Naam": "Minority Report",
+   "ReleaseDate": "2002-06-20",
+   "Tagline": "The system is perfect until it comes after you.",
+   "Duur": 145,
+   "Omschrijving": "Het is het jaar 2054. In Washington is een afdeling opgezet die moordenaars oppakt vóór ze de moord plegen. John Anderton is één van de detectives werkzaam voor de zogenaamde Pre-Crime divisie.  Maar dan wordt hij zelf aangewezen als een toekomstige moordenaar. Hoewel Anderton een rotsvast vertrouwen heeft in het systeem, begint hij toch te vermoeden dat iemand hem erin heeft geluisd. En dan zit er maar één ding op: vluchten...",
+   "TrailerId": "QH-6UImAP7c",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/h3lpltSn7Rj1eYTPQO1lYGdw4Bz.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 10510,
+   "Naam": "Miracle on 34th Street",
+   "ReleaseDate": "1994-11-18",
+   "Tagline": "If you really believe, anything can happen.",
+   "Duur": 114,
+   "Omschrijving": "Kris Kringle wordt door Macy's warenhuis ingehuurd als kerstman voor het kerstseizoen. Een gewetenloze schurkerige rivaal van Macy's stelt alles in het werk om het zo belangrijke en rijke warenhuis over te nemen. Daarnaast probeert hij ook Kris in diskrediet te brengen.",
+   "TrailerId": "yiypbCFV7Ao",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/iuI31j8DM4TOxJTZeumG0S4npPU.jpg",
    "CollectieID": 0
  },
  {
@@ -2760,6 +3348,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 509,
+   "Naam": "Notting Hill",
+   "ReleaseDate": "1999-05-13",
+   "Tagline": "Can the most famous film star in the world fall for the man on the street?",
+   "Duur": 124,
+   "Omschrijving": "De beroemde Amerikaanse actrice Anna Scott komt per ongeluk de weinig succesvolle boekverkoper William Thacker tegen. Ze worden verliefd, maar het samenzijn met één van de populairste vrouwen van de wereld blijkt voor William niet gemakkelijk.",
+   "TrailerId": "4RI0QvaGoiI",
+   "Toegevoegd": "2019-03-05 10:38:09.353",
+   "PosterPath": "/f1gMw3PVicfdq9thlvUIjJ5UdvS.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 75656,
    "Naam": "Now You See Me",
    "ReleaseDate": "2013-05-29",
@@ -2782,6 +3382,18 @@
    "Toegevoegd": "2018-02-26 00:00:00.000",
    "PosterPath": "/hU0E130tsGdsYa4K9lc3Xrn5Wyt.jpg",
    "CollectieID": 382685
+ },
+ {
+   "ID": 402900,
+   "Naam": "Ocean's Eight",
+   "ReleaseDate": "2018-06-07",
+   "Tagline": "Every con has its pros",
+   "Duur": 110,
+   "Omschrijving": "'Ocean's Eight' volgt het leven van Danny Ocean's criminele zuster (Sandra Bullock). Samen met de hulp van haar vrouwelijke rechterhand (Cate Blanchett) probeert ze een team te rekruteren. Ze hebben het doel een diamant te stelen tijdens het jaarlijkse Met Gala om een kwaadaardige galeriehouder erbij te lappen.",
+   "TrailerId": "gDaWleVWQXY",
+   "Toegevoegd": "2018-08-25 15:41:36.953",
+   "PosterPath": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+   "CollectieID": 304
  },
  {
    "ID": 161,
@@ -2892,6 +3504,18 @@
    "CollectieID": 488924
  },
  {
+   "ID": 266647,
+   "Naam": "Pan",
+   "ReleaseDate": "2015-09-24",
+   "Tagline": "Every legend has a beginning.",
+   "Duur": 111,
+   "Omschrijving": "Een wees wordt naar de magische wereld van Neverland gebracht. Daar aangekomen wordt hij de redder van de inboorlingen en leidt hij een opstand tegen de gemene piraten van Neverland. Uiteindelijk ontdekt hij hier zijn lot, veranderen in de legendarische held Peter Pan.",
+   "TrailerId": "tjW1mKwNUSo",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/uflLJBg5iVWaPpzc4Qm54HNoGYd.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 39513,
    "Naam": "Paul",
    "ReleaseDate": "2011-02-14",
@@ -2904,6 +3528,30 @@
    "CollectieID": 0
  },
  {
+   "ID": 32657,
+   "Naam": "Percy Jackson & the Olympians: The Lightning Thief",
+   "ReleaseDate": "2010-02-01",
+   "Tagline": "Worlds Collide",
+   "Duur": 118,
+   "Omschrijving": "Percy Jackson (Logan Lerman) is een jongen die op het punt staat om van de middelbare school getrapt te worden. Alweer. Maar dat is niet zijn grootste zorg. Dankzij een Satyr, genaamd Grover, komt Percy er achter dat hij deel uitmaakt van een mythische wereld vol magische wezens en dat hij de nakomeling is van de Griekse god Poseidon. Als de bliksemschicht van Zeus wordt gestolen, hebben Percy en zijn vrienden tien dagen de tijd om zijn onschuld te bewijzen en om een oorlog tussen de goden te voorkomen.",
+   "TrailerId": "xko1Mx5w4tg",
+   "Toegevoegd": "2019-02-08 22:34:02.427",
+   "PosterPath": "/5NhyXkodMzDRW8uqtPqlxJsoBhf.jpg",
+   "CollectieID": 179919
+ },
+ {
+   "ID": 76285,
+   "Naam": "Percy Jackson: Sea of Monsters",
+   "ReleaseDate": "2013-08-07",
+   "Tagline": "Where There Are Gods, There Are Monsters.",
+   "Duur": 106,
+   "Omschrijving": "Percy en zijn vrienden Grover, Annabeth en Tyson, moeten het Gulden Vlies terug zien te halen van het eiland van de cyclopen. Ze moeten hierin slagen voor het eind van de zomer anders zal het Half-Blood kamp vernietigd worden. Maar eerst ontdekt Percy een verbluffend geheim over zijn familie. Een geheim waardoor hij twijfelt of het een eer of gewoon een wrede grap is om Poseidons zoon te zijn.",
+   "TrailerId": "6tkzMVAdlXk",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/k1bhUW7XM5X0yD3iewAEvloFBEo.jpg",
+   "CollectieID": 179919
+ },
+ {
    "ID": 294272,
    "Naam": "Peter en de Draak",
    "ReleaseDate": "2016-08-10",
@@ -2913,6 +3561,18 @@
    "TrailerId": "fPOamb6d_20",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/cChtZ57ThbPZMJQIGLXiOCZj4ZD.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 1817,
+   "Naam": "Phone Booth",
+   "ReleaseDate": "2002-09-09",
+   "Tagline": "No options. No lies. No fear. No deals. Just keep talking.",
+   "Duur": 81,
+   "Omschrijving": "Publicist Stuart Sheppard belt elke dag vanuit dezelfde telefooncel naar zijn vriendin. Hij kan niet met zijn mobiel bellen, omdat zijn vrouw de telefoonrekeningen doorspit. Als hij net opgehangen heeft, gaat de telefoon opnieuw. Hij wordt bedreigd door een man die hem vertelt hem dat wanneer hij ophangt, hij hem neer zal schieten. Het kleine rode lichtje dat hij op zich gericht ziet, zorgt ervoor dat Stu de bedreiging nogal serieus neemt...",
+   "TrailerId": "p07lBCfC2q8",
+   "Toegevoegd": "2019-02-12 20:51:03.020",
+   "PosterPath": "/xIaUpPok8WFnr79EAvgtGsIaJzV.jpg",
    "CollectieID": 0
  },
  {
@@ -3012,6 +3672,30 @@
    "CollectieID": 306031
  },
  {
+   "ID": 257344,
+   "Naam": "Pixels",
+   "ReleaseDate": "2015-07-16",
+   "Tagline": "Game On.",
+   "Duur": 105,
+   "Omschrijving": "Wanneer buitenaardse wezens de videobeelden van klassieke arcadespelletjes verkeerd interpreteren als een oorlogsverklaring vallen ze de aarde aan. Hierbij gebruiken ze de spelletjes als model voor hun verschillende aanvallen. President Will Cooper roept de hulp in van zijn beste jeugdvriend Jules Brenner, in de jaren '80 een videospelkampioen en nu een installateur van thuisbioscopen, om een team arcadegamers te leiden en zo de buitenaardse wezens te verslaan en de planeet te redden.",
+   "TrailerId": "XAHprLW48no",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/ktyVmIqfoaJ8w0gDSZyjhhOPpD6.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 114,
+   "Naam": "Pretty Woman",
+   "ReleaseDate": "1990-03-23",
+   "Tagline": "Who knew it was so much fun to be a hooker?",
+   "Duur": 119,
+   "Omschrijving": "De rijke zakenman Edward (Gere) neemt het hoertje Vivian (Roberts) mee naar zijn hotel. Hij is zo van haar gecharmeerd dat hij haar voor zijn hele verblijf in Los Angeles inhuurt. Ze leren veel van elkaar. Edward hoe hij een beter mens moet zijn en Vivian hoe ze zich als een dame moet gedragen. Ze worden verliefd op elkaar, maar een relatie tussen hen is natuurlijk onmogelijk..... of niet?",
+   "TrailerId": "Wzii8IuL8lk",
+   "Toegevoegd": "2019-03-05 10:38:20.933",
+   "PosterPath": "/fgmdaCMxXClZm2ePteLzCPySB1n.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 9543,
    "Naam": "Prince of Persia: The Sands of Time",
    "ReleaseDate": "2010-05-19",
@@ -3048,6 +3732,18 @@
    "CollectieID": 645
  },
  {
+   "ID": 49524,
+   "Naam": "R.I.P.D.",
+   "ReleaseDate": "2013-07-18",
+   "Tagline": "To protect and serve the living",
+   "Duur": 96,
+   "Omschrijving": "Nick Walker, een onlangs overleden politie-agent (Ryan Reynolds), voegt zich bij een team van andere zombie agenten die werken voor de Rest in Peace Department (R.I.P.D.). Samen beginnen ze aan een bovennatuurlijke strijd om er achter te komen wie de moordenaar van Walker is.",
+   "TrailerId": "nt59JjtWFSU",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/ldBBulVDkifYnT501PWXIvtCgmO.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 85,
    "Naam": "Raiders of the Lost Ark",
    "ReleaseDate": "1981-06-12",
@@ -3060,13 +3756,49 @@
    "CollectieID": 84
  },
  {
+   "ID": 427641,
+   "Naam": "Rampage",
+   "ReleaseDate": "2018-04-12",
+   "Tagline": "Big meets bigger",
+   "Duur": 107,
+   "Omschrijving": "'Rampage' draait om een heroïsche primatoloog wiens beste vriend een zeldzame albino silverback gorilla is genaamd George. Maar wanneer een experimenteel serum verkeerd uitpakt beginnen George en andere wezens enorm te groeien, erop uit om alles om hen heen te vernietigen... Davis Okoye gaat er samen met een genetische wetenschapper achteraan om hen te stoppen.",
+   "TrailerId": "rDgtKfshJ50",
+   "Toegevoegd": "2018-06-27 00:00:00.000",
+   "PosterPath": "/3gIO6mCd4Q4PF1tuwcyI3sjFrtI.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 2062,
+   "Naam": "Ratatouille",
+   "ReleaseDate": "2007-06-22",
+   "Tagline": "He's dying to become a chef.",
+   "Duur": 111,
+   "Omschrijving": "Remy is een rat die constant zijn leventje in het dure Franse restaurant Gusteau op het spel zet. Niet alleen vanwege zijn liefde voor lekker eten, maar ook omdat hij dolgraag zelf topkok wil zijn. Wanneer de jonge Linguini, die ondanks zijn gebrek aan talent een baan in de keuken krijgt aangeboden, de talenten van Remy ontdekt, is dat de kans voor de rat om zijn droom uit te laten komen. Linguini en Remy werken vervolgens samen en proberen Gusteau's restaurant weer op de kaart te zetten.",
+   "TrailerId": "jOGDozdW9Yo",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/y8y6Fv0k068OnHBZtu949A1t6pj.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 234004,
+   "Naam": "Ratchet & Clank",
+   "ReleaseDate": "2016-04-13",
+   "Tagline": "Ready to kick some asteroid!",
+   "Duur": 94,
+   "Omschrijving": "Ratchet and Clank vertelt het verhaal van twee onwaarschijnlijke helden die proberen een verachtelijke alien, Chairman Drek, ervan te weerhouden elke planeet in het Solana sterrenstelsel te vernietigen. De twee stuiten op een gevaarlijk wapen dat in staat is hele planeten te vernietigen. Ze moeten samenwerken met een team kleurrijke helden genaamd The Galactic Rangers om het sterrenstelsel te redden.",
+   "TrailerId": "6rVZKNJO5Cw",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/q4KgzBRorknuSeQN1q8jxlyg8ux.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 39514,
    "Naam": "RED",
    "ReleaseDate": "2010-10-13",
    "Tagline": "Still armed. Still dangerous. Still got it.",
    "Duur": 111,
    "Omschrijving": "'Red' vertelt het verhaal van Frank Moses (Bruce Willis), een voormalig CIA agent, die nu een rustig leven leidt. Totdat op een dag een hightech huurmoordenaarsteam opduikt die hem wil vermoorden. Nu zijn identiteit bekend is en het leven van de vrouw om wie hij geeft in gevaar is, roept Frank zijn oude team weer op in een ultieme poging te overleven.",
-   "TrailerId": "-JZ_moituIo",
+   "TrailerId": "#NAAM?",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/q2mwTRKrq1etP9S4SZVDIJq0wI2.jpg",
    "CollectieID": 163902
@@ -3084,6 +3816,42 @@
    "CollectieID": 163902
  },
  {
+   "ID": 31867,
+   "Naam": "Repo Men",
+   "ReleaseDate": "2010-03-18",
+   "Tagline": "For a price, any organ in your body can be replaced. But it can also be repossessed.",
+   "Duur": 111,
+   "Omschrijving": "In de toekomst is het mogelijk om kunstmatige organen in te laten zetten. Remy (Jude Law) heeft een nieuw hart maar kan de schuld daarvoor niet afbetalen. Hij slaat op de vlucht omdat er twee meedogenloze oorlogsveteranen op hem afgestuurd zijn.",
+   "TrailerId": "jl9Nvg4yuus",
+   "Toegevoegd": "2018-11-29 18:43:06.657",
+   "PosterPath": "/jAFLg9P6f59JtSNe2PkGwwwKssf.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 46195,
+   "Naam": "Rio",
+   "ReleaseDate": "2011-04-03",
+   "Tagline": "1 out of every 8 Americans is afraid of flying. Most of them don't have feathers.",
+   "Duur": 96,
+   "Omschrijving": "Blu is een zeldzame Macaw papegaai die denkt dat hij de laatste van zijn soort is. Wanneer hij echter ontdekt dat dit helemaal niet zo is, besluit hij zijn kooi in Minnesota te verlaten en op reis te gaan naar Rio de Janeiro. Samen met Jewel, de andere zeldzame papegaai van zijn soort, komt Blu in een onverwacht avontuur terecht.",
+   "TrailerId": "P1GRO31ve5Q",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/isQ9BSjdF8IrSm2g4WPHSJYN5s9.jpg",
+   "CollectieID": 229932
+ },
+ {
+   "ID": 172385,
+   "Naam": "Rio 2",
+   "ReleaseDate": "2014-03-19",
+   "Tagline": "He's villainous, she's venomous.",
+   "Duur": 102,
+   "Omschrijving": "Blu, Jewel en hun drie kinderen hebben een perfect leven in de magische stad Rio de Janeiro. Wanneer Jewel besluit dat de kinderen moeten leren leven als echte vogels staat ze erop dat de familie naar het Amazonegebied gaat. Terwijl Blu zich probeert in te passen bij zijn nieuwe buren vreest hij dat hij Jewel en zijn kinderen verliest aan de wilde dieren.",
+   "TrailerId": "hUWsKkMKZBc",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/jZcF7xZVvrX2A4qNOqeHpmtbdBT.jpg",
+   "CollectieID": 229932
+ },
+ {
    "ID": 61791,
    "Naam": "Rise of the Planet of the Apes",
    "ReleaseDate": "2011-08-03",
@@ -3094,6 +3862,42 @@
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/ddWSWgAjAhksNhMeeBTSqY6otIA.jpg",
    "CollectieID": 173710
+ },
+ {
+   "ID": 20662,
+   "Naam": "Robin Hood",
+   "ReleaseDate": "2010-05-12",
+   "Tagline": "Rise and rise again, until lambs become lions.",
+   "Duur": 140,
+   "Omschrijving": "Het legendarische verhaal over de ervaren boogschutter Robin Hood (Russell Crowe), die in dienst treedt bij het leger van koning Richard om tegen de Fransen te vechten. Na de dood van de koning vertrekt Robin naar Nottingham, een stad die lijdt onder de corruptie van een tirannieke schout en torenhoge belastingen. Daar valt hij voor de weduwe Lady Marian (Cate Blanchett), die de identiteit en de motieven van deze kruisridder niet volledig vertrouwt. In de hoop de hand van Lady Marian te winnen en de stedelingen te redden, brengt Robin een bende bij elkaar die uitblinkt in dodelijke vechttrucs en levenslust. Samen vallen ze de rijke bovenklasse aan om het onrecht te herstellen...",
+   "TrailerId": "aMcDeNo6KUs",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/4gH0vhyOcl7QV3t81653CpWjEB6.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 11886,
+   "Naam": "Robin Hood",
+   "ReleaseDate": "1973-11-08",
+   "Tagline": "Meet Robin Hood and his MERRY MENagerie!",
+   "Duur": 83,
+   "Omschrijving": "De film vertelt de legende van Robin Hood met dieren als personages. Robin Hood is een outlaw die de onderdrukte bevolking oproept tot verzet en start in Sherwood Forest een bende . Hij wil het onrecht van Koning John en de plaatselijk Sheriff bestrijden, door de grote bedragen belasting terug te stelen en te verdelen onder de arme bevolking .  Maar al snel wordt Robin Hood en zijn outlaws vogelvrij verklaard . De jacht is geopend . . . maar aan welke zijde .",
+   "TrailerId": "SmdsIIdJXrI",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/krfAdfZFaReN4zsw2teSxvmQZIe.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 8367,
+   "Naam": "Robin Hood: Prince of Thieves",
+   "ReleaseDate": "1991-06-14",
+   "Tagline": "For the good of all men, and the love of one woman, he fought to uphold justice by breaking the law.",
+   "Duur": 143,
+   "Omschrijving": "Robin of Locksley zit na de kruistochten gevangen in Turkije. Hij ontsnapt dankzij de hulp van Moorse medegevangenen. Wanneer de twee terugkomen in Engeland komt Robin er achter dat zijn vader gedood is door de Sheriff van Nottingham en dat het volk door hem onderdrukt wordt. Hij vlucht naar Sherwood Forrest om van hier uit samen met het volk van Sherwood een rebellenstrijd aan te gaan met de sheriff.",
+   "TrailerId": "fERE7bGPwmo",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/SC1uy1zkxDFuEiZDIk5sq4eBbQ.jpg",
+   "CollectieID": 0
  },
  {
    "ID": 2109,
@@ -3132,6 +3936,42 @@
    "CollectieID": 90863
  },
  {
+   "ID": 59961,
+   "Naam": "Safe House",
+   "ReleaseDate": "2012-02-09",
+   "Tagline": "No one is safe",
+   "Duur": 115,
+   "Omschrijving": "Actiethriller met Denzel Washington als Tobin Frost, een overgelopen CIA-agent die onherstelbare schade heeft toegebracht aan de Verenigde Staten door staatsgeheimen te verkopen. Na jarenlang te zijn opgejaagd, wordt hij in Zuid-Afrika opgepakt en ondergebracht in het lokale Safe House waar Matt Weston (Ryan Reynolds) de leiding heeft. De levensgevaarlijke Frost is nauwelijks binnen of het Safe House wordt aangevallen. De onervaren Weston weet op het nippertje met Frost te ontsnappen. Terwijl ze achtervolgd worden door meedogenloze huurmoordenaars, probeert Weston te achterhalen wie er achter dit complot zit.",
+   "TrailerId": "oWzTOoOpFa8",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/q83VacoG2hHLvORTPtvCXKsdBSN.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 27576,
+   "Naam": "Salt",
+   "ReleaseDate": "2010-07-21",
+   "Tagline": "Who is Salt?",
+   "Duur": 100,
+   "Omschrijving": "Evelyn Salt (Angelina Jolie) is een CIA-agente, die ervan wordt beschuldigd een Russische spion te zijn die van plan is de president van Rusland te vermoorden. Wanneer ze op de vlucht slaat, komen al haar vaardigheden en haar verleden als geheim-agente goed van pas. Ze moet er echter voor zorgen om haar naam te zuiveren, voordat de machtigste machten ter wereld haar te pakken zullen krijgen en elk spoor van haar bestaan zullen wissen...",
+   "TrailerId": "QZ40WlshNwU",
+   "Toegevoegd": "2018-12-28 00:06:24.673",
+   "PosterPath": "/956xMjH4sPoqimqoLOP6AI19mjm.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 13764,
+   "Naam": "Santa Claus: The Movie",
+   "ReleaseDate": "1985-10-29",
+   "Tagline": "Guess Who's Coming To Town!",
+   "Duur": 108,
+   "Omschrijving": "In de eerste helft van de film zien we hoe de Kerstman honderden jaren geleden het eeuwige leven kreeg, en de uitverkorene werd om alle kinderen ter wereld cadeaus te brengen. In de tweede helft van de film zien we hoe Patch aan de Kerstman wil bewijzen dat hij een goede elf kan zijn. Hij gaat in zee met een kwaadaardige speelgoedfabrikant die er op uit is om de Kerstman uit de markt te drukken.",
+   "TrailerId": "1tSOE9PNTIQ",
+   "Toegevoegd": "2018-11-13 03:18:32.103",
+   "PosterPath": "/tZvGQF2623FD0MZgvOy18J5d7x5.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 857,
    "Naam": "Saving Private Ryan",
    "ReleaseDate": "1998-07-24",
@@ -3153,6 +3993,18 @@
    "TrailerId": "bJcLRFWxRno",
    "Toegevoegd": "2018-03-13 00:00:00.000",
    "PosterPath": "/yPisjyLweCl1tbgwgtzBCNCBle.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 1584,
+   "Naam": "School of Rock",
+   "ReleaseDate": "2003-10-03",
+   "Tagline": "He just landed the gig of his life: 5th grade.",
+   "Duur": 109,
+   "Omschrijving": "Herrieschopper en gitarist Dewey Finn droomt ervan de rockwedstrijd Battle of the Bands winnen. Zijn collega's gooien hem echter uit de groep. Dewey zit nu depressief te wezen in zijn huis, waarvan de huur ook al maanden niet meer betaald is. Wanneer er voor zijn huisgenoot Ned een telefoontje komt met een aanbod om in te vallen als leraar, doet Dewey zich voor als Ned en begint met lesgeven op de prestigieuze Horace Green lagere school. Het strenge schoolhoofd Mullins volgt Dewey met argusogen. De gitarist heeft dan wel geen kaas gegeten van lesgeven, hij brengt zijn leerlingen wel de liefde bij voor de rock 'n roll.",
+   "TrailerId": "l_ngIv5kFNY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/cREN222Yw78zvSQ9bg17Y9QZS0c.jpg",
    "CollectieID": 0
  },
  {
@@ -3252,15 +4104,63 @@
    "CollectieID": 0
  },
  {
-   "ID": 335797,
-   "Naam": "Sing",
-   "ReleaseDate": "2016-11-23",
-   "Tagline": "Auditions begin 2016.",
-   "Duur": 108,
-   "Omschrijving": "Buster Moon (Matthew McConaughey) is een erg enthousiaste en optimistische koala die de eigenaar is van een slecht draaiend theater. Om zijn schulden af te lossen en de lege zalen te vullen, besluit hij om een grootse zangwedstrijd te organiseren. Buster weet nog net 1000 dollar bijeen te schrapen als prijzengeld voor de wedstrijd. Door een fout van zijn assistent, een oude hagedis, staat echter op de flyers dat er 100.000 dollar te winnen is. Meteen is de hele dierenwereld in rep en roer.",
-   "TrailerId": "9zXiaDhAEwY",
-   "Toegevoegd": "2018-06-27 00:00:00.000",
-   "PosterPath": "/5XFchtGifv8mz4qlyT8PZ7ZsjfG.jpg",
+   "ID": 808,
+   "Naam": "Shrek",
+   "ReleaseDate": "2001-05-16",
+   "Tagline": "The greatest fairy tale never told.",
+   "Duur": 90,
+   "Omschrijving": "De slechte heerser van Duloc (de kleine Lord Farquaad) heeft alle sprookjesfiguren uit zijn land verbannen. De figuren, inclusief een praatgrage ezel, vluchten naar het moerasland van de oger Shrek, die erg op z'n privacy gesteld is. Farquaad maakt een deal met Shrek: als hij de mooie prinses Fiona redt uit een kasteel dat bewaakt wordt door een draak, krijgt Shrek z'n land terug.",
+   "TrailerId": "W37DlG1i61s",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/140ewbWv8qHStD3mlBDvvGd0Zvu.jpg",
+   "CollectieID": 2150
+ },
+ {
+   "ID": 809,
+   "Naam": "Shrek 2",
+   "ReleaseDate": "2004-05-19",
+   "Tagline": "Once upon another time...",
+   "Duur": 93,
+   "Omschrijving": "Na teruggekeerd te zijn van hun huwelijksreis horen Shrek en Fiona dat haar ouders van het huwelijk gehoord hebben. Ze willen niets liever dan haar ware liefde te ontmoeten in hun koninkrijk Far Far Away. Ze zijn zich echter niet bewust van de veranderingen die hun dochter onlangs ondergaan heeft. En dat hun nieuwe schoonzoon een 350 kilo zware Ogre met een slechte hygiëne is en een pratende ezel als vriend heeft.",
+   "TrailerId": "dB7a9utApIQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/akWDA0BMVYK4OTM92T5i91DYnsT.jpg",
+   "CollectieID": 2150
+ },
+ {
+   "ID": 810,
+   "Naam": "Shrek de Derde",
+   "ReleaseDate": "2007-05-17",
+   "Tagline": "Who's ready for Thirds?",
+   "Duur": 93,
+   "Omschrijving": "Shrek (Myers) en Fiona (Diaz) zijn waarnemend koning en koningin. Ze vinden er maar niets aan, dus gaat Shrek samen met Donkey (Murphy) en Puss In Boots (Banderas) op zoek naar de ware troonopvolger. Dat blijkt een neef van Koningin Lillian te zijn, Artie, die op kostschool zit en totaal geen interesse heeft in het koningschap. Terwijl Shrek weg is, is Prince Charming bezig met een staatsgreep om Far Far Away over te nemen.",
+   "TrailerId": "InR865IDDjU",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/paNMt0YI9tySVFZBHJzdoH6cA2x.jpg",
+   "CollectieID": 2150
+ },
+ {
+   "ID": 10192,
+   "Naam": "Shrek Forever After",
+   "ReleaseDate": "2010-05-16",
+   "Tagline": "It ain't Ogre... Til it's Ogre",
+   "Duur": 93,
+   "Omschrijving": "In plaats van het afschrikken van menig dorpsbewoner is Shrek (Mike Myers) inmiddels een echte familieman geworden. Shrek komt in contact met de gladde praatjesmaker Repelsteeltje. Hierdoor komt hij tot zijn schrik terecht in een alternatieve versie van zijn wereld, Far Far Away, waar er gejaagd wordt op Ogres en hij Fiona (Cameron Diaz) helemaal nooit ontmoet heeft. Aan hem de taak om zijn vertrouwde wereld weer terug te krijgen.",
+   "TrailerId": "WV8bbMxPBdc",
+   "Toegevoegd": "2019-03-05 10:40:08.467",
+   "PosterPath": "/iEM8T4moANA3rZC8qT9yDJULOaE.jpg",
+   "CollectieID": 2150
+ },
+ {
+   "ID": 270774,
+   "Naam": "Skiptrace",
+   "ReleaseDate": "2016-07-21",
+   "Tagline": "Ready. Set. Panic.",
+   "Duur": 107,
+   "Omschrijving": "Een van de weinige goede agenten die er nog te vinden zijn, Bennie Black, zit al meer dan een decennium achter de gevaarlijke misdaadbaas Victor Wong aan. Wanneer zijn jonge nichtje Samantha problemen krijgt met het misdaadsyndicaat van Wong, moet hij de enige man die haar kan helpen opsporen: de Amerikaanse gokker Connor Watts. Connor is op de vlucht voor dezelfde bende en een gevaarlijke Russische huurmoordenaar, maar Bennie onderschept hem eindelijk in Siberië. Hij begint aan een race tegen de klok om hem naar Hongkong te brengen.",
+   "TrailerId": "z1iefFsPSaw",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/sDTGLqXanwudLeOXKqfNgkxjSdU.jpg",
    "CollectieID": 0
  },
  {
@@ -3300,6 +4200,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 110415,
+   "Naam": "Snowpiercer",
+   "ReleaseDate": "2013-08-01",
+   "Tagline": "AD 2031, the passengers in the train are the only survivors on Earth.",
+   "Duur": 126,
+   "Omschrijving": "Het is het jaar 2031 in een post-apocalyptisch tijdperk. Na een mislukt experiment om de opwarming van de aarde te stoppen zorgt een ijstijd er voor dat alle mensen op aarde sterven, behalve de bewoners van de 'Snow Piercer'. Deze trein, aangedreven door een uit zichzelf bewegende motor die nooit stopt, reist de koude wereld rond met aan boord een groep overlevenden. De trein is opgedeeld in verschillende klassen wat er voor zorgt dat er aan boord een revolutie ontstaat.",
+   "TrailerId": "7dd4pogcc4Y",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/oP0ZWr6MsaQ1TV7xvnZJMKSfz0H.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 45612,
    "Naam": "Source Code",
    "ReleaseDate": "2011-03-30",
@@ -3336,6 +4248,270 @@
    "CollectieID": 0
  },
  {
+   "ID": 238713,
+   "Naam": "Spy",
+   "ReleaseDate": "2015-05-06",
+   "Tagline": "One of the guys. One of the Spies.",
+   "Duur": 120,
+   "Omschrijving": "Susan Cooper (Melissa McCarthy) is een pretentieloze analist bij de CIA en de miskende held achter vele gevaarlijke operaties. Maar als haar partner (Jude Law) plotseling verdwijnt en een andere topagent (Jason Statham) in opspraak raakt, verruilt ze haar kantoorbaan voor die van infiltrant. Om de mensheid voor een ramp te behoeden, begeeft ze zich in de wereld van een dodelijke wapenhandelaar.",
+   "TrailerId": "YrY3v1eDmQY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/xaOq0BnMHl445iZ4B7szBzaWgjS.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 13475,
+   "Naam": "Star Trek",
+   "ReleaseDate": "2009-05-06",
+   "Tagline": "The future begins.",
+   "Duur": 127,
+   "Omschrijving": "Het grootste avontuur aller tijden begint met \"Star Trek\" , het ongelooflijke verhaal over de eerste reis van de dan nog jonge bemanning van het meest geavanceerde ruimteschip dat ooit gebouwd is: De U.S.S. Enterprise. Tijdens hun reis vol actie, humor en gevaren moeten de rekruten van Starfleet optreden tegen een wraakzuchtige tegenstander die de mensheid bedreigt.",
+   "TrailerId": "iGAHnZ555nI",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/6V0CY7pwdDOCDS2XqNWahmIlVYh.jpg",
+   "CollectieID": 115575
+ },
+ {
+   "ID": 188927,
+   "Naam": "Star Trek Beyond",
+   "ReleaseDate": "2016-07-07",
+   "Tagline": null,
+   "Duur": 122,
+   "Omschrijving": "In het derde jaar van een vijfjarige missie arriveert de USS Enterprise op Starbase Yorktown voor bevoorrading en verlof voor haar vermoeide bemanning. Kapitein Kirk heeft moeite met de motivatie en dient een aanvraag in voor een promotie tot vice-admiraal en de commandant van Yorktown. In Yorktown wordt Sulu herenigd met zijn man en kind, beëindigt Uhura haar relatie met Spock en krijgt Spock te horen dat ambassadeur Spock (hijzelf uit een oude tijdlijn) is overleden en overweegt hij Starfleet te verlaten.",
+   "TrailerId": "XRVD32rnzOw",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/mLrQMqyZgLeP8FrT5LCobKAiqmK.jpg",
+   "CollectieID": 115575
+ },
+ {
+   "ID": 154,
+   "Naam": "Star Trek II: The Wrath of Khan",
+   "ReleaseDate": "1982-06-03",
+   "Tagline": "At the end of the universe lies the beginning of vengeance.",
+   "Duur": 113,
+   "Omschrijving": "Admiraal Kirk is verbonden aan de Starfleet Academie, terwijl Spock het commando heeft over de Enterprise en tegelijkertijd rekruten opleidt. Ondertussen komt Chekov, die met zijn nieuwe collega's aan boord van de Reliant het supergeheime Genesis-project begeleidt, een oude vijand tegen: Khan Noonian Singh. Deze slaagt erin de Reliant te kapen en het Genesis-instrument te stelen, waarmee elke planeet is om te vormen tot een vruchtbare wereld.",
+   "TrailerId": "vOIYaRb6XpQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/7VKpj4Xl3hTzgAS3xpVuOyqNnSv.jpg",
+   "CollectieID": 151
+ },
+ {
+   "ID": 157,
+   "Naam": "Star Trek III: The Search for Spock",
+   "ReleaseDate": "1984-05-31",
+   "Tagline": "A dying planet. A fight for life.",
+   "Duur": 105,
+   "Omschrijving": "Het lichaam van Spock rust op de nieuwe Genesisplaneet, maar Kirk vindt absoluut geen rust nu zijn beste vriend hem heeft verlaten. Zeker niet als hij ontdekt dat Spocks eeuwige ziel op McCoy is overgedragen en er nog steeds kans blijkt te zijn op Spocks redding. Tegen alle regels in kaapt hij de Enterprise om samen met de nu zeer onevenwichtige McCoy naar Genesis af te reizen.",
+   "TrailerId": "4wzG1u4zStM",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/b9ZaPiD6AaZR7CgQP5P4Kg893QL.jpg",
+   "CollectieID": 151
+ },
+ {
+   "ID": 54138,
+   "Naam": "Star Trek Into Darkness",
+   "ReleaseDate": "2013-05-05",
+   "Tagline": "Earth Will Fall",
+   "Duur": 132,
+   "Omschrijving": "'Star Trek into Darkness' volgt de bemanning van de Enterprise, als zij terug naar de Aarde worden geroepen. Daar ontdekken ze dat een niet te stoppen terreurbeweging binnen de Starfleet de vloot heeft vernietigd, samen met alles waar zij voor staat. Als gevolg daarvan verkeert de wereld in staat van crisis en moet Captain Kirk (Chris Pine) een klopjacht leiden op de verantwoordelijken. Hij blijkt daarbij nog een persoonlijke rekening te moeten vereffenen. Kirk leidt zijn team door een wereld die meer weg heeft van een oorlogsgebied, waarbij vriendschappen verscheurd zullen worden en offers gemaakt moeten worden voor de enige familie die Kirk nog heeft: zijn bemanning.",
+   "TrailerId": "MPLogYa9Q0o",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/41mhrXASAW3sdn7LBWF49uCX0xi.jpg",
+   "CollectieID": 115575
+ },
+ {
+   "ID": 168,
+   "Naam": "Star Trek IV: The Voyage Home",
+   "ReleaseDate": "1986-11-25",
+   "Tagline": "The key to saving the future can only be found in the past.",
+   "Duur": 119,
+   "Omschrijving": "In de ruimte worden signalen opgevangen van walvissen die op aarde allang uitgestorven zijn. Door de signalen die ze uitzenden, treden er storingen op in ruimtestations. Eén van de leden van de Enterprise komt op het idee om terug in de tijd te reizen en dan twee walvissen te vangen. Deze walvissen moeten reageren op de signalen anders zal de defensie van de Starfleet machteloos zijn. Captain T. Kirk, dr. Spock en nog een paar andere leden van de Enterprise krijgen een niet zo'n gemakkelijke missie, want het schijnt dat er niet zoveel walvissen meer op aarde zijn.",
+   "TrailerId": "YRjOBl8eNgg",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/xyTWTsh9Opfg5HX5hevLY8G7lEg.jpg",
+   "CollectieID": 151
+ },
+ {
+   "ID": 172,
+   "Naam": "Star Trek V: The Final Frontier",
+   "ReleaseDate": "1989-06-09",
+   "Tagline": "Adventure and imagination will meet at the final frontier.",
+   "Duur": 107,
+   "Omschrijving": "De nieuwste versie van het ruimteschip Enterprise heeft startproblemen en Captain Kirk besluit zijn kersverse slagschip nog even in het Spacedock te houden, als een urgente missie hem toch weer de ruimte in roept. Op Nimbus III heeft een afvallige Vulcan, met behulp van een klein groepje handlangers, een aantal ambassadeurs gevangen genomen.",
+   "TrailerId": "XE7_pOy_jZk",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/kugwPq2E5IkzrgoxRycnoqqUS9H.jpg",
+   "CollectieID": 151
+ },
+ {
+   "ID": 174,
+   "Naam": "Star Trek VI: The Undiscovered Country",
+   "ReleaseDate": "1991-12-05",
+   "Tagline": "The battle for peace has begun.",
+   "Duur": 113,
+   "Omschrijving": "Na een explosie op hun planeet hebben de Klingons ongeveer 50 jaar de tijd voordat hun ozonlaag volledig is vernietigd en zij zullen uitsterven. Ze hebben slechts één keuze: zich aansluiten bij de Federatie. Admiraal James T. Kirk en zijn vriend McCoy worden beschuldigd en veroordeeld op verdenking van een moordaanslag. Beiden worden naar de gevangenis Rura Penthe gestuurd. Intussen vraagt iedereen zich af of er ooit vrede gesloten zal worden met de Klingons.",
+   "TrailerId": "1wmQeXuDGGU",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/5PvIZAOFDe63M1oByFEFDoQobkc.jpg",
+   "CollectieID": 151
+ },
+ {
+   "ID": 199,
+   "Naam": "Star Trek: First Contact",
+   "ReleaseDate": "1996-11-21",
+   "Tagline": "Resistance is futile.",
+   "Duur": 111,
+   "Omschrijving": "Het ruimteschip 'Enterprise E' patrouilleert aan de rand van ons sterrenstelsel, wanneer de bemanning een noodboodschap van het hoofdkwartier van de Starfleet ontvangt: de Borg, een uiterst oorlogszuchtig buitenaards volk, zijn de ruimte van de Federatie binnengedrongen en stevenen af op de aarde. Kapitein Picard negeert de instructies van zijn oversten, die hem het bevel geven neutraal te blijven en zet de achtervolging in op de vijandige vloot. Maar de gevreesde koningin van Borg, die Picard zes jaar geleden had gevangengenomen en diens geest en lichaam in beslag had genomen, weigert zich gewonnen te geven.",
+   "TrailerId": "YQ1eiEvefKI",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/qhVB8eUGwkdVvd8Fezk0AgcMPDH.jpg",
+   "CollectieID": 115570
+ },
+ {
+   "ID": 193,
+   "Naam": "Star Trek: Generations",
+   "ReleaseDate": "1994-11-17",
+   "Tagline": "Boldly go.",
+   "Duur": 118,
+   "Omschrijving": "Captain Jean-Luc Picard en de crew van de Enterprise-D komen in een gevecht met Soren, een wetenschapper die sterren vernietigt in een poging om toegang te krijgen tot de mysterieuze Nexus. Data die sinds kort een emotie chip in zich heeft zorgt ervoor dat Geordi gevangen wordt genomen. Nu moet Captain Jean-Luc Picard Soren stoppen voordat hij alle sterren vernietigt, wat zal leiden tot miljoenen doden.",
+   "TrailerId": "MUieGh1fHSI",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/wjrXjlNpDq9U8vYmAwf420yDFtn.jpg",
+   "CollectieID": 115570
+ },
+ {
+   "ID": 200,
+   "Naam": "Star Trek: Insurrection",
+   "ReleaseDate": "1998-12-10",
+   "Tagline": "The battle for paradise has begun.",
+   "Duur": 103,
+   "Omschrijving": "Al sinds de oprichting van de federatie was de eerste richtlijn duidelijk: Starfleet mag zich nooit mengen in de natuurlijke ontwikkeling van andere beschavingen. Picard krijgt echter te maken met orders die daarmee strijdig zijn. Als hij ze uitvoert, zullen 600 vreedzame inwoners van Ba'Ku gedwongen zijn uit hun zeer bijzondere wereld te moeten vertrekken opdat - zo wordt gezegd - miljoenen anderen kunnen profiteren van de unieke, verjongende krachten die op Ba'ku aanwezig zijn. Als Picard de orders niet uitvoert, zet hij zijn starship, zijn loopbaan en zijn leven op het spel. Voor Picard is de keus duidelijk. Hij moet ingaan tegen starfleet en de opstand leiden om het paradijs voor de Ba'ku te behouden.",
+   "TrailerId": "N1XmtdMZdL8",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/9pbc44kltJhArUNyrdQcantMEvH.jpg",
+   "CollectieID": 115570
+ },
+ {
+   "ID": 201,
+   "Naam": "Star Trek: Nemesis",
+   "ReleaseDate": "2002-12-13",
+   "Tagline": "A generation's final journey... begins.",
+   "Duur": 117,
+   "Omschrijving": "Op weg naar de bruiloft van officier Will Riker en raadslid Deanna Troi raken kapitein Jean-Luc Picard en zijn crew afgeleid door een onverwachtte diplomatieke missie op de planeet Romulus. De bewoners van de planeet, sinds lange tijd vijand van de Federatie, hebben hun wens naar vredes-onderhandelingen uitgesproken. Wanneer de crew van de Enterprise echter op Romulus aankomt krijgen ze te maken met een bedreiging die de ondergang van de Aarde zou kunnen betekenen.",
+   "TrailerId": "LTMwwa4gEuU",
+   "Toegevoegd": "2018-02-26 00:00:00.000",
+   "PosterPath": "/n4TpLWPi062AofIq4kwmaPNBSvA.jpg",
+   "CollectieID": 115570
+ },
+ {
+   "ID": 152,
+   "Naam": "Star Trek: The Motion Picture",
+   "ReleaseDate": "1979-12-06",
+   "Tagline": "The human adventure is just beginning.",
+   "Duur": 132,
+   "Omschrijving": "Kirk, inmiddels admiraal, krijgt nog één keer het commando over zijn oude schip om een vreemde en dodelijke macht tegen te houden die op weg is naar de aarde. Kirk zoekt zijn oude bemanningsleden bij elkaar om met hen de planeet te redden.",
+   "TrailerId": "xb613GEepFg",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/ys5Sgpc27mVo3H5zYLPV9LWDq5.jpg",
+   "CollectieID": 151
+ },
+ {
+   "ID": 1893,
+   "Naam": "Star Wars - Episode I - The Phantom Menace",
+   "ReleaseDate": "1999-05-19",
+   "Tagline": "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+   "Duur": 136,
+   "Omschrijving": "Wanneer de slechte Trade Federation van plan is om de vredige planeet Naboo te veroveren, moet de Jedi-strijder Qui-Gon Jinn samen met zijn leerling Obi-Wan Kenobi proberen dit te voorkomen. Zij krijgen hulp van de jonge Koningin Amidala, en de Gungan Jar Jar Binks. Tijdens hun avontuur komen ze terecht op de planeet Tatooine, waar ze de jonge Anakin Skywalker tegenkomen. Qui-Gon en Obi-Wan zien in hem een mogelijk Jedi, en willen 'm gaan trainen.",
+   "TrailerId": "bD7bpG-zDJQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+   "CollectieID": 10
+ },
+ {
+   "ID": 1894,
+   "Naam": "Star Wars - Episode II - Attack of the Clones",
+   "ReleaseDate": "2002-05-15",
+   "Tagline": "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
+   "Duur": 142,
+   "Omschrijving": "Padmé Amidala, die haar ambtstermijn als koningin van Naboo er op heeft zitten en nu een plaats in de senaat inneemt, ontsnapt tot tweemaal toe ternauwernood aan een aanslag op haar leven. Jedi-meester Obi Wan Kenobi's leerling Anakin krijgt de taak om haar te beschermen, en er begint iets moois te bloeien tussen de twee. Ondertussen onderzoekt Obi Wan de verbanden tussen de moordaanslagen, een separatistische beweging onder leiding van voormalig Jedi Count Dooku, en de bouw van een kloon-leger op een afgelegen planeet.",
+   "TrailerId": "CO2OLQ2kiq8",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg",
+   "CollectieID": 10
+ },
+ {
+   "ID": 1895,
+   "Naam": "Star Wars - Episode III - Revenge of the Sith",
+   "ReleaseDate": "2005-05-17",
+   "Tagline": "The saga is complete.",
+   "Duur": 140,
+   "Omschrijving": "De Clone Wars razen naar hun hoogtepunt als Kanselier Palpatine wordt ontvoerd door General Grievous, een inmiddels bekende Jedi-doder. Anakin Skywalker en Obi-Wan Kenobi strijden als broers in dit gevecht om hem te redden en ze gaan een laatste confrontatie aan met de leider van de seperatisten, Count Dooku. Maar als de Jedi Council eindelijk een manier heeft gevonden om de Clone Wars tot een einde te brengen en de vrede in het melkwegstelsel te herstellen, houden ze er geen rekening mee dat Anakin zich langzaam tegen de Jedi Council keert als hij een keuze moet maken tussen Obi-Wan en zijn heimelijke vrouw Padmé, die hij in een visioen heeft zien sterven. De mysterieuze Sith Lord Darth Sidious slaat voor een laatste keer hard toe en alle gebeurtenissen leiden naar de eerste Star Wars film uit 1977 als George Lucas het laatste hoofdstuk in zijn verhaal afsluit.",
+   "TrailerId": "5UnjrG_N8hU",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/tgr5Pdy7ehZYBqBkN2K7Q02xgOb.jpg",
+   "CollectieID": 10
+ },
+ {
+   "ID": 11,
+   "Naam": "Star Wars - Episode IV - A New Hope",
+   "ReleaseDate": "1977-05-25",
+   "Tagline": "A long time ago in a galaxy far, far away...",
+   "Duur": 121,
+   "Omschrijving": "Luke Skywalker werkt op het land bij z'n oom en tante op de planeet Tatooine. Als zij door Keizerlijke troepen worden vermoord, sluit Luke zich aan bij de groep rebellen die vecht tegen de tirannie van de Keizer en de slechte Darth Vader. Luke, Princess Leia, Han Solo en de andere rebellen doen een poging de Death Star, het nieuwe wapen van de Keizer, te vernietigen.",
+   "TrailerId": "vZ734NWnAHA",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg",
+   "CollectieID": 10
+ },
+ {
+   "ID": 1891,
+   "Naam": "Star Wars - Episode V - The Empire Strikes Back",
+   "ReleaseDate": "1980-05-20",
+   "Tagline": "The Adventure Continues...",
+   "Duur": 124,
+   "Omschrijving": "Darth Vader zet zich in om de rebellie tegen Het Keizerrijk de kop in te drukken. De rebellen hebben een basis op de ijsplaneet Hoth. Wanneer keizerlijke troepen arriveren om de rebellen te vernietigen vluchten Han Solo en Princess Leia naar Cloud City, waar ze gevangen worden genomen door Vader. Luke Skywalker reist af naar de planeet Dagobah, waar hij door de Jedi-meester Yoda in de Force getraind wordt.",
+   "TrailerId": "JNwNXF9Y6kY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/6u1fYtxG5eqjhtCPDx04pJphQRW.jpg",
+   "CollectieID": 10
+ },
+ {
+   "ID": 1892,
+   "Naam": "Star Wars - Episode VI - Return of the Jedi",
+   "ReleaseDate": "1983-05-23",
+   "Tagline": "The Empire Falls...",
+   "Duur": 135,
+   "Omschrijving": "Het laatste deel van de oude Star Wars trilogie. Na Han Solo uit de handen van Jabba the Hutt gered te hebben, voltooit Luke z'n Jedi-training bij Yoda. De Keizer bouwt een nieuwe Death Star, en dit keer overziet hij zelf de bouw hiervan. Luke gaat de confrontatie met Darth Vader en de Keizer aan, terwijl z'n vrienden op de maan van Endor met hulp van de Ewoks de keizerlijke troepen te lijf gaan.",
+   "TrailerId": "XgB4gaY2dWE",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/jx5p0aHlbPXqe3AH9G15NvmWaqQ.jpg",
+   "CollectieID": 10
+ },
+ {
+   "ID": 140607,
+   "Naam": "Star Wars: The Force Awakens",
+   "ReleaseDate": "2015-12-15",
+   "Tagline": "Every generation has a story.",
+   "Duur": 136,
+   "Omschrijving": "Dertig jaar na de overwinning op het Galactische Keizerrijk is er een nieuwe bedreiging: de kwaadaardige Kylo Ren en de First Order. Stormtrooper Finn loopt over naar het verzet, crasht op woestijnplaneet Jakku en ontmoet hier Rey. Zij heeft een droid die belangrijke geheime informatie bevat over de locatie van de laatst overgebleven Jedi Knight, Luke Skywalker. Het duo werkt samen met Han Solo om te zorgen dat het verzet deze informatie in handen krijgt.",
+   "TrailerId": "mMDgTt4kLdo",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg",
+   "CollectieID": 10
+ },
+ {
+   "ID": 181808,
+   "Naam": "Star Wars: The Last Jedi",
+   "ReleaseDate": "2017-12-13",
+   "Tagline": "The Saga Continues",
+   "Duur": 152,
+   "Omschrijving": "Terwijl ze haar eerste stappen heeft gezet in een grote wereld, gaat Rey verder op haar epische reis met Finn, Poe en Luke Skywalker in het volgende hoofdstuk van de saga. Rey gaat in de leer bij Luke Skywalker op Ahch-To. Luke moet ondertussen afrekenen met een geloofscrisis. Ondertussen bereidt het verzet zich voor op de komende strijd met The First Order en brengt ze naar nieuwe plaatsen in het sterrenstelsel, waaronder een casinostad waar de bovenklasse zich bevindt.",
+   "TrailerId": "ye6GCY_vqYk",
+   "Toegevoegd": "2018-03-12 00:00:00.000",
+   "PosterPath": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+   "CollectieID": 10
+ },
+ {
    "ID": 9384,
    "Naam": "Starsky & Hutch",
    "ReleaseDate": "2004-03-05",
@@ -3345,6 +4521,18 @@
    "TrailerId": "MtUcpYifkAk",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/plbKo5JoCijmqghCWrw2ef8WFhg.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 10048,
+   "Naam": "Stealth",
+   "ReleaseDate": "2005-07-27",
+   "Tagline": "Fear The Sky",
+   "Duur": 121,
+   "Omschrijving": "Luitenants Gannon, Wade en Purcell krijgen de opdracht een geheim Artifical Intelligence-programma te ontregelen. Het systeem is op hol geslagen en er dreigt een nieuwe Wereldoorlog als de piloten hun opdracht niet kunnen volbrengen.",
+   "TrailerId": "a2PW7a9ViDc",
+   "Toegevoegd": "2018-07-06 00:00:00.000",
+   "PosterPath": "/tiezxIq6TJO4B09c13Z8a675dDy.jpg",
    "CollectieID": 0
  },
  {
@@ -3396,6 +4584,54 @@
    "CollectieID": 0
  },
  {
+   "ID": 8681,
+   "Naam": "Taken",
+   "ReleaseDate": "2008-02-18",
+   "Tagline": "They took his daughter.  He'll take their lives.",
+   "Duur": 93,
+   "Omschrijving": "Bryan (Liam Neeson) is een overbezorgde vader, die gescheiden is van zijn vrouw (Famke Janssen). Als zijn dochter naar Parijs wil staat hij dit met tegenzin toe. Als ze dan in handen komt van vrouwenhandelaren, reist hij naar Parijs af om haar te zoeken, waarbij zijn bij de Geheime Dienst opgedane ervaring goed van pas komt...",
+   "TrailerId": "CvUxdQ4q-Lg",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/3zlffXmo7QpVBc17QIJWrRfasVr.jpg",
+   "CollectieID": 135483
+ },
+ {
+   "ID": 82675,
+   "Naam": "Taken 2",
+   "ReleaseDate": "2012-09-27",
+   "Tagline": "First they took his daughter. Now they're coming for him.",
+   "Duur": 91,
+   "Omschrijving": "CIA agent Bryan Mills gaat met zijn gezin op vakantie in Istanbul. Eenmaal daar is de vader van een van de kidnappers, die Bryan vermoord heeft toen hij zijn dochter Kim probeerde te redden, uit op wraak. Hij neemt Bryan en zijn vrouw in gijzeling. In een poging om gered te worden doet Bryan een beroep op Kim. Met Bryans special forces technieken probeert hij zijn familie veilig thuis te krijgen en de kidnappers één voor één uit te schakelen.",
+   "TrailerId": "VpaT8NzkLgE",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/rDX2zd9aVMJnBmlS8efwOYsi76R.jpg",
+   "CollectieID": 135483
+ },
+ {
+   "ID": 260346,
+   "Naam": "Taken 3",
+   "ReleaseDate": "2014-12-16",
+   "Tagline": "It Ends Here",
+   "Duur": 109,
+   "Omschrijving": "De wereld van ex-CIA agent Bryan Mills stort in wanneer hij valselijk beschuldigd wordt van een moord die vlakbij zijn huis wordt gepleegd. Hij wordt op de hielen gezeten door een snuggere rechercheur, maar Mills wendt zijn speciale vaardigheden aan om de echte moordenaar op te sporen en zijn unieke vorm van rechtvaardigheid te voltrekken.",
+   "TrailerId": "r0EPt7-J1eY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/ikDwR3i2bczqnRf1urJTy77YTFf.jpg",
+   "CollectieID": 135483
+ },
+ {
+   "ID": 11045,
+   "Naam": "Taxi",
+   "ReleaseDate": "2004-10-06",
+   "Tagline": "Take a Ride on the Wild Side.",
+   "Duur": 97,
+   "Omschrijving": "Belle, een bezorgster ter fiets besluit haar snelheidstalent aan te wenden om taxi-chauffeuse te worden. Ze wordt al snel bekend doordat ze met 135 mph de stad door scheurt. Een zekere politieman, die niet over deze rijstijl beschikt, weet Belle over te halen om voor hem te komen werken. Samen gaan ze op zoek naar een bende bloedmooie, vrouwelijke bankovervallers.",
+   "TrailerId": "oCjiNBiEUaQ",
+   "Toegevoegd": "2018-08-25 15:42:15.437",
+   "PosterPath": "/7Ly55SeRBozH3ZBeSOodcgKGYlF.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 72105,
    "Naam": "Ted",
    "ReleaseDate": "2012-06-29",
@@ -3418,6 +4654,30 @@
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/A7HtCxFe7Ms8H7e7o2zawppbuDT.jpg",
    "CollectieID": 266672
+ },
+ {
+   "ID": 98566,
+   "Naam": "Teenage Mutant Ninja Turtles",
+   "ReleaseDate": "2014-08-07",
+   "Tagline": "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
+   "Duur": 101,
+   "Omschrijving": "De stad heeft helden nodig. Duisternis hangt boven New York City als Shredder en zijn kwade Foot Clan een ijzeren greep hebben op alles van de politie tot aan politici. De toekomst is grimmig tot vier broers vanuit de riolen hun lot ontdekken als Teenage Mutant Ninja Turtles. De Turtles moeten werken met onverschrokken reporter April en haar bijdehante cameraman Vern Fenwick om de stad te redden en Shredder's duivelse plan zien te ontrafelen.",
+   "TrailerId": "dwXFsrp6WBs",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/oDL2ryJ0sV2bmjgshVgJb3qzvwp.jpg",
+   "CollectieID": 401562
+ },
+ {
+   "ID": 308531,
+   "Naam": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+   "ReleaseDate": "2016-06-01",
+   "Tagline": "Raise some shell.",
+   "Duur": 112,
+   "Omschrijving": "De vier broers Raphael, Michelangelo, Leonardo en Donatello keren terug naar de stad als de Teenage Mutant Ninja Turtles. De turtles moeten de stad zien te redden van een nieuwe dreiging. Daaronder vallen twee gevaarlijke schurken die de namen Bebop en Rocksteady dragen.",
+   "TrailerId": "5VpUTb3Ex_8",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg",
+   "CollectieID": 401562
  },
  {
    "ID": 280,
@@ -3612,6 +4872,18 @@
    "CollectieID": 52749
  },
  {
+   "ID": 527435,
+   "Naam": "The Christmas Chronicles",
+   "ReleaseDate": "2018-11-22",
+   "Tagline": "Santa's in town early this year",
+   "Duur": 104,
+   "Omschrijving": "Het verhaal van een broer en zus, Teddy en Kate Pierce, die het plan hebben gevat om op kerstavond de Kerstman op te wachten en te filmen. Hun plan draait echter uit op een onverwachte reis waar de meeste kinderen alleen maar van kunnen dromen. Nadat ze de Kerstman hebben gespot, sluipen ze namelijk in zijn slee en beleven een bijzonder avontuur.",
+   "TrailerId": "EGo6Jv3HFk0",
+   "Toegevoegd": "2018-12-27 22:43:49.683",
+   "PosterPath": "/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 2454,
    "Naam": "The Chronicles of Narnia: Prince Caspian",
    "ReleaseDate": "2008-05-15",
@@ -3660,6 +4932,18 @@
    "CollectieID": 115776
  },
  {
+   "ID": 353491,
+   "Naam": "The Dark Tower",
+   "ReleaseDate": "2017-08-03",
+   "Tagline": "There are other worlds than these",
+   "Duur": 95,
+   "Omschrijving": "De wereld van Roland Deschain (Idris Elba) valt uit elkaar. Eens werd deze gekenmerkt door vergaande magie en technologie, maar beiden lijken slechts relieken uit het verleden te zijn. Om de wereld te redden is hij op een queeste naar de Donkere Toren, een verbindingspunt van alle universa. Hij moet de Donkere Toren vinden, voordat de slechterik Man in Black (Matthew McConaughey) dat doet en de toren vernietigt. Dit zou namelijk het einde van de mensheid betekenen.",
+   "TrailerId": "GjwfqXTebIY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/4KUIWpUDrHRMMFn2RIXa4XId66X.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 435,
    "Naam": "The Day After Tomorrow",
    "ReleaseDate": "2004-05-26",
@@ -3672,6 +4956,138 @@
    "CollectieID": 0
  },
  {
+   "ID": 156022,
+   "Naam": "The Equalizer",
+   "ReleaseDate": "2014-09-24",
+   "Tagline": "What do you see when you look at me?",
+   "Duur": 132,
+   "Omschrijving": "Een voormalig geheimagent, Robert McCall (Denzel Washington), heeft zijn eigen dood in scene gezet om een rustig leven te leiden in Boston. Maar wanneer hij een jonge prostituee (Chloë Grace Moretz) probeert te redden, krijgt hij problemen met de Russische maffia. Vanuit wraakgevoelens en om boete te doen voor de zonden uit zijn verleden, gaat hij als privédetective 'The Equalizer' te werk om recht te zetten wat krom is en bij te springen waar de wet tekortschiet.",
+   "TrailerId": "qNggvk8QtaY",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/2eQfjqlvPAxd9aLDs8DvsKLnfed.jpg",
+   "CollectieID": 523855
+ },
+ {
+   "ID": 345887,
+   "Naam": "The Equalizer 2",
+   "ReleaseDate": "2018-07-19",
+   "Tagline": "There is no equal",
+   "Duur": 122,
+   "Omschrijving": "Robert McCall neemt het recht in eigen handen en komt op keiharde wijze op voor mensen die het slachtoffer zijn van een misdrijf. Hoe ver is hij bereid te gaan als het gaat om iemand waar hij van houdt?",
+   "TrailerId": null,
+   "Toegevoegd": "2018-11-17 09:57:44.697",
+   "PosterPath": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+   "CollectieID": 523855
+ },
+ {
+   "ID": 27578,
+   "Naam": "The Expendables",
+   "ReleaseDate": "2010-08-03",
+   "Tagline": "Choose Your Weapon.",
+   "Duur": 103,
+   "Omschrijving": "'The Expendables' zijn een groep huursoldaten, elk met een eigen specialisme die in opdracht infiltreren in een Zuid-Amerikaans land. Zij gaan de strijd aan met de wrede dictator die het land in zijn greep houdt. De mannen beseffen al snel dat niet alles in deze missie is wat het lijkt. Ze raken steeds dieper verstrengeld in een gevaarlijk web van bedrog en verraad. Hierdoor wordt hun missie gedwarsboomd en brengen ze een onschuldig leven in gevaar. Maar de mannen worstelen met een nog zwaardere uitdaging... één die hun band onderling dreigt te vernietigen.",
+   "TrailerId": null,
+   "Toegevoegd": "2018-07-28 02:55:30.410",
+   "PosterPath": "/4gLFKsalwRy0ONzfYaRsKr5wilK.jpg",
+   "CollectieID": 126125
+ },
+ {
+   "ID": 76163,
+   "Naam": "The Expendables 2",
+   "ReleaseDate": "2012-08-08",
+   "Tagline": "Back for War.",
+   "Duur": 103,
+   "Omschrijving": "De louche CIA agent Church (Bruce Willis) stuurt de Expendables, een groep huurlingen, opnieuw op een gevaarlijke missie. De groep moet een vermist pakketje zien terug te krijgen bij het agentschap. Het pakketje is echter in Gazak, een door oorlog verscheurd Oost-Europees land. De missie loopt in het honderd wanneer blijkt dat een andere groep huurlingen, de Sangunaires, dezelfde opdracht probeert uit te voeren.",
+   "TrailerId": "ip_CYHdyUBs",
+   "Toegevoegd": "2018-07-28 02:55:44.397",
+   "PosterPath": "/dJPnTe1qOcO7XqsJvESFph83m6m.jpg",
+   "CollectieID": 126125
+ },
+ {
+   "ID": 138103,
+   "Naam": "The Expendables 3",
+   "ReleaseDate": "2014-08-04",
+   "Tagline": "New team. New attitude. New mission.",
+   "Duur": 127,
+   "Omschrijving": "Barney, Christmas en de rest van het team komt face-to-face te staan met Conrad Stonebanks, de oud-medeoprichter van The Expendables en tegenwoordig een meedogenloze wapenhandelaar waarvan Barney dacht dat hij hem eerder \"vervangbaar\" had gemaakt. Stonebanks heeft maar één doel: een einde maken aan The Expendables. Voor de onvermijdelijke confrontatie werft Barney een hele reeks nieuwe high-tech teamleden.",
+   "TrailerId": "wJns7kWClf4",
+   "Toegevoegd": "2018-07-28 02:55:54.020",
+   "PosterPath": "/xczFwJhcCb2rUMylXam0Ni7Yn5o.jpg",
+   "CollectieID": 126125
+ },
+ {
+   "ID": 337339,
+   "Naam": "The Fast & Furious 8",
+   "ReleaseDate": "2017-04-12",
+   "Tagline": "Family no more",
+   "Duur": 136,
+   "Omschrijving": "Nu Dom en Letty op huwelijksreis zijn, Brian en Mia met vervroegd pensioen zijn gegaan en de rest van de crew vrijgesproken is, lijken de leden van het team normale levens te leiden. Maar als een mysterieuze vrouw (Charlize Theron) Dom verleidt om terug te keren naar het misdaadleven en hij degenen om zich heen bedriegt, wordt de hechte vriendschap van de groep op de proef gesteld.  Van de kust van Cuba, naar de straten van New York City, naar de ijsvlaktes van de arctische Barentszzee, moet onze elite-eenheid wederom plankgas de wereld rond om een anarchist te belemmeren in het ontketenen van wereldwijde chaos... En om de man die hen tot een familie maakte thuis te brengen.",
+   "TrailerId": "JwMKRevYa_M",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+   "CollectieID": 9485
+ },
+ {
+   "ID": 9799,
+   "Naam": "The Fast and the Furious",
+   "ReleaseDate": "2001-06-22",
+   "Tagline": "Live life 1/4 mile at a time.",
+   "Duur": 106,
+   "Omschrijving": "Domenic Toretto is de leider van een straatbende die er van verdacht wordt dure elektronische apparatuur gestolen te hebben. Een undercover agent probeert uit te vinden wie er verantwoordelijk is voor de diefstallen. Hij wordt verliefd op Domenic's jongere zus.",
+   "TrailerId": "ar00z32bXNQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/x4So4OkqnjfOSBCCNd5uosMmQiB.jpg",
+   "CollectieID": 9485
+ },
+ {
+   "ID": 9615,
+   "Naam": "The Fast and the Furious: Tokyo Drift",
+   "ReleaseDate": "2006-06-03",
+   "Tagline": "On the streets of Tokyo, speed needs no translation...",
+   "Duur": 104,
+   "Omschrijving": "Shaun Boswell was altijd al een buitenbeentje. Zijn enige binding met de buitenwereld is illegaal straatracen. Om aan celstraf te ontkomen moet hij naar zijn vader in Tokio die daar in het leger zit. Japan is nu net het land waar het straatracen is uitgevonden... Bij zijn eerste mislukte poging neemt hij het op tegen de \"Drift King\" die banden heeft met de Japanse maffia, Yakuza. Hij begeeft zich noodgedwongen in de onderwereld van Tokio in een spel op leven en dood.",
+   "TrailerId": "rGzig4ugMJ0",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/f9V0iTSYwnxW6tPIjSE7jrGC7eP.jpg",
+   "CollectieID": 9485
+ },
+ {
+   "ID": 222935,
+   "Naam": "The Fault in Our Stars",
+   "ReleaseDate": "2014-05-16",
+   "Tagline": "One Sick Love Story",
+   "Duur": 125,
+   "Omschrijving": "Hazel en Gus zijn twee tieners die een wrange humor, een minachting voor het conventionele en de liefde delen. Hun relatie is des te wonderbaarlijker gezien het feit dat Hazels andere constante metgezel een zuurstoftank is, Gus grappen maakt over zijn beenprothese en ze verliefd op elkaar werden bij een steungroep voor kankerpatiënten.",
+   "TrailerId": "9ItBvH5J6ss",
+   "Toegevoegd": "2019-03-05 10:40:46.413",
+   "PosterPath": "/9KlB8gzumAzcIitMRuy2NJP8GYG.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 1729,
+   "Naam": "The Forbidden Kingdom",
+   "ReleaseDate": "2008-04-18",
+   "Tagline": "The battle for eternity is the fantasy of a lifetime.",
+   "Duur": 104,
+   "Omschrijving": "Een tiener uit New York is geobsedeerd door klassieke kung-fu films. Op een dag doet hij een buitengewone ontdekking in Chinatown: hij vindt de legendarische Ru Yi-staf van de Chinese strijder Sun Wukong \"the Monkey King\". Met het verloren gewaande overblijfsel in handen wordt de tiener onverwacht teruggestuurd naar het oude China om daar de ware betekenis van kung-fu te leren. Daar ontmoet hij verschillende martial arts krijgers die hem bij zullen staan tijdens zijn missie om Sun Wukong te bevrijden.",
+   "TrailerId": "aVPJEaWtMdQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/4jTVS5uij49cqzLKXjaQywIp7cV.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 346685,
+   "Naam": "The Girl on the Train",
+   "ReleaseDate": "2016-10-05",
+   "Tagline": "What you can see can hurt you.",
+   "Duur": 112,
+   "Omschrijving": "Het verhaal volgt een recent gescheiden vrouw, Rachel genaamd, die de trein neemt naar Manhattan. Daar is ze getuige van een ogenschijnlijk perfect koppel, Scott en Megan. Maar op een dag gaat er iets mis tussen de twee en raakt Rachel verzeild in een mysterieus complot rondom de verdwijning van Megan Hipwell.",
+   "TrailerId": "CvEv5JhIXf8",
+   "Toegevoegd": "2019-03-05 10:40:58.210",
+   "PosterPath": "/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 64682,
    "Naam": "The Great Gatsby",
    "ReleaseDate": "2013-05-10",
@@ -3681,6 +5097,18 @@
    "TrailerId": "ozkOhXmijtk",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/oJpOYPpVWyPeunGbbDGH1KFvea0.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 311324,
+   "Naam": "The Great Wall",
+   "ReleaseDate": "2016-12-16",
+   "Tagline": "1700 years to build. 5500 miles long. What were they trying to keep out?",
+   "Duur": 103,
+   "Omschrijving": "William, een Europese huursoldaat, is samen met zijn kompaan op zoek naar zoektocht  naar een krachtig wapen als ze gevangen genomen worden door het Chinese leger.  Vervolgens raken ze verzeild in een oorlog tegen monsters die het bestaan van China  bedreigen. William moet kiezen tussen zich in de strijd mengen, of zijn oorspronkelijke  zoektocht voortzetten.",
+   "TrailerId": "AhFVmjECk1U",
+   "Toegevoegd": "2018-06-27 00:00:00.000",
+   "PosterPath": "/p70dq1YxabemdZDm5K6Q8G10wSn.jpg",
    "CollectieID": 0
  },
  {
@@ -3708,13 +5136,49 @@
    "CollectieID": 0
  },
  {
+   "ID": 18785,
+   "Naam": "The Hangover",
+   "ReleaseDate": "2009-06-05",
+   "Tagline": "Some guys just can't handle Vegas.",
+   "Duur": 100,
+   "Omschrijving": "Twee dagen voor zijn huwelijk, gaat Doug met drie vrienden naar Las Vegas, om daar een knallend vrijgezellenfeest te houden. Ze feesten er op los, maar als ze de volgende morgen wakker worden weten ze niks meer van de vorige avond. Om één of andere reden vinden ze een tijger in de douche en zitten ze opgescheept met een zes maanden oude baby. Doug is echter nergens te bekennen. Een race tegen de klok volgt om Doug toch nog op tijd voor het altaar te laten verschijnen.",
+   "TrailerId": "jj6wcUes1no",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+   "CollectieID": 86119
+ },
+ {
+   "ID": 45243,
+   "Naam": "The Hangover Part II",
+   "ReleaseDate": "2011-05-25",
+   "Tagline": "The Wolfpack Is Back",
+   "Duur": 102,
+   "Omschrijving": "Phil, Stu, Alan en Doug reizen af naar het exotische Thailand voor de bruiloft van Stu. Na het onvergetelijke vrijgezellenfeest in Las Vegas wat uitliep op een grote ravage kiest Stu nu voor een veilige, ingetogen 'pre-bruiloft' brunch. Echter, dingen gaan (weer) niet zoals gepland. What happens in Vegas, may stay in Vegas, maar wat het gezelschap in Bangkok staat te wachten overtreft al hun verwachtingen...",
+   "TrailerId": "9xXBjtAGIzE",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/yoiJyVknXfU4jcJvPYeMOCgyLky.jpg",
+   "CollectieID": 86119
+ },
+ {
+   "ID": 109439,
+   "Naam": "The Hangover Part III",
+   "ReleaseDate": "2013-05-23",
+   "Tagline": "It all ends.",
+   "Duur": 100,
+   "Omschrijving": "Deze keer is er geen huwelijk. En dus ook geen vrijgezellenfeest. Er kan niets misgaan, toch? Wanneer Alan (Zach Galifianakis) na de dood van zijn vader door een diep dal gaat, is de 'Wolfpack' het enige wat hij nog heeft. Het gezelschap komt samen wanneer ze door een zaak uit het verleden achtervolgd worden. Maar Las Vegas is slechts één van hun stopplaatsen...",
+   "TrailerId": "FlNGXOs_vSM",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
+   "CollectieID": 86119
+ },
+ {
    "ID": 412988,
    "Naam": "The Happytime Murders",
    "ReleaseDate": "2018-08-22",
    "Tagline": "No Sesame. All Street.",
    "Duur": 91,
    "Omschrijving": "Sinds Phil Phillips na een incident ontslagen is werkt deze pop als privé-detective die kort achter elkaar getuige is van twee moorden, waaronder die van zijn broer. Aangezien bij beide incidenten een hoofdrolspeler uit de tv-serie 'Happytime' om het leven kwam, komt Phil al snel tot de conclusie dat beide moorden door dezelfde persoon zijn gepleegd. Hij is vastbesloten de dader te ontmaskeren, maar daarvoor moet hij wel samenwerken met Connie Edwards, zijn voormalige partner.",
-   "TrailerId": "-eks8LG72uo",
+   "TrailerId": "#NAAM?",
    "Toegevoegd": "2018-11-21 08:17:13.390",
    "PosterPath": "/rWxkur51srfVnMn2QOFjE7mbq6h.jpg",
    "CollectieID": 0
@@ -3804,6 +5268,66 @@
    "CollectieID": 0
  },
  {
+   "ID": 70160,
+   "Naam": "The Hunger Games",
+   "ReleaseDate": "2012-03-12",
+   "Tagline": "May The Odds Be Ever In Your Favor.",
+   "Duur": 142,
+   "Omschrijving": "Het voormalige Noord Amerika staat bekend als het land Panem, waar het regerende Capitol van haar twaalf districten eist dat zij jaarlijks één jongen en één meisje leveren voor The Hunger Games. De 24 door loting geselecteerde jongeren worden gezamenlijk in een gigantische arena gezet, waar er slechts één levend uit kan komen. De rest van Panem wordt gedwongen het mediaspektakel live op televisie te volgen…  De zestienjarige Katniss Everdeen komt uit district 12, een van de armste districten. Ze weet zichzelf, haar moeder en zusje Prim in leven te houden door illegaal in de bossen te jagen met haar beste vriend Gale. Maar dan wordt Prim geselecteerd voor The Hunger Games. Katniss twijfelt geen moment en neemt de plaats van haar zusje in. Vanaf dat moment heeft ze nog maar één doel: overleven tegen elke prijs. Eenmaal in de arena wordt ze geconfronteerd met de moeilijke keuzes die ze daarvoor moet maken. Afwegingen tussen de dood en mededogen, maar ook tussen liefde en leven.",
+   "TrailerId": "mfmrPu43DF8",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/tVDLyelfn4xRWGUslNcDebWIhHM.jpg",
+   "CollectieID": 131635
+ },
+ {
+   "ID": 101299,
+   "Naam": "The Hunger Games: Catching Fire",
+   "ReleaseDate": "2013-11-15",
+   "Tagline": "Every revolution begins with a spark.",
+   "Duur": 146,
+   "Omschrijving": "Na het winnen van de brute Hongerspelen zijn Katniss en Peeta alles behalve veilig. Er gaan geruchten over een opstand tegen het Capitool. Een opstand die zij hebben helpen ontstaan  President Snow accepteert als enig excuus voor hun gedrag de overweldigende liefde die ze voor elkaar voelen. En tijdens hun verplichte zegetocht langs alle districten zullen ze de wereld hiervan moeten overtuigen. Als dat niet lukt, zullen er vreselijke consequenties zijn.  Het Capitool kondigt kort daarna de 75ste editie van de Hongerspelen aan. Deze heeft als ‘Quarter Quell’ speciale nieuwe regels. En die doen iedereen versteld staan.",
+   "TrailerId": "jyPnQw_Lqds",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/8gMApmnJwniqaRm93sOEcMA9f6v.jpg",
+   "CollectieID": 131635
+ },
+ {
+   "ID": 131631,
+   "Naam": "The Hunger Games: Mockingjay - Part 1",
+   "ReleaseDate": "2014-11-18",
+   "Tagline": "Fire burns brighter in the darkness",
+   "Duur": 123,
+   "Omschrijving": "Tegen alle verwachtingen in heeft Katniss Everdeen (Jennifer Lawrence) de Hongerspelen twee keer overleefd. Maar ondanks dat ze de bloederige arena levend heeft verlaten, is ze nog steeds niet veilig. Haar geliefde Peeta Mellark (Josh Hutcherson) is gevangen genomen door Het Capitool dat uit is op wraak en president Snow maakt duidelijk dat niemand veilig is. Katniss groeit uit tot het gezicht van de revolutie, een opstand van de districten die zich verzet tegen de regering die hen regeert en verhongert. Bij de massa wordt ze bekend als hun 'spotgaai'.",
+   "TrailerId": "tx3dIRj_c6c",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/gj282Pniaa78ZJfbaixyLXnXEDI.jpg",
+   "CollectieID": 131635
+ },
+ {
+   "ID": 131634,
+   "Naam": "The Hunger Games: Mockingjay - Part 2",
+   "ReleaseDate": "2015-11-18",
+   "Tagline": "Nothing can prepare you for the end",
+   "Duur": 137,
+   "Omschrijving": "The Hunger Games: Mockingjay Part 2 is de allesbepalende finale van de The Hunger Games reeks. Nadat Katniss Everdeen twee keer de Hongerspelen heeft overleefd gaat ze samen met Gale, Finnick, Peeta en een eenheid van District 13, de confrontatie aan met President Snow. Het wordt een ongeëvenaarde strijd tegen het Capitool, waarin zij hun leven riskeren om de bevolking van Panem te bevrijden en President Snow van zijn troon te stoten. De dodelijke vallen, vijanden en morele keuzes die hen te wachten staan, zijn uitdagender dan ooit te voren. Katniss beseft zich dat dit geen strijd is om te overleven, maar dat ze de toekomst van velen zal bepalen.",
+   "TrailerId": "RkArjep9xyE",
+   "Toegevoegd": "2018-08-12 05:51:46.273",
+   "PosterPath": "/w93GAiq860UjmgR6tU9h2T24vaV.jpg",
+   "CollectieID": 131635
+ },
+ {
+   "ID": 290595,
+   "Naam": "The Huntsman: Winter's War",
+   "ReleaseDate": "2016-04-06",
+   "Tagline": "The story before Snow White",
+   "Duur": 114,
+   "Omschrijving": "Na de dood van haar zus Ravenna, schakelt de jonge ijskoningin Freya haar soldaten in om een magische spiegel voor haar te bemachtigen. Ze ontdekt dat Ravenna tot leven kan worden gewekt met de duistere magie van de spiegel en samen blijken ze machtiger te zijn dan de meest sinistere krachten die het land ooit hebben bedreigd.",
+   "TrailerId": "F2-_OQL9fBk",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/iphYY4lSdkBigtsoxQv9YbsTfm1.jpg",
+   "CollectieID": 393379
+ },
+ {
    "ID": 9806,
    "Naam": "The Incredibles",
    "ReleaseDate": "2004-11-05",
@@ -3825,6 +5349,18 @@
    "TrailerId": "cdnoqCViqUo",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/gW7lzcNZnE56OFW68oaDp5ZHFdO.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 228967,
+   "Naam": "The Interview",
+   "ReleaseDate": "2014-12-25",
+   "Tagline": "The Film Hackers Tried To Get Banned",
+   "Duur": 112,
+   "Omschrijving": "David Skylark presenteert Skylark Tonight, een succesvol praatprogramma laat op de avond bedacht door zijn beste vriend Aaron, die tevens de producent is. Aaron weet voor David een interview te regelen met de wrede Noord-Koreaanse dictator Kim Jong-un, maar voordat zij naar Noord-Korea vertrekken, worden ze benaderd door de CIA met het plan de dictator om het leven te brengen. David en Aaron nemen de opdracht aan, maar ze zijn eigenlijk ongeschikt om de liquidatie uit te voeren.",
+   "TrailerId": "9oVzgybbU3M",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/2uWb0aSm5cFmRCHP95OdA6hvTEs.jpg",
    "CollectieID": 0
  },
  {
@@ -3864,6 +5400,90 @@
    "CollectieID": 0
  },
  {
+   "ID": 76640,
+   "Naam": "The Last Stand",
+   "ReleaseDate": "2013-01-12",
+   "Tagline": "Not in his town. Not on his watch.",
+   "Duur": 107,
+   "Omschrijving": "Voormalig LAPD-agent Owens (Arnold Schwarzenegger) heeft zich overgegeven aan het simpele leven in het kleine dorpje Sommerton Junction na een gefaalde operatie die zijn partner gehandicapt achterliet. Owens verdrijft zijn tijd daar door zich met kleine overtredingen bezig te houden als de aangewezen sheriff. Hij wordt uit zijn dagelijkse routine gehaald als er vlakbij een spectaculaire ontsnapping plaatsvindt, waarbij een drugsbaron samen met zijn bendeleden en een aantal gijzelaars in een gepantserde wagen ontsnappen. De drugsbaron besluit richting Mexico te reizen om aan de Amerikaanse autoriteiten te ontsnappen. Het enige dat hem nog in de weg staat om de grens te bereiken, is het dorpje Sommertown Junction, bewaakt door sheriff Owens.",
+   "TrailerId": "k1wCAsZ9Jb0",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/eOfpuaNcCcitHi3HOik7XFavRP4.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 258489,
+   "Naam": "The Legend of Tarzan",
+   "ReleaseDate": "2016-06-29",
+   "Tagline": "Human. Nature.",
+   "Duur": 109,
+   "Omschrijving": "Het is al jaren geleden dat de man ooit bekend als Tarzan (Skarsgård) de jungle van Afrika achter zich liet voor een nieuw leven als John Clayton, Lord Greystoke, met zijn geliefde vrouw, Jane (Robbie) aan zijn zijde. Nu is hij uitgenodigd om terug te komen naar de Congo als een handelsafgezant van het parlement. Hij is zich er echter niet van bewust dat hij als pion fungeert binnen een gevaarlijk spel vol hebzucht en wraak onder leiding van de Belgische kapitein Leon Rom (Waltz). Maar diegenen achter dit moorddadige plot hebben geen idee wat ze te wachten staat.",
+   "TrailerId": "dLmKio67pVQ",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/6FxOPJ9Ysilpq0IgkrMJ7PubFhq.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 14207,
+   "Naam": "The Librarian: Quest for the Spear",
+   "ReleaseDate": "2004-12-05",
+   "Tagline": null,
+   "Duur": 106,
+   "Omschrijving": "Een schrandere bibliothecaris gaat erop uit als een magisch artefact wordt gestolen uit een bibliotheek. Hij wil zich ervan vergewissen dat het gestolen stuk veilig terug komt. Om dit te doen maakt hij gebruik van de diensten van een dame die uitblinkt in martial arts. Zij blijkt ook de krachtige macht te zijn in hun relatie.",
+   "TrailerId": "eYUHJ978EU8",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/428VHqgQ2sWp0ioZ6I90PCOlr2M.jpg",
+   "CollectieID": 85890
+ },
+ {
+   "ID": 14208,
+   "Naam": "The Librarian: Return to King Solomon's Mines",
+   "ReleaseDate": "2006-09-09",
+   "Tagline": null,
+   "Duur": 92,
+   "Omschrijving": "Deze film is het vervolg op The Librarian: Quest for the Spear. Bibliothecaris annex avonturier Flynn Carsen (Noah While) gaat ditmaal op zoek naar de mijnen van koning Solomon, diep in het Afrikaanse continent. Maar er zijn meer kapers op de kust. De vraag is of Flynn dit tot een goed einde weet te brengen.",
+   "TrailerId": "ansvc2Muxr0",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/fpedwecERf6PoaNml2Pa8dKncyZ.jpg",
+   "CollectieID": 85890
+ },
+ {
+   "ID": 14728,
+   "Naam": "The Librarian: The Curse of the Judas Chalice",
+   "ReleaseDate": "2008-10-25",
+   "Tagline": "The world's most unlikely hero is back for his biggest adventure.",
+   "Duur": 95,
+   "Omschrijving": "De wereld loopt gevaar door vampiers. Flynn Carsen is de enige die redding kan brengen. Hij wordt naar New Orleans gestuurd, waar hij met behulp van de mooie Simone, een gekidnapte professor moet zien te redden en de vampieren te lijf moet gaan.",
+   "TrailerId": "HreCpj7bu-c",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/oqz2HSwcMij8aG8T5vzgvAPg1mo.jpg",
+   "CollectieID": 85890
+ },
+ {
+   "ID": 708,
+   "Naam": "The Living Daylights",
+   "ReleaseDate": "1987-06-29",
+   "Tagline": "Licensed to thrill.",
+   "Duur": 130,
+   "Omschrijving": "Een duister plan van de Russische KGB. Alle spionnen moeten over de kling worden gejaagd om de rust tussen Oost en West te verstoren. Als eerste moet de Dubbel-0 afdeling van de Britse Inlichtingendienst worden vernietigd. Agent 007 alias James Bond weet daar een stokje voor te steken. KGB-overloper Koskov (Jeroen Krabbé) speelt de Intelligence valse informatie toe. James Bond wordt naar het barre Afghanistan gelokt. Daar staat hij oog in oog met de levensgevaarlijke wapenhandelaar Whitaker.",
+   "TrailerId": "IXAVKJTIM1E",
+   "Toegevoegd": "2018-12-14 16:58:25.530",
+   "PosterPath": "/4wHli3N6yXv3fWNXgiqO3c0zaBD.jpg",
+   "CollectieID": 645
+ },
+ {
+   "ID": 72784,
+   "Naam": "The Loft",
+   "ReleaseDate": "2014-10-14",
+   "Tagline": "The right place to do wrong.",
+   "Duur": 108,
+   "Omschrijving": "Vijf getrouwde mannen delen in het grootste geheim een loft waar ze stijlvol en in alle rust hun minnaressen en nieuwste veroveringen ontvangen. Een prima regeling, tot ze op een winterochtend het lijk aantreffen van een jonge vrouw. Geen van hen weet wie de vrouw is, waar ze vandaan komt en hoe ze terecht is gekomen in een loft waarvan alleen zij de sleutel bezitten. Noodgedwongen proberen de vrienden uit te zoeken wat er gebeurd is en waarom, maar al vlug beginnen ze elkaar te wantrouwen en zal blijken dat ze veel minder van elkaar afweten dan ze oorspronkelijk dachten.",
+   "TrailerId": "1bJZYqGfYGE",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/9hE6vesQoSREyvJha9z0g5OryHH.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 57201,
    "Naam": "The Lone Ranger",
    "ReleaseDate": "2013-07-03",
@@ -3873,6 +5493,18 @@
    "TrailerId": "ud9XhmeXcjo",
    "Toegevoegd": "2019-02-12 20:52:49.443",
    "PosterPath": "/b4vil5ueYJNBNypHmo1tpuevh4z.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 228205,
+   "Naam": "The Longest Ride",
+   "ReleaseDate": "2015-04-09",
+   "Tagline": "Two couples. Two love stories. One epic tale.",
+   "Duur": 128,
+   "Omschrijving": "Luke, een voormalig rodeokampioen, droomt ervan om een comeback te maken. Sophia, een kunststudente die net klaar is met haar studie, staat op het punt om haar carrière te beginnen in New York City. Hun carrières worden op pauze gezet wanneer ze in contact met Ira komen, die zojuist in een levensgevaarlijk ongeluk terecht is gekomen. Terwijl Luke en Sophia hulp afwachten, begint Ira zijn inspirerende levensverhaal te vertellen.",
+   "TrailerId": "FUS_Q7FsfqU",
+   "Toegevoegd": "2019-03-05 10:41:08.090",
+   "PosterPath": "/9oduon4a0w5a398r2o1M28s3upC.jpg",
    "CollectieID": 0
  },
  {
@@ -3910,6 +5542,18 @@
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
    "CollectieID": 119
+ },
+ {
+   "ID": 34813,
+   "Naam": "The Losers",
+   "ReleaseDate": "2010-04-23",
+   "Tagline": "Anyone Else Would Be Dead By Now.",
+   "Duur": 97,
+   "Omschrijving": "De leden van een CIA Black Operation team zijn in de Boliviaanse jungle op een 'search and destroy'-missie. Het team wordt echter verraden en voor dood achtergelaten. Ze besluiten achter de verantwoordelijken aan te gaan om wraak te nemen.",
+   "TrailerId": "OmFTjvdrfyY",
+   "Toegevoegd": "2018-08-03 11:52:07.040",
+   "PosterPath": "/e67D7pMpWoo1ckY2QQaKYxhvVuy.jpg",
+   "CollectieID": 0
  },
  {
    "ID": 330,
@@ -4026,7 +5670,7 @@
    "Tagline": "The most powerful force on earth is about to be unleashed by the two people who should know better.",
    "Duur": 130,
    "Omschrijving": "10 jaar na de gebeurtenissen in de vorige film hebben de nu getrouwde Rick en Evelyn zich gesetteld in Londen, samen met hun 9-jarige zoontje Alex. Als het lijk van Imhotep in het Britse Museum tot leven wordt gewekt, is de mummy opnieuw op zoek naar eeuwig leven. Rick en Evelyn moeten opnieuw proberen om de wereld te redden van het kwaad, en ondertussen moeten ze ook nog hun zoontje redden.",
-   "TrailerId": "-jHhRi_rr4g",
+   "TrailerId": "#NAAM?",
    "Toegevoegd": "2019-02-12 20:52:23.057",
    "PosterPath": "/hioiYUZVIuYIhagDGhIAjyNEUu0.jpg",
    "CollectieID": 1733
@@ -4042,6 +5686,18 @@
    "Toegevoegd": "2019-02-12 20:52:24.770",
    "PosterPath": "/53hrZvxiV3HgG6pdhuMeErIc7Hg.jpg",
    "CollectieID": 1733
+ },
+ {
+   "ID": 11036,
+   "Naam": "The Notebook",
+   "ReleaseDate": "2004-06-25",
+   "Tagline": "Behind every great love is a great story.",
+   "Duur": 123,
+   "Omschrijving": "In de jaren 40 ontmoeten tieners Allie Hamilton en Noah Calhoun elkaar. Ze worden op slag verliefd, en beleven een zomer vol hartstocht en passie. Dat valt niet in goede aarde bij Allies rijke ouders, die Noah geen goede partij vinden voor hun dochter. Maar dan moet Noah tijdens de Tweede Wereldoorlog naar het front, en als hij jaren later terugkeert naar North Carolina, is Allie intussen verloofd met een succesvol zakenman. Ze is haar eerste liefde echter nooit vergeten.",
+   "TrailerId": "FC6biTjEyZw",
+   "Toegevoegd": "2019-03-05 10:41:24.147",
+   "PosterPath": "/gMfstesBXKdsHToAUXVPHujUDfb.jpg",
+   "CollectieID": 0
  },
  {
    "ID": 27581,
@@ -4080,15 +5736,75 @@
    "CollectieID": 0
  },
  {
-   "ID": 5255,
-   "Naam": "The Polar Express",
-   "ReleaseDate": "2004-11-10",
-   "Tagline": "This holiday season... believe.",
-   "Duur": 100,
-   "Omschrijving": "Het is kerstavond en een jongen ligt stil in zijn bed. Hij hoopt dat hij de rendieren van de Kerstman op zijn dak hoort galopperen. Maar dan opeens hoort hij een heel ander geluid. Het klinkt als een trein terwijl hij helemaal niet bij het spoor woont. Een conducteur stapt uit en vertelt hem dat dit de Polar Express is, en vraagt of hij mee op reis gaat. Hij stapt in en ziet nog meer kinderen in hun pyjama. Hij vertrekt naar de Noordpool en beleeft de droom van elk kind dat nog in de Kerstman gelooft.",
-   "TrailerId": "F8_GUrqe5tc",
+   "ID": 9880,
+   "Naam": "The Princess Diaries",
+   "ReleaseDate": "2001-08-03",
+   "Tagline": "She rocks. She rules. She reigns.",
+   "Duur": 115,
+   "Omschrijving": "Een 16-jarig meisje dat wordt opgevoed door haar alleenstaande moeder komt er op een dag achter dat ze de prinses is van een klein Europees landje. Ze moet nu een keus maken tussen haar leven als tiener in San Francisco, of de troon bestijgen in Europa. Terwijl Mia haar keuze probeert te maken krijgt ze prinses-lessen van haar grootmoeder.",
+   "TrailerId": null,
+   "Toegevoegd": "2019-03-05 10:41:40.110",
+   "PosterPath": "/sxpvHk286sXLJWcFrBMNIsXbYsd.jpg",
+   "CollectieID": 107674
+ },
+ {
+   "ID": 281957,
+   "Naam": "The Revenant",
+   "ReleaseDate": "2015-12-25",
+   "Tagline": "(n. One who has returned, as if from the dead.)",
+   "Duur": 156,
+   "Omschrijving": "The Revenant is een episch avontuur van één man over overleven en de buitengewone kracht van de menselijke geest. Diep in de Amerikaanse wildernis wordt jager Hugh Glass voor dood achtergelaten door John Fitzgerald, een onbetrouwbaar lid van zijn gezelschap. Met alleen zijn wil als wapen, begint Glass aan een meedogenloze missie. Hij moet zich een weg zien te banen door een levensgevaarlijke omgeving, en een strenge winter en onderling strijdende stammen overleven om wraak te kunnen nemen op Fitzgerald.",
+   "TrailerId": "QRfj1VCg16Y",
    "Toegevoegd": "2018-02-25 00:00:00.000",
-   "PosterPath": "/2NETsNUxcfBdKtq3W5YbT9O03Ak.jpg",
+   "PosterPath": "/2XyPDSF9VHy9xWtw25xaAvqui3E.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 11395,
+   "Naam": "The Santa Clause",
+   "ReleaseDate": "1994-11-10",
+   "Tagline": "What if your dad was Santa Claus?",
+   "Duur": 97,
+   "Omschrijving": "Op een nacht valt de kerstman van het dak en Scott voelt zich verplicht zijn rol over te nemen. Scott en zijn zoon Charlie haasten zich naar de Noordpool. Daar ontmoeten ze Bernard, de chef van de elfjes, die hen hun nieuwe verantwoordelijkheden uitlegt. Scott houdt niet echt van de plotse verandering in zijn carrière maar Charlie vindt het schitterend, want zijn vader wordt steeds dikker en krijgt nu ook een baard.",
+   "TrailerId": "Bx8FX7etF_8",
+   "Toegevoegd": "2018-11-13 03:18:19.867",
+   "PosterPath": "/hrZjAYAF1o37k4Qb442c4yxwVLw.jpg",
+   "CollectieID": 53159
+ },
+ {
+   "ID": 9021,
+   "Naam": "The Santa Clause 2",
+   "ReleaseDate": "2002-10-31",
+   "Tagline": "What's Christmas Fun without some Reindeer Games?",
+   "Duur": 104,
+   "Omschrijving": "Scott Calvin is de afgelopen 8 jaar De Kerstman geweest, en zijn elfjes beschouwen hem als de beste Kerstman ooit. Maar De Kerstman heeft problemen, zijn zoon is op de 'stoute kinderen lijst' van dit jaar beland. In een wanhoopspoging vertrekt Scott Calvin naar huis om het leven van zijn zoon te beteren. Daarom laat hij een plaatsvervangende Kerstman op de noordpool achter, deze voert echter een paar dubieuze veranderingen door op het Kerstmannen-regelement.",
+   "TrailerId": "NML7Y1APyZs",
+   "Toegevoegd": "2018-11-13 03:18:09.947",
+   "PosterPath": "/zNtevK8zXeMaDvrj4y5ZNRmKiUL.jpg",
+   "CollectieID": 53159
+ },
+ {
+   "ID": 13767,
+   "Naam": "The Santa Clause 3: The Escape Clause",
+   "ReleaseDate": "2006-11-01",
+   "Tagline": "His time at the North Pole is about to go South.",
+   "Duur": 98,
+   "Omschrijving": "Santa Claus, alias Scott Calvin, heeft een groot probleem. Hij moet zijn gezin tevreden houden en dan is hij ook nog eens Kerstman... Alsof dat allemaal nog niet genoeg is moet hij ook nog eens de strijd met Jack Frost aangaan, die heeft zich namelijk voorgenomen Kerstmis over te nemen.",
+   "TrailerId": null,
+   "Toegevoegd": "2018-11-13 03:17:59.617",
+   "PosterPath": "/kvKXyrc3cUGqXin2u76Ef8lApMI.jpg",
+   "CollectieID": 53159
+ },
+ {
+   "ID": 116745,
+   "Naam": "The Secret Life of Walter Mitty",
+   "ReleaseDate": "2013-12-18",
+   "Tagline": "Stop Dreaming, Start Living",
+   "Duur": 114,
+   "Omschrijving": "Het verhaal volgt Walter Mitty (Ben Stiller), een foto editor die werkt voor LIFE Magazine. Dagelijks wordt hij getreiterd door zijn collega’s omdat hij constant zit te dagdromen achter zijn bureau. Dit weerhoudt hem er ook van om de vrouw van zijn dromen aan te spreken, die toevallig ook werkzaam is bij LIFE Magazine (gespeeld door Kristen Wiig). Walter krijgt een kans om zichzelf te bewijzen als het negatief van een belangrijke foto verloren gaat en hij deze terug moet zien te vinden.",
+   "TrailerId": "lC6yZzLWGFM",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/b0nIj7dr2bcLAn3erYhql7f6aUm.jpg",
    "CollectieID": 0
  },
  {
@@ -4114,6 +5830,18 @@
    "Toegevoegd": "2019-03-03 15:57:21.483",
    "PosterPath": "/qjAyTj2BSth1EQ89vNfo0JYVPFN.jpg",
    "CollectieID": 9743
+ },
+ {
+   "ID": 37799,
+   "Naam": "The Social Network",
+   "ReleaseDate": "2010-10-01",
+   "Tagline": "You don't get to 500 million friends without making a few enemies.",
+   "Duur": 121,
+   "Omschrijving": "Herfst, 2003. Na een pijnlijke relatie beëindiging met zijn vriendin Erica, besluit Harvard student Mark Zuckerburg zijn frustraties te uitten door erover te bloggen op zijn computer. Na een aantal drankjes krijgt hij samen met zijn kamergenoot Eduardo Saverin het geweldige idee om foto’s op internet te zetten van de vrouwelijke medestudenten en ze door te sturen naar andere colleges om ze vervolgens te laten beoordelen op uiterlijk. Ondanks dat Mark hiermee in de problemen raakt met het Harvard bestuur heeft hij wel de start gekregen voor een idee dat zes jaar later een revolutie zou brengen tot het sociale netwerk. Maar 500 miljoen vrienden en een status als de jongste biljonair ter wereld krijg je niet zonder een paar tegenstoten.",
+   "TrailerId": "rxY9fKgK5OQ",
+   "Toegevoegd": "2019-03-05 10:42:18.960",
+   "PosterPath": "/hKTwHT6WtYhtG8U2PJQSQH2y4oD.jpg",
+   "CollectieID": 0
  },
  {
    "ID": 15121,
@@ -4176,6 +5904,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 287948,
+   "Naam": "The Transporter Refueled",
+   "ReleaseDate": "2015-09-03",
+   "Tagline": "He Delivers.",
+   "Duur": 96,
+   "Omschrijving": "In de criminele onderwereld van Frankrijk staat Frank Martin bekend als \"De Transporter\": de beste chauffeur en huurling die je kan krijgen. Hij houdt zich aan drie eenvoudige regels: geen namen, geen vragen en geen onderhandelingen. Maar dan ontmoet hij de mysterieuze femme fatale Anna, die de leiding heeft over een groep overvallers. Niets houdt Anna tegen om een groep meedogenloze Russische mensenhandelaren te stoppen.",
+   "TrailerId": "w7RzoVChf_k",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/zW7oC3tucYLzu77xNbPbYjXUN4o.jpg",
+   "CollectieID": 9518
+ },
+ {
    "ID": 37165,
    "Naam": "The Truman Show",
    "ReleaseDate": "1998-06-04",
@@ -4185,6 +5925,66 @@
    "TrailerId": "loTIzXAS7v4",
    "Toegevoegd": "2018-08-25 15:45:30.330",
    "PosterPath": "/EelZzudHRvJmjWccWscN1S5vmI.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 50619,
+   "Naam": "The Twilight Saga: Breaking Dawn - Part 1",
+   "ReleaseDate": "2011-03-15",
+   "Tagline": "Forever is just the beginning",
+   "Duur": 117,
+   "Omschrijving": "Na de bruiloft gaan Bella en Edward op huwelijksreis naar Rio De Janeiro, waar Bella tot haar schrik ontdekt zwanger te zijn. De familie van Edward is in shock door de situatie, die de fragiele band tussen de vampieren en weerwolven nog meer spanning bezorgt. Niemand weet wat te verwachten van deze onwaarschijnlijke zwangerschap. Ondertussen blijft ook de dreiging van de Volturi bestaan.",
+   "TrailerId": "PQNLfo-SOR4",
+   "Toegevoegd": "2018-08-12 06:09:08.717",
+   "PosterPath": "/q23U9glt0RJIvM0f7g5BqJbqncx.jpg",
+   "CollectieID": 33514
+ },
+ {
+   "ID": 50620,
+   "Naam": "The Twilight Saga: Breaking Dawn - Part 2",
+   "ReleaseDate": "2012-11-13",
+   "Tagline": "The epic finale that will live forever",
+   "Duur": 115,
+   "Omschrijving": "Na de geboorte van Renesmee, geniet Bella (nu vampier) optimaal van haar nieuwe leven en capaciteiten. Echter, de vampier Irina ziet in Renesmee onterecht een 'onsterfelijk kind'. Ze gaat met haar beweringen naar de Volturi die uiteindelijk besluiten om haar te vernietigen. In een poging om te overleven verzamelen de Cullens verklaringen van andere vampiersclans om zo te bewijzen aan de Volturi dat hun kind niet onsterfelijk is.",
+   "TrailerId": "bUXjqQ4GKRg",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/kJQPygYB8aNEevZZHRifyYrAdU9.jpg",
+   "CollectieID": 33514
+ },
+ {
+   "ID": 24021,
+   "Naam": "The Twilight Saga: Eclipse",
+   "ReleaseDate": "2010-06-23",
+   "Tagline": "It all begins ... With a choice.",
+   "Duur": 124,
+   "Omschrijving": "Bella moet een definitieve keuze maken tussen vampier Edward en weerwolf Jacob. Een keuze met verregaande gevolgen. Haar besluit kan namelijk de eeuwenoude vete tussen weerwolven en vampieren weer doen oplaaien. Maar dat is niet Bella's enige probleem. Seattle wordt geteisterd door een golf van mysterieuze moorden en de wraakzuchtige vampier Victoria achtervolgt haar nog steeds. Terwijl het gevaar steeds dichterbij komt, wordt Bella's toekomst voor eens en altijd beslist.",
+   "TrailerId": "hZxJzhIPTTg",
+   "Toegevoegd": "2018-08-12 06:08:58.090",
+   "PosterPath": "/4IIFFKd9vxrlicNbAPS8ONEgIFp.jpg",
+   "CollectieID": 33514
+ },
+ {
+   "ID": 18239,
+   "Naam": "The Twilight Saga: New Moon",
+   "ReleaseDate": "2009-03-15",
+   "Tagline": "The Next Chapter Begins.",
+   "Duur": 130,
+   "Omschrijving": "Nadat Bella herstelt van een vampieraanval, die haar bijna van het leven beroofde, viert ze haar verjaardag bij Edward en zijn familie. Een ongelukje zorgt er echter voor dat Bella begint te bloeden, iets wat voor de familie van Edward onverdraaglijk is, aangezien hun dorst naar het bloed van Bella iets is wat er altijd zal blijven. Edward en zijn familie besluiten Bella hierdoor alleen te laten in deze periode, iets wat beter voor iedereen lijkt te zijn. De eerst diepbedroefde Bella vindt troost bij Jacob Black, waar ze een vriendschap mee opbouwt. Het lijkt allemaal weer beter te gaan, maar Bella weet niet dat er hierdoor alleen maar nieuwe gevaren op de loer komen te liggen...",
+   "TrailerId": "BNi-ebCWXos",
+   "Toegevoegd": "2018-08-12 06:08:46.950",
+   "PosterPath": "/4O6OCHVrXie2Th8asDn5utvlTwC.jpg",
+   "CollectieID": 33514
+ },
+ {
+   "ID": 80035,
+   "Naam": "The Watch",
+   "ReleaseDate": "2012-07-26",
+   "Tagline": "Got Protection?",
+   "Duur": 98,
+   "Omschrijving": "Een groep vrienden (Stiller, Vaughn, Hill en Ayoade) vormt een burgerwacht in hun woonwijk om meer tijd met elkaar door te brengen en even aan het familieleven te kunnen ontsnappen. Echter, wanneer de groep een complot ontdekt dat de hele wereld bedreigt, zullen ze tot actie moeten overgaan.",
+   "TrailerId": "PhN1xnCyqR8",
+   "Toegevoegd": "2019-03-05 10:42:42.537",
+   "PosterPath": "/llVq0170tBmPCcqVuFnV7CilrLj.jpg",
    "CollectieID": 0
  },
  {
@@ -4212,6 +6012,18 @@
    "CollectieID": 645
  },
  {
+   "ID": 544,
+   "Naam": "There's Something About Mary",
+   "ReleaseDate": "1998-07-15",
+   "Tagline": "Love Is In The Hair.",
+   "Duur": 119,
+   "Omschrijving": "Ted was op de middelbare school een grote nerd, die het toch voor elkaar kreeg om met Mary, een populair meisje, naar het eindbal te gaan. De date is nooit doorgegaan aangezien Ted een pijnlijk ongelukje kreeg. Dertien jaar later realiseert Ted zich dat hij nog steeds verliefd is op Mary, en huurt hij een privé-detective in om haar op te zoeken.",
+   "TrailerId": "eGjXwDYpOLE",
+   "Toegevoegd": "2018-02-26 00:00:00.000",
+   "PosterPath": "/hFtnobv2d8WrjhMPCoX4i0oMJio.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 109414,
    "Naam": "This Is the End",
    "ReleaseDate": "2013-06-12",
@@ -4236,6 +6048,18 @@
    "CollectieID": 645
  },
  {
+   "ID": 297270,
+   "Naam": "TinkerBell en de legende van het Nooitgedachtbeest",
+   "ReleaseDate": "2014-12-12",
+   "Tagline": null,
+   "Duur": 77,
+   "Omschrijving": "Een mythisch monster trekt de aandacht van Tinkerbell en haar vriendin Faun, een dieren-elfje dat niet bang is om van de regels af te wijken om een dier in nood te helpen. Maar dit monster - groot, vreemd en met gloeiende groene ogen - is niet welkom in de Elfenvallei. De scout-elfjes zijn vastbesloten het mysterieuze beest te vangen, maar Faun weet zeker dat er een goed hart schuilgaat achter zijn vreemde uiterlijk. Ze haalt Tink en haar andere elfenvriendinnen over om alles op alles te zetten en het Nooitgedachtbeest te redden.",
+   "TrailerId": "ofvJ7KyulPA",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/a0tOlP3vkKL6GOI270EosaH9cwm.jpg",
+   "CollectieID": 315595
+ },
+ {
    "ID": 597,
    "Naam": "Titanic",
    "ReleaseDate": "1997-11-18",
@@ -4246,6 +6070,18 @@
    "Toegevoegd": "2018-11-01 01:51:21.543",
    "PosterPath": "/kHXEpyfl6zqn8a6YuozZUujufXf.jpg",
    "CollectieID": 0
+ },
+ {
+   "ID": 338970,
+   "Naam": "Tomb Raider",
+   "ReleaseDate": "2018-03-08",
+   "Tagline": "Her legend begins",
+   "Duur": 118,
+   "Omschrijving": "Het is inmiddels zeven jaar geleden dat de vader van de 21-jarige Lara verdwenen is. In plaats van het bedrijf van haar vader over te nemen werkt ze als fietskoerier in Londen, terwijl ze collegelessen volgt. Uiteindelijk wordt ze geïnspireerd om de verdwijning van haar vader te onderzoeken en reist naar zijn laatst bekende locatie: een graf op een eiland ergens voor de kust van Japan.",
+   "TrailerId": "RpidFcE-20I",
+   "Toegevoegd": "2018-06-27 00:00:00.000",
+   "PosterPath": "/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg",
+   "CollectieID": 2467
  },
  {
    "ID": 714,
@@ -4272,6 +6108,18 @@
    "CollectieID": 531330
  },
  {
+   "ID": 64635,
+   "Naam": "Total Recall",
+   "ReleaseDate": "2012-08-02",
+   "Tagline": "What Is Real?",
+   "Duur": 121,
+   "Omschrijving": "Welkom bij Rekall, het bedrijf dat dromen tot werkelijkheid kan brengen. Voor de fabrieksmedewerker Douglas Quaid (Colin Farrell) klinkt deze trip als de perfecte vakantie om aan zijn frustrerende leven te ontkomen, ook al heeft hij een prachtige vrouw (Kate Beckinsale). Echte herinneringen van het leven als een super spion is net wat hij nodig heeft. Maar als de procedure goed fout gaat, wordt Quaid een opgejaagd man. Hij wordt achtervolgd door de politie, geleid door Chancellor Cohaagen (Bryan Cranston) en besluit samen te werken met een vrouwelijke rebel vechter (Jessica Biel) om Cohaagen te stoppen. Het is niet meer duidelijk wat fantasie en werkelijkheid is en Quaid ontdekt zijn echte identiteit, liefde en lot.",
+   "TrailerId": "4SerZm7DheA",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/tWBo7aZk3I1dLxmMj7ZJcN8uke5.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 59108,
    "Naam": "Tower Heist",
    "ReleaseDate": "2011-11-02",
@@ -4282,6 +6130,42 @@
    "Toegevoegd": "2018-06-27 00:00:00.000",
    "PosterPath": "/ze2trl2NHuLOLimimvBkjJID3yG.jpg",
    "CollectieID": 0
+ },
+ {
+   "ID": 862,
+   "Naam": "Toy Story",
+   "ReleaseDate": "1995-10-30",
+   "Tagline": null,
+   "Duur": 81,
+   "Omschrijving": "Cowboy Woody is al jaren het favoriete speelgoed van Andy. Wanneer de jongen voor zijn verjaardag de blitse astronautenpop Buzz Lightyear krijgt, wordt Woody naar de achtergrond verdrongen. De twee stukken speelgoed wedijveren om de gunst van de jongen en zetten door hun geruzie de hele kinderkamer in rep en roer. Als Buzz door toedoen van Woody uit het raam valt, krijgt Woody hiervan de schuld van de rest van het speelgoed. Hij gaat naar buiten om Buzz proberen te redden.",
+   "TrailerId": "tN1A2mVnrOM",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/rhIRbceoE9lR4veEXuwCC2wARtG.jpg",
+   "CollectieID": 10194
+ },
+ {
+   "ID": 863,
+   "Naam": "Toy Story 2",
+   "ReleaseDate": "1999-10-30",
+   "Tagline": "The toys are back!",
+   "Duur": 92,
+   "Omschrijving": "Terwijl Andy op zomerkamp is, ziet speelgoedverzamelaar Al McWiggin Woody liggen in de tuin en besluit hem mee te nemen. Al snel wordt Woody gemist door zijn kameraad Buzz Lightyear, die een reddingsactie op touw zet. Voor het eerst moeten de speelgoedvrienden de echte wereld verkennen om Woody te redden.",
+   "TrailerId": "b75lZw8nkvo",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/1bjSYcipMxG5lxdnpxesRU15wBH.jpg",
+   "CollectieID": 10194
+ },
+ {
+   "ID": 10193,
+   "Naam": "Toy Story 3",
+   "ReleaseDate": "2010-06-16",
+   "Tagline": "No toy gets left behind.",
+   "Duur": 103,
+   "Omschrijving": "Wanneer Andy gaat studeren en op kamers gaat, komen Woody, Buzz en de rest van hun speelgoedvrienden bij dagopvang Sunnyside terecht. Dit lijkt in eerste instantie een gezellige plek, onder leiding van de vriendelijke speelgoedbeer Lotso. Maar het dagverblijf blijkt helemaal niet zo prettig en dus willen Woody en de rest zo snel mogelijk weg. Dit schijnt echter nog niet zo eenvoudig te zijn...",
+   "TrailerId": "TNMpa5yBf5o",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/mMltbSxwEdNE4Cv8QYLpzkHWTDo.jpg",
+   "CollectieID": 10194
  },
  {
    "ID": 203819,
@@ -4308,6 +6192,66 @@
    "CollectieID": 0
  },
  {
+   "ID": 1858,
+   "Naam": "Transformers",
+   "ReleaseDate": "2007-06-27",
+   "Tagline": "Their war. Our world.",
+   "Duur": 144,
+   "Omschrijving": "Heel lang geleden was er een oorlog op de planeet Cybertron, tussen de Autobots en de Decepticons. Vele jaren later, op de planeet Aarde, koopt de jonge Sam Witwicky zijn eerste auto en komt tot de ontdekking dat het de Autobot Bumblebee is. Deze is er om Sam te beschermen, aangezien Bumblebee niet de enige Transformer is die op Aarde is gekomen. Ook de Decepticons zijn op Aarde en beginnen het Amerikaanse leger aan te vallen. Als Sam en zijn vriendin Mikaela dan ontdekken dat het leger van plan is zowel de vijandige Decepticons als de vredelievende Autobots te vernietigen, proberen ze een nieuw plan te bedenken om de Decepticons te stoppen.",
+   "TrailerId": "dI4RZIaSC2M",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/bgSHbGEA1OM6qDs3Qba4VlSZsNG.jpg",
+   "CollectieID": 8650
+ },
+ {
+   "ID": 91314,
+   "Naam": "Transformers: Age of Extinction",
+   "ReleaseDate": "2014-06-25",
+   "Tagline": "This is not war. It's extinction.",
+   "Duur": 165,
+   "Omschrijving": "Terwijl de mensheid zich herstelt van de grote schade die aangericht werd in Transformers: Dark of the Moon, zijn de Autobots en Decepticons nagenoeg van de Aarde verdwenen. Maar een kleine en machtige groep zakenmannen en wetenschappers proberen de grenzen van de menselijke technologie verder te verleggen dan ooit te voren. Verder zelfs dan ze kunnen beheersen. Daarnaast dient zich een oeroude, krachtige vloek voor de Transformers aan op Aarde. Een episch avontuur en gevecht tussen goed en kwaad, vrijheid en slavernij, breekt los.",
+   "TrailerId": "glcOSZrUw2Q",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/qegn52uIaFgyWc7UJZfyW9uv1OS.jpg",
+   "CollectieID": 8650
+ },
+ {
+   "ID": 38356,
+   "Naam": "Transformers: Dark of the Moon",
+   "ReleaseDate": "2011-06-28",
+   "Tagline": "The invasion we always feared. An enemy we never expected.",
+   "Duur": 154,
+   "Omschrijving": "De Autobots Bumblebee, Ratchet, Ironhide en Sideswipe, onder leiding van Optimus Prime, zijn terug in actie en moeten het weer opnemen tegen de kwaadaardige Decepticons. De Decepticons willen koste wat het kost revanche op de strijd, die ze een tijd terug verloren. De Autobots en Decepticons komen echter midden in een ruimtestrijd tussen de Verenigde Staten en Rusland in te zitten. In deze strijd krijgen de Autobots wederom hulp van oude vriend Sam Witwicky (Shia LaBeouf).",
+   "TrailerId": "E-Sg_zJrDxc",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/sZY3ls18QTY0pFBJn2vl2MmauTQ.jpg",
+   "CollectieID": 8650
+ },
+ {
+   "ID": 8373,
+   "Naam": "Transformers: Revenge of the Fallen",
+   "ReleaseDate": "2009-06-19",
+   "Tagline": "Revenge is coming.",
+   "Duur": 150,
+   "Omschrijving": "De strijd op aarde is voorbij, maar die in het universum is net begonnen. Wanneer Sam Witwicky (Shia LaBeouf) de waarheid leert over de oude oorsprong van de Transformers, moet hij zijn lot accepteren en zich samenvoegen met Optimus Prime en Bumblebee in hun epische strijd tegen de Decepticons, die sterker terug zijn dan ooit en het plan hebben om onze wereld te vernietigen.",
+   "TrailerId": "qSQ2xcjalHI",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/kVISXAXDYhjQCfu50QZeCCzzbPv.jpg",
+   "CollectieID": 8650
+ },
+ {
+   "ID": 335988,
+   "Naam": "Transformers: The Last Knight",
+   "ReleaseDate": "2017-06-16",
+   "Tagline": "For one world to live, the other must die.",
+   "Duur": 149,
+   "Omschrijving": "Cade Yeager (Mark Wahlberg) wordt beschermd door Autobots Bumblebee, Hound, Drift, en Crosshairs. Optimus Prime wordt nog steeds vermist, hij is namelijk alle uithoeken van het universum aan het afzoeken naar zijn schepper Unicron. Die is echter een plan aan het smeden om de aarde te vernietigen, en Optimus moet de Autobots aanvoeren in hun pogingen om Unicron te stoppen.",
+   "TrailerId": "6Vtf0MszgP8",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
+   "CollectieID": 8650
+ },
+ {
    "ID": 136799,
    "Naam": "Trolls",
    "ReleaseDate": "2016-10-13",
@@ -4320,6 +6264,18 @@
    "CollectieID": 489724
  },
  {
+   "ID": 7446,
+   "Naam": "Tropic Thunder",
+   "ReleaseDate": "2008-08-09",
+   "Tagline": "The movie they think they're making... isn't a movie anymore.",
+   "Duur": 107,
+   "Omschrijving": "Door een serie van uitzonderlijke voorvallen wordt een groep acteurs die een oorlogsfilm aan het opnemen zijn, gedwongen om hun rollen in het echte leven over te nemen. Dit, omdat ze in contact komen met een plaatselijke drugsbende op de locatie waar de film wordt opgenomen.",
+   "TrailerId": "VsEdmjAudSI",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/zoWUdaaWKPDyr9b0il0YcggDWgJ.jpg",
+   "CollectieID": 0
+ },
+ {
    "ID": 652,
    "Naam": "Troy",
    "ReleaseDate": "2004-05-03",
@@ -4329,6 +6285,54 @@
    "TrailerId": "enJYNuWBJ9g",
    "Toegevoegd": "2018-12-28 00:07:09.253",
    "PosterPath": "/edMlij7nw2NMla32xskDnzMCFBM.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 77950,
+   "Naam": "Turbo",
+   "ReleaseDate": "2013-07-11",
+   "Tagline": "SLO NO MO",
+   "Duur": 96,
+   "Omschrijving": "Een doodnormale tuinslak heeft de absurde droom om de snelste slak ter wereld te worden. Echter, wanneer hij een raar ongeluk krijgt beschikt hij over een ongelofelijke snelheid. Hierdoor wordt de kans om zijn doel te realiseren een stuk groter.",
+   "TrailerId": "d-4BkPUQ1ZE",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/kajPlPUgobxci8ME5oqvzjN430q.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 8966,
+   "Naam": "Twilight",
+   "ReleaseDate": "2008-11-20",
+   "Tagline": "When you can live forever, what do you live for?",
+   "Duur": 122,
+   "Omschrijving": "Isabella Swan is een normale Amerikaanse studente, die verliefd wordt op de jongen Edward Cullen. Deze jongen heeft een groot geheim: hij is een vampier. Als Isabella dit ontdekt is ze niet bang, ze houdt van hem. Edward doet dan ook zijn best om de verleiding zijn geliefde leeg te zuigen te weerstaan. Maar hoe sterk is hij? En lukt het hem om de andere vampiers, die niet het doorzettingsvermogen van Edward hebben, bij Isabella weg te houden?",
+   "TrailerId": "uxjNDE2fMjI",
+   "Toegevoegd": "2018-08-12 06:08:30.480",
+   "PosterPath": "/lcMp3AONdNhjYE9MmTtMMTOiRDP.jpg",
+   "CollectieID": 33514
+ },
+ {
+   "ID": 2251,
+   "Naam": "Unfaithful",
+   "ReleaseDate": "2002-05-10",
+   "Tagline": "Where do you go when you've gone too far?",
+   "Duur": 124,
+   "Omschrijving": "Connie Sumner heeft een liefhebbende echtgenoot en een zoon van wie ze veel houdt. Toch wil ze meer. Wanneer ze op een dag een knappe vreemdeling tegen het lijf loopt terwijl ze een taxi probeert te halen raakt zij geobsedeerd door hem. Uiteindelijk krijgt ze wat met hem. Ze ondervindt echter al snel de negatieve kanten van deze egoïstische actie.",
+   "TrailerId": "j-V12tL78Mc",
+   "Toegevoegd": "2019-03-05 10:43:58.960",
+   "PosterPath": "/ztenZXLECkDXTXN6KEugPVvMTIl.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 48138,
+   "Naam": "Unknown",
+   "ReleaseDate": "2011-02-16",
+   "Tagline": "Take Back Your Life",
+   "Duur": 113,
+   "Omschrijving": "Dr. Martin Harris (Liam Neeson) ontwaakt na een auto-ongeluk in Berlijn om te ontdekken dat zijn vrouw hem niet meer herkent en dat een andere man zijn identiteit heeft overgenomen. Genegeerd door ongelovige autoriteiten en opgejaagd door mysterieuze huurmoordenaars is Martin moe en alleen. Met hulp uit onverwachte hoek begint hij een avontuur, waarbij hij gaat twijfelen aan zijn geestelijke gesteldheid en zijn echte identiteit. Hoe ver zal hij gaan om de waarheid te achterhalen?",
+   "TrailerId": "uakoUpfoWfA",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/4QAPgl63sRyCptq1Wd25lNsptbU.jpg",
    "CollectieID": 0
  },
  {
@@ -4380,6 +6384,18 @@
    "CollectieID": 0
  },
  {
+   "ID": 8909,
+   "Naam": "Wanted",
+   "ReleaseDate": "2008-06-19",
+   "Tagline": "Choose your destiny.",
+   "Duur": 110,
+   "Omschrijving": "Wesley Gibson (James McAvoy) slijt zijn troosteloze bestaan in een benauwde kantoortuin, met een baas die hem vernedert en een vriendinnetje dat hem bedriegt. Zijn leven is een puinhoop. Dan ontdekt Wesley dat de vader, die hij nooit heeft gekend, op brutale wijze vermoord is en sluit hij zich, tegen wil en dank, aan bij een geheim genootschap van sluipmoordenaars: De Broederschap. Tijdens zijn opleiding door zijn getalenteerde mentor Fox (Angelina Jolie), ontpopt de saaie kantoorpiet zich tot een moordwapen met bliksemsnelle reflexen en een bovenmenselijke behendigheid. Bij het aanvaarden van zijn eerste missie ontdekt Wesley echter nog iets anders: iemand van het leven beroven is niet makkelijk, maar je eigen leven weer in handen nemen is nog een stuk moeilijker.",
+   "TrailerId": null,
+   "Toegevoegd": "2018-12-28 00:07:40.900",
+   "PosterPath": "/mUrkppyahzk6koYFekxeu0tmcPd.jpg",
+   "CollectieID": 462400
+ },
+ {
    "ID": 281338,
    "Naam": "War for the Planet of the Apes",
    "ReleaseDate": "2017-07-11",
@@ -4419,13 +6435,25 @@
    "ID": 138832,
    "Naam": "We're the Millers",
    "ReleaseDate": "2013-08-07",
-   "Tagline": "-If anyone asks.",
+   "Tagline": "#NAAM?",
    "Duur": 110,
    "Omschrijving": "David Burke is een kleinschalige drugsdealer die het houdt bij het handelen met volwassenen en dus absoluut niet in zee gaat met de jeugd. Alles gaat van een leien dakje, tot hij onverwachts genoodzaakt is voor het grote geld te gaan. David besluit op een slimme en valse manier een familie te stichten met de buren, wat deel uit maakt van een plan om een grote hoeveelheid wiet de VS in te smokkelen vanuit Mexico.",
    "TrailerId": "O7NHfAzg7Yg",
    "Toegevoegd": "2018-02-25 00:00:00.000",
    "PosterPath": "/digXuLXmk88Ar23LYUQTLcz5npA.jpg",
    "CollectieID": 297923
+ },
+ {
+   "ID": 76494,
+   "Naam": "What to Expect When You're Expecting",
+   "ReleaseDate": "2012-05-17",
+   "Tagline": "It's too late to pull out now",
+   "Duur": 110,
+   "Omschrijving": "Een kind op de wereld zetten gaat niet vanzelf en is voor iedereen een ander avontuur. Zo staat het leven van TV fitness goeroe Jules (Cameron Diaz) en haar Dancing With The Stars- partner nogal op z’n kop als bekend raakt dat ze zwanger is. Wendy (Elizabeth Banks) is gek van baby’s en brengt net haar eerste babyboekje uit als ze het zelf mee gaat maken… en ze voor heel wat verrassingen komt te staan. Zoals haar schoonvader Ramsey (Dennis Quaid), die aankondigt dat zijn piepjonge vriendin Skyler (Brooklyn Decker) óók in verwachting is. Fotograaf Holly (Jennifer Lopez) wil dolgraag een kindje adopteren, maar haar man Alex heeft geen idee of hij er klaar voor is. Om niet in paniek te raken sluit Alex zich aan bij een groep kersverse vaders; hopelijk kunnen zij hem klaarstomen. Tenslotte volgen we Rosie (Anna Kendrick), die zwanger raakt na een one night stand. Lukt het haar om alsnog een relatie op te bouwen met vader Marco (Chace Crawford)?",
+   "TrailerId": "5cFkmacncGY",
+   "Toegevoegd": "2019-03-05 10:44:16.857",
+   "PosterPath": "/4vD9uLJHfTOx9vRHdKEXgGvqYZU.jpg",
+   "CollectieID": 0
  },
  {
    "ID": 12153,
@@ -4437,6 +6465,42 @@
    "TrailerId": "xebjMIYduxQ",
    "Toegevoegd": "2018-08-25 15:45:52.140",
    "PosterPath": "/hT4PEPFW3dQG7N5LZe5b2qYHCU0.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 13368,
+   "Naam": "White Christmas",
+   "ReleaseDate": "1954-10-14",
+   "Tagline": "Joyous entertainment for every season, any year!!!!",
+   "Duur": 120,
+   "Omschrijving": "White Christmas, een heerlijke klassieker waarin dromen werkelijkheid worden. Meeslepende Irvin Berlin melodieën in een echte klassieke muziekfilm. Vlak na de oorlog komen twee zang- en danstalenten (Bing Crosby en Danny Kay) bij elkaar om een van de beroemdste acts in de geschiedenis van de showbizz neer te zetten. Zij ontmoeten twee zusjes (Rosemary Clooney en Vera-Ellen) met wie ze naar Vermont trekken om daar een ouderwetse witte kerst te vieren. Daar begint het echte avontuur als ze ontdekken dat het hotel waar ze verblijven eigendom is van hun oude legergeneraal, die zich in een enorme financiële crisis bevindt... Een prachtige klassieker waarin dromen geen bedrog zijn...",
+   "TrailerId": "3n3-UtakD3I",
+   "Toegevoegd": "2018-11-13 03:17:42.727",
+   "PosterPath": "/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 117251,
+   "Naam": "White House Down",
+   "ReleaseDate": "2013-06-27",
+   "Tagline": "It will start like any other day.",
+   "Duur": 131,
+   "Omschrijving": "Het Witte Huis in de Verenigde Staten wordt overvallen en bezet door een gevaarlijke paramilitaire groep. Een agent van de geheime dienst, John Cale (Channing Tatum), krijgt de belangrijke en zware taak om het leven van de Amerikaanse president te redden.",
+   "TrailerId": "_Q5vABZe7mc",
+   "Toegevoegd": "2018-02-25 00:00:00.000",
+   "PosterPath": "/niYdnzkrtBduR5lKtfeLXKXNaTT.jpg",
+   "CollectieID": 0
+ },
+ {
+   "ID": 395834,
+   "Naam": "Wind River",
+   "ReleaseDate": "2017-08-03",
+   "Tagline": "Nothing is harder to track than the truth.",
+   "Duur": 107,
+   "Omschrijving": "Cory Lambert is een ervaren speurder en jager die het bevroren lijk van een tiener ontdekt. Hij besluit samen te werken met de onervaren FBI-agent Jane Banner en de Tribal politie-officier Ben Shayo om te ontdekken wat er gebeurd is en de verantwoordelijken voor de gruwelijke misdaad op te sporen. Hoe dieper Cory, Jane en Ben in het onderzoek duiken hoe meer ze hun eigen levens op het spel zetten.",
+   "TrailerId": "CZgN0dpFoaE",
+   "Toegevoegd": "2018-06-27 00:00:00.000",
+   "PosterPath": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
    "CollectieID": 0
  },
  {
@@ -4494,10 +6558,22 @@
    "Tagline": "You Only Live Twice...and Twice is the only way to live!",
    "Duur": 117,
    "Omschrijving": "James Bond treedt handelend op, wanneer een bemande ruimte-vlucht gekaapt wordt, waardoor een atoom-oorlog dreigt uit te breken. In Japan komt hij op het spoor van de daders, de wereldwijd verbreide misdaad-organisatie S.P.E.C.T.R.E., waar de aartsvijand van Bond, Ernst Stavro Blofeld genaamd, de touwtjes in handen heeft. Met hulp van de Japanse geheime dienst zet Bond alles op alles om een Derde Wereldoorlog te voorkomen.",
-   "TrailerId": "-gGiYrS2Y1k",
+   "TrailerId": "#NAAM?",
    "Toegevoegd": "2018-12-14 16:54:38.453",
    "PosterPath": "/uKH9VrDOKkyhxORHhB2LuyHUbsY.jpg",
    "CollectieID": 645
+ },
+ {
+   "ID": 19908,
+   "Naam": "Zombieland",
+   "ReleaseDate": "2009-10-07",
+   "Tagline": "This place is so dead",
+   "Duur": 88,
+   "Omschrijving": "Twee mannen genaamd Columbus (Jesse Eissenberg) en Tallahassee (Woody Harrelson) moeten zien te overleven in een wereld die overbevolkt is door zombies. Tijdens hun strijd met overleving bundelen ze krachten met Wichita (Emma Stone) en Little Rock (Abigail Breslin), die ook een manier hebben gevonden om in leven te blijven. Tijdens hun strijd moeten ze zich afvragen wat erger is, van elkaar afhankelijk moeten zijn of toch maar aan de zombies overgeven.",
+   "TrailerId": null,
+   "Toegevoegd": "2019-03-05 10:44:31.720",
+   "PosterPath": "/vUzzDpVrab1BOG3ogxhRGfLN94d.jpg",
+   "CollectieID": 537982
  },
  {
    "ID": 269149,

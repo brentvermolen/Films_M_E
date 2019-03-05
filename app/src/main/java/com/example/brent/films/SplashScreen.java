@@ -69,19 +69,23 @@ public class SplashScreen extends AppCompatActivity {
 
                 List<ActeurFilm> lstAf;
 
-                for(ActeurFilm af : DAC.ActeurFilms){
+                for(ActeurFilm af : DAC.ActeurFilms) {
                     Acteur a = Methodes.FindActeurById(DAC.Acteurs, af.getActeurID());
                     Film f = Methodes.FindFilmById(DAC.Films, af.getFilmID());
 
-                    af.setActeur(a);
-                    af.setFilm(f);
+                    try {
+                        af.setActeur(a);
+                        af.setFilm(f);
 
-                    lstAf = a.getFilms();
-                    lstAf.add(af);
-                    a.setFilms(lstAf);
-                    lstAf = f.getActeurs();
-                    lstAf.add(af);
-                    f.setActeurs(lstAf);
+                        lstAf = a.getFilms();
+                        lstAf.add(af);
+                        a.setFilms(lstAf);
+                        lstAf = f.getActeurs();
+                        lstAf.add(af);
+                        f.setActeurs(lstAf);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
                 }
 
                 Type listTagType = new TypeToken<ArrayList<Tag>>(){}.getType();

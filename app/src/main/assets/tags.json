@@ -2,32 +2,32 @@
  {
    "ID": 8,
    "Naam": "Actie",
-   "Count": 168
+   "Count": 261
  },
  {
    "ID": 13,
    "Naam": "Animatie",
-   "Count": 48
+   "Count": 68
  },
  {
    "ID": 15,
    "Naam": "Avontuur",
-   "Count": 190
+   "Count": 266
  },
  {
    "ID": 4,
    "Naam": "Drama",
-   "Count": 89
+   "Count": 124
  },
  {
    "ID": 14,
    "Naam": "Familie",
-   "Count": 110
+   "Count": 144
  },
  {
    "ID": 9,
    "Naam": "Fantasie",
-   "Count": 79
+   "Count": 115
  },
  {
    "ID": 20,
@@ -37,47 +37,47 @@
  {
    "ID": 11,
    "Naam": "Horror",
-   "Count": 7
+   "Count": 11
  },
  {
    "ID": 7,
    "Naam": "Komedie",
-   "Count": 157
+   "Count": 219
  },
  {
    "ID": 10,
    "Naam": "Misdaad",
-   "Count": 49
+   "Count": 73
  },
  {
    "ID": 17,
    "Naam": "Muziek",
-   "Count": 13
+   "Count": 15
  },
  {
    "ID": 6,
    "Naam": "Mysterie",
-   "Count": 26
+   "Count": 39
  },
  {
    "ID": 12,
    "Naam": "Oorlog",
-   "Count": 9
+   "Count": 10
  },
  {
    "ID": 18,
    "Naam": "Romantiek",
-   "Count": 29
+   "Count": 56
  },
  {
    "ID": 5,
    "Naam": "Sciencefiction",
-   "Count": 57
+   "Count": 99
  },
  {
    "ID": 3,
    "Naam": "Thriller",
-   "Count": 100
+   "Count": 163
  },
  {
    "ID": 16,
@@ -87,6 +87,6 @@
  {
    "ID": 21,
    "Naam": "Western",
-   "Count": 6
+   "Count": 8
  }
 ]

@@ -94,7 +94,7 @@ public class Methodes {
         films.sort(new Comparator<Film>() {
             @Override
             public int compare(Film o1, Film o2) {
-                if (o1.getCollectieID() == o2.getCollectieID()){
+                if (o1.getCollectieID() == o2.getCollectieID() && o1.getCollectieID() != 0){
                     return o1.getReleaseDate().compareTo(o2.getReleaseDate());
                 }
 
