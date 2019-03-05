@@ -11,4 +11,11 @@
         android:icon="@drawable/ic_menu_search"
         app:showAsAction="always"></item>
 
+    <item
+        android:id="@+id/action_genres"
+        android:orderInCategory="200"
+        android:title="Categorieën beheren"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="ifRoom"></item>
+
 </menu>

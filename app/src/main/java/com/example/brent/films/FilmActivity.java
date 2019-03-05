@@ -27,7 +27,7 @@ import android.widget.Toast;
 import com.example.brent.films.Class.ActorsFilmGridView;
 import com.example.brent.films.Class.DAC;
 import com.example.brent.films.Class.FavorietenDAO;
-import com.example.brent.films.Class.FavorietenDb;
+import com.example.brent.films.Class.FilmsDb;
 import com.example.brent.films.Class.Methodes;
 import com.example.brent.films.Model.ActeurFilm;
 import com.example.brent.films.Model.Film;
@@ -86,7 +86,7 @@ public class FilmActivity extends AppCompatActivity {
             Toast.makeText(this, "De film werd niet gevonden", Toast.LENGTH_SHORT).show();
         }
 
-        dao = FavorietenDb.getDatabase(this).favorietenDAO();
+        dao = FilmsDb.getDatabase(this).favorietenDAO();
 
         initViews();
         handleEvents();
@@ -305,7 +305,7 @@ public class FilmActivity extends AppCompatActivity {
                     dao.deleteById(film.getID());
                 }
 
-                dao = FavorietenDb.getDatabase(FilmActivity.this).favorietenDAO();
+                dao = FilmsDb.getDatabase(FilmActivity.this).favorietenDAO();
 
                 break;
             case 16908332:

@@ -9,22 +9,24 @@ import android.content.Context;
 import android.support.annotation.NonNull;
 
 import com.example.brent.films.Model.Film;
+import com.example.brent.films.Model.Tag;
 
 import java.util.concurrent.Executors;
 
-@Database(entities =  {Film.class }, version = 1)
-public abstract class FavorietenDb extends RoomDatabase {
-    private static FavorietenDb INSTANCE;
-    private static final String DB_NAME = "favorits.db";
+@Database(entities =  {Film.class, Tag.class }, version = 1)
+public abstract class FilmsDb extends RoomDatabase {
+    private static FilmsDb INSTANCE;
+    private static final String DB_NAME = "Films.db";
 
     public abstract FavorietenDAO favorietenDAO();
+    public abstract GenresDAO genresDAO();
 
-    public static FavorietenDb getDatabase (final Context context){
+    public static FilmsDb getDatabase (final Context context){
         if (INSTANCE == null) {
-            synchronized (FavorietenDb.class) {
+            synchronized (FilmsDb.class) {
                 if (INSTANCE == null) {
                     INSTANCE = Room.databaseBuilder(context.getApplicationContext(),
-                            FavorietenDb.class, DB_NAME)
+                            FilmsDb.class, DB_NAME)
                             .allowMainThreadQueries() // SHOULD NOT BE USED IN PRODUCTION !!!
                             .addCallback(new RoomDatabase.Callback() {
                                 @Override
@@ -56,13 +58,16 @@ public abstract class FavorietenDb extends RoomDatabase {
 
     private static class EmptyAndFillDbAsync {
         private final FavorietenDAO favorietenDao;
+        private final GenresDAO genresDAO;
 
-        public EmptyAndFillDbAsync(FavorietenDb instance) {
+        public EmptyAndFillDbAsync(FilmsDb instance) {
             favorietenDao = instance.favorietenDAO();
+            genresDAO = instance.genresDAO();
         }
 
         protected Void insertData() {
             favorietenDao.deleteAll();
+            genresDAO.deleteAll();
 
             return null;
         }

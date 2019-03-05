@@ -33,6 +33,18 @@
         <item name="android:minHeight">0dp</item>
     </style>
 
+    <style name="toggleButtonGenre">
+        <item name="android:background">@drawable/background_toggle_genre</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">35dp</item>
+        <item name="android:paddingRight">35dp</item>
+        <item name="android:layout_marginLeft">7dp</item>
+        <item name="android:layout_marginRight">7dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:minHeight">0dp</item>
+    </style>
+
     <style name="btnTagFilmDetail">
         <item name="android:background">@drawable/background_btn_tag_film_detail</item>
         <item name="android:paddingLeft">10dp</item>

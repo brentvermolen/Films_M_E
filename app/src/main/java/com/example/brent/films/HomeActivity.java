@@ -18,11 +18,10 @@ import android.widget.GridView;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.Toast;
 
 import com.example.brent.films.Class.DAC;
 import com.example.brent.films.Class.FavorietenDAO;
-import com.example.brent.films.Class.FavorietenDb;
+import com.example.brent.films.Class.FilmsDb;
 import com.example.brent.films.Class.MoviesGridView;
 import com.example.brent.films.Class.Methodes;
 import com.example.brent.films.Model.Collectie;
@@ -62,7 +61,7 @@ public class HomeActivity extends AppCompatActivity {
 
         currentlyShown = DAC.Films;
 
-        dao = FavorietenDb.getDatabase(this).favorietenDAO();
+        dao = FilmsDb.getDatabase(this).favorietenDAO();
 
         initViews();
         handleEvents();
@@ -198,6 +197,10 @@ public class HomeActivity extends AppCompatActivity {
             case R.id.action_search:
                 Intent intent = new Intent(HomeActivity.this, ZoekenActivity.class);
                 startActivity(intent);
+                break;
+            case R.id.action_genres:
+                Intent intent1 = new Intent(HomeActivity.this, GenresActivity.class);
+                startActivity(intent1);
                 break;
             default:
                 super.onOptionsItemSelected(item);
