@@ -1,4 +1,4 @@
-package com.example.brent.films.Model;
+package com.example.brent.films_m_e.Model;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.Ignore;

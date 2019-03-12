@@ -1,10 +1,10 @@
-package com.example.brent.films.Class;
+package com.example.brent.films_m_e.Class;
 
 import android.arch.persistence.room.Dao;
 import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.Query;
 
-import com.example.brent.films.Model.Film;
+import com.example.brent.films_m_e.Model.Film;
 
 import java.util.List;
 

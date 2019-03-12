@@ -1,4 +1,4 @@
-package com.example.brent.films.Class;
+package com.example.brent.films_m_e.Class;
 
 import android.arch.persistence.room.TypeConverter;
 

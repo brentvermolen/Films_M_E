@@ -1,4 +1,4 @@
-package com.example.brent.films;
+package com.example.brent.films_m_e;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

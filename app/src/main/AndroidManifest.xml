@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.brent.films">
+    package="com.example.brent.films_m_e">
 
     <application
         android:allowBackup="true"
@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoBar">
-        <activity android:name=".HomeActivity" />
+        <activity android:name="com.example.brent.films_m_e.HomeActivity" />
         <activity
-            android:name=".SplashScreen"
+            android:name="com.example.brent.films_m_e.SplashScreen"
             android:noHistory="true"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -20,10 +20,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FilmActivity" android:screenOrientation="portrait" />
-        <activity android:name=".ActeurActivity" android:screenOrientation="portrait" />
-        <activity android:name=".ZoekenActivity" android:screenOrientation="portrait" />
-        <activity android:name=".GenresActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name="com.example.brent.films_m_e.FilmActivity" android:screenOrientation="portrait" />
+        <activity android:name="com.example.brent.films_m_e.ActeurActivity" android:screenOrientation="portrait" />
+        <activity android:name="com.example.brent.films_m_e.ZoekenActivity" android:screenOrientation="portrait" />
+        <activity android:name="com.example.brent.films_m_e.GenresActivity" android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>

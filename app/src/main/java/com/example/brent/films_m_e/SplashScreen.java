@@ -1,4 +1,4 @@
-package com.example.brent.films;
+package com.example.brent.films_m_e;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -7,14 +7,14 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-import com.example.brent.films.Class.DAC;
-import com.example.brent.films.Class.Methodes;
-import com.example.brent.films.Model.Acteur;
-import com.example.brent.films.Model.ActeurFilm;
-import com.example.brent.films.Model.Collectie;
-import com.example.brent.films.Model.Film;
-import com.example.brent.films.Model.FilmTags;
-import com.example.brent.films.Model.Tag;
+import com.example.brent.films_m_e.Class.DAC;
+import com.example.brent.films_m_e.Class.Methodes;
+import com.example.brent.films_m_e.Model.Acteur;
+import com.example.brent.films_m_e.Model.ActeurFilm;
+import com.example.brent.films_m_e.Model.Collectie;
+import com.example.brent.films_m_e.Model.Film;
+import com.example.brent.films_m_e.Model.FilmTags;
+import com.example.brent.films_m_e.Model.Tag;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 

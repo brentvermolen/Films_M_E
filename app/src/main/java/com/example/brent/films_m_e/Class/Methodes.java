@@ -1,4 +1,4 @@
-package com.example.brent.films.Class;
+package com.example.brent.films_m_e.Class;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -10,10 +10,10 @@ import android.graphics.PorterDuffXfermode;
 import android.graphics.Rect;
 import android.graphics.RectF;
 
-import com.example.brent.films.Model.Acteur;
-import com.example.brent.films.Model.Collectie;
-import com.example.brent.films.Model.Film;
-import com.example.brent.films.Model.Tag;
+import com.example.brent.films_m_e.Model.Acteur;
+import com.example.brent.films_m_e.Model.Collectie;
+import com.example.brent.films_m_e.Model.Film;
+import com.example.brent.films_m_e.Model.Tag;
 
 import java.io.IOException;
 import java.util.ArrayList;

@@ -12,6 +12,13 @@
         app:showAsAction="always"></item>
 
     <item
+        android:id="@+id/action_sort"
+        android:orderInCategory="200"
+        android:title="Sorteren"
+        android:icon="@drawable/ic_sort"
+        app:showAsAction="always"></item>
+
+    <item
         android:id="@+id/action_genres"
         android:orderInCategory="200"
         android:title="Categorieën beheren"

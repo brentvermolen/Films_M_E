@@ -1,11 +1,11 @@
-package com.example.brent.films.Model;
+package com.example.brent.films_m_e.Model;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.Ignore;
 import android.arch.persistence.room.PrimaryKey;
 import android.arch.persistence.room.TypeConverters;
 
-import com.example.brent.films.Class.TimeStampConverter;
+import com.example.brent.films_m_e.Class.TimeStampConverter;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -104,7 +104,7 @@ public class Film {
         Genres = genres;
     }
 
-    public void setCollectie(com.example.brent.films.Model.Collectie collectie) {
+    public void setCollectie(com.example.brent.films_m_e.Model.Collectie collectie) {
         Collectie = collectie;
     }
 

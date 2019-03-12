@@ -1,4 +1,4 @@
-package com.example.brent.films.Class;
+package com.example.brent.films_m_e.Class;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -8,11 +8,10 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
 
-import com.example.brent.films.Model.Film;
-import com.example.brent.films.R;
+import com.example.brent.films_m_e.Model.Film;
+import com.example.brent.films_m_e.R;
 
 import java.io.IOException;
-import java.lang.reflect.Method;
 import java.util.List;
 
 public class MoviesGridView extends BaseAdapter {

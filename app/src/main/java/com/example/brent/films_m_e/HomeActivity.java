@@ -1,6 +1,7 @@
-package com.example.brent.films;
+package com.example.brent.films_m_e;
 
 import android.annotation.SuppressLint;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.res.ColorStateList;
 import android.content.res.XmlResourceParser;
@@ -20,15 +21,16 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.example.brent.films.Class.DAC;
-import com.example.brent.films.Class.FavorietenDAO;
-import com.example.brent.films.Class.FilmsDb;
-import com.example.brent.films.Class.GenresDAO;
-import com.example.brent.films.Class.MoviesGridView;
-import com.example.brent.films.Class.Methodes;
-import com.example.brent.films.Model.Collectie;
-import com.example.brent.films.Model.Film;
-import com.example.brent.films.Model.Tag;
+import com.example.brent.films_m_e.Class.DAC;
+import com.example.brent.films_m_e.Class.DialogSorterenOp;
+import com.example.brent.films_m_e.Class.FavorietenDAO;
+import com.example.brent.films_m_e.Class.FilmsDb;
+import com.example.brent.films_m_e.Class.GenresDAO;
+import com.example.brent.films_m_e.Class.MoviesGridView;
+import com.example.brent.films_m_e.Class.Methodes;
+import com.example.brent.films_m_e.Model.Collectie;
+import com.example.brent.films_m_e.Model.Film;
+import com.example.brent.films_m_e.Model.Tag;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -51,6 +53,9 @@ public class HomeActivity extends AppCompatActivity {
     GridView grdMovies;
 
     List<Film> currentlyShown;
+
+    private int currentSort;
+    private boolean currentSortDesc;
 
     private List<Button> btns = new ArrayList<>();
 
@@ -183,9 +188,11 @@ public class HomeActivity extends AppCompatActivity {
     }
 
     private void showFilms(List<Film> films){
-        films = Methodes.SortFilmsByNameAndCollection(films);
+        setTitle(films.size() + " Films");
 
         currentlyShown = films;
+
+        sortCurrentlyShown();
         grdMovies.setAdapter(new MoviesGridView(this, films));
 
         grdMovies.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -196,6 +203,47 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+    }
+
+    private void sortCurrentlyShown() {
+        switch (currentSort){
+            case 0:
+                currentlyShown.sort(new Comparator<Film>() {
+                    @Override
+                    public int compare(Film o1, Film o2) {
+                        if (currentSortDesc){
+                            return o2.getNaam().compareTo(o1.getNaam());
+                        }else{
+                            return o1.getNaam().compareTo(o2.getNaam());
+                        }
+                    }
+                });
+                break;
+            case 1:
+                currentlyShown.sort(new Comparator<Film>() {
+                    @Override
+                    public int compare(Film o1, Film o2) {
+                        if (currentSortDesc){
+                            return o2.getReleaseDate().compareTo(o1.getReleaseDate());
+                        }else{
+                            return o1.getReleaseDate().compareTo(o2.getReleaseDate());
+                        }
+                    }
+                });
+                break;
+            case 2:
+                currentlyShown.sort(new Comparator<Film>() {
+                    @Override
+                    public int compare(Film o1, Film o2) {
+                        if (currentSortDesc){
+                            return o2.getDuur() - o1.getDuur();
+                        }else {
+                            return o1.getDuur() - o2.getDuur();
+                        }
+                    }
+                });
+                break;
+        }
     }
 
     @Override
@@ -216,6 +264,23 @@ public class HomeActivity extends AppCompatActivity {
             case R.id.action_genres:
                 Intent intent1 = new Intent(HomeActivity.this, GenresActivity.class);
                 startActivityForResult(intent1, 1);
+                break;
+            case R.id.action_sort:
+                final DialogSorterenOp dialogSorterenOp = new DialogSorterenOp(HomeActivity.this, currentSort, currentSortDesc);
+
+                dialogSorterenOp.setPositiveButton("Sorteer", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        currentSort = dialogSorterenOp.getSpinnerValue();
+                        currentSortDesc = dialogSorterenOp.getDescending();
+
+                        showFilms(currentlyShown);
+                    }
+                }).setNegativeButton("Stop", null);
+
+                dialogSorterenOp.show();
+
+
                 break;
             default:
                 super.onOptionsItemSelected(item);

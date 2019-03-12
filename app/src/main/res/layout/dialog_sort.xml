@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/lblTitel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sorteren Op"
+        android:textSize="50dp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:background="@color/colorPrimary"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="right">
+
+            <Spinner
+                android:id="@+id/cboSorterenOp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp">
+            </Spinner>
+
+            <CheckBox
+                android:id="@+id/chkDescending"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Omdraaien"
+                android:textSize="30dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,4 +1,4 @@
-package com.example.brent.films.Class;
+package com.example.brent.films_m_e.Class;
 
 
 import android.arch.persistence.db.SupportSQLiteDatabase;
@@ -8,8 +8,8 @@ import android.arch.persistence.room.RoomDatabase;
 import android.content.Context;
 import android.support.annotation.NonNull;
 
-import com.example.brent.films.Model.Film;
-import com.example.brent.films.Model.Tag;
+import com.example.brent.films_m_e.Model.Film;
+import com.example.brent.films_m_e.Model.Tag;
 
 import java.util.concurrent.Executors;
 

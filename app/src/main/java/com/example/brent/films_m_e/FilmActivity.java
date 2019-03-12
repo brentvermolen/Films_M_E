@@ -1,4 +1,4 @@
-package com.example.brent.films;
+package com.example.brent.films_m_e;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -24,14 +24,14 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.brent.films.Class.ActorsFilmGridView;
-import com.example.brent.films.Class.DAC;
-import com.example.brent.films.Class.FavorietenDAO;
-import com.example.brent.films.Class.FilmsDb;
-import com.example.brent.films.Class.Methodes;
-import com.example.brent.films.Model.ActeurFilm;
-import com.example.brent.films.Model.Film;
-import com.example.brent.films.Model.Tag;
+import com.example.brent.films_m_e.Class.ActorsFilmGridView;
+import com.example.brent.films_m_e.Class.DAC;
+import com.example.brent.films_m_e.Class.FavorietenDAO;
+import com.example.brent.films_m_e.Class.FilmsDb;
+import com.example.brent.films_m_e.Class.Methodes;
+import com.example.brent.films_m_e.Model.ActeurFilm;
+import com.example.brent.films_m_e.Model.Film;
+import com.example.brent.films_m_e.Model.Tag;
 
 import java.io.IOException;
 import java.util.Calendar;
@@ -158,7 +158,13 @@ public class FilmActivity extends AppCompatActivity {
         }else{
             lblCollectie.setText(film.getCollectie().getNaam());
 
-            for (final Film f : Methodes.SortFilmsByNameAndCollection(film.getCollectie().getFilms())){
+            film.getCollectie().getFilms().sort(new Comparator<Film>() {
+                @Override
+                public int compare(Film o1, Film o2) {
+                    return o1.getReleaseDate().compareTo(o2.getReleaseDate());
+                }
+            });
+            for (final Film f : film.getCollectie().getFilms()){
                 ImageView img = new ImageView(this);
                 img.setId(f.getID());
 

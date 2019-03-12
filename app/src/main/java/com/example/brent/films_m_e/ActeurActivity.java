@@ -1,4 +1,4 @@
-package com.example.brent.films;
+package com.example.brent.films_m_e;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -14,12 +14,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.brent.films.Class.DAC;
-import com.example.brent.films.Class.Methodes;
-import com.example.brent.films.Class.MoviesGridView;
-import com.example.brent.films.Model.Acteur;
-import com.example.brent.films.Model.ActeurFilm;
-import com.example.brent.films.Model.Film;
+import com.example.brent.films_m_e.Class.DAC;
+import com.example.brent.films_m_e.Class.Methodes;
+import com.example.brent.films_m_e.Class.MoviesGridView;
+import com.example.brent.films_m_e.Model.Acteur;
+import com.example.brent.films_m_e.Model.ActeurFilm;
+import com.example.brent.films_m_e.Model.Film;
 
 import java.io.IOException;
 import java.util.ArrayList;

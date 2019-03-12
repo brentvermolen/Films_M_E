@@ -1,4 +1,4 @@
-package com.example.brent.films.Model;
+package com.example.brent.films_m_e.Model;
 
 public class FilmTags {
     private int Film_ID;

@@ -1,4 +1,4 @@
-package com.example.brent.films;
+package com.example.brent.films_m_e;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -17,12 +17,12 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.example.brent.films.Class.ActorsGridView;
-import com.example.brent.films.Class.DAC;
-import com.example.brent.films.Class.Methodes;
-import com.example.brent.films.Class.MoviesGridView;
-import com.example.brent.films.Model.Acteur;
-import com.example.brent.films.Model.Film;
+import com.example.brent.films_m_e.Class.ActorsGridView;
+import com.example.brent.films_m_e.Class.DAC;
+import com.example.brent.films_m_e.Class.Methodes;
+import com.example.brent.films_m_e.Class.MoviesGridView;
+import com.example.brent.films_m_e.Model.Acteur;
+import com.example.brent.films_m_e.Model.Film;
 
 import java.io.IOException;
 import java.util.Comparator;

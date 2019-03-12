@@ -1,4 +1,4 @@
-package com.example.brent.films.Model;
+package com.example.brent.films_m_e.Model;
 
 import java.util.ArrayList;
 import java.util.List;

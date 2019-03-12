@@ -1,6 +1,6 @@
-package com.example.brent.films.Class;
+package com.example.brent.films_m_e.Class;
 
-import com.example.brent.films.Model.*;
+import com.example.brent.films_m_e.Model.*;
 
 import java.util.List;
 

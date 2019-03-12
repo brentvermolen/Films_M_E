@@ -1,4 +1,4 @@
-package com.example.brent.films;
+package com.example.brent.films_m_e;
 
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.widget.ListView;
 
-import com.example.brent.films.Class.GenresAdapter;
+import com.example.brent.films_m_e.Class.GenresAdapter;
 
 public class GenresActivity extends AppCompatActivity {
 
